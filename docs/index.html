@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>⭐ Stars Archive</title>
+<!-- Inline favicon (a star) so the page is fully self-contained — no external request. -->
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%2016'%3E%3Ctext%20y='14'%20font-size='14'%3E%E2%AD%90%3C/text%3E%3C/svg%3E">
+<meta name="color-scheme" content="light dark">
+<style>
+  /* ---- Theme tokens (light + dark via prefers-color-scheme) ------------- */
+  :root {
+    --bg: #ffffff;
+    --surface: #f6f8fa;
+    --surface-2: #eaeef2;
+    --text: #1f2328;
+    --muted: #656d76;
+    --border: #d0d7de;
+    --accent: #0969da;
+    --chip-bg: #ddf4ff;
+    --chip-text: #0550ae;
+    --gone-bg: #fff8c5;
+    --gone-text: #7d4e00;
+    --star: #eac54f;
+    --focus: #0969da;
+    --shadow: 0 1px 3px rgba(31, 35, 40, 0.08);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0d1117;
+      --surface: #161b22;
+      --surface-2: #21262d;
+      --text: #e6edf3;
+      --muted: #8b949e;
+      --border: #30363d;
+      --accent: #2f81f7;
+      --chip-bg: #388bfd26;
+      --chip-text: #79c0ff;
+      --gone-bg: #bb800926;
+      --gone-text: #e3b341;
+      --star: #e3b341;
+      --focus: #2f81f7;
+      --shadow: none;
+    }
+  }
+
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    overflow-x: hidden; /* guard against sub-pixel flex rounding on narrow screens */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  :focus-visible {
+    outline: 2px solid var(--focus);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+
+  .wrap { max-width: 960px; margin: 0 auto; padding: 24px 16px 64px; }
+
+  /* ---- Header ----------------------------------------------------------- */
+  header h1 { margin: 0 0 6px; font-size: 1.6rem; display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+  .stats { color: var(--muted); font-size: 0.95rem; display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
+  .stats strong { color: var(--text); font-variant-numeric: tabular-nums; }
+  .dot { width: 4px; height: 4px; border-radius: 50%; background: var(--border); display: inline-block; }
+
+  /* ---- Controls --------------------------------------------------------- */
+  .controls {
+    position: sticky; top: 0; z-index: 5;
+    background: var(--bg);
+    padding: 14px 0 12px;
+    margin-top: 18px;
+    border-bottom: 1px solid var(--border);
+  }
+  .row { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+  .row + .row { margin-top: 10px; }
+
+  input[type="search"], select {
+    font: inherit; color: var(--text);
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 8px; padding: 8px 10px;
+  }
+  input[type="search"] { flex: 1 1 260px; min-width: 180px; }
+  select { flex: 0 1 auto; cursor: pointer; }
+  label.field { display: flex; flex-direction: column; gap: 4px; font-size: 0.78rem; color: var(--muted); }
+  label.field select { margin: 0; }
+
+  /* Segmented status toggle (radio group) */
+  .seg { display: inline-flex; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; padding: 0; margin: 0; }
+  .seg legend { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  .seg label { padding: 8px 14px; cursor: pointer; font-size: 0.9rem; background: var(--surface); border-left: 1px solid var(--border); user-select: none; }
+  .seg label:first-of-type { border-left: none; }
+  .seg input { position: absolute; opacity: 0; width: 1px; height: 1px; }
+  .seg input:checked + span { color: #fff; }
+  .seg label:has(input:checked) { background: var(--accent); color: #fff; }
+  .seg label:has(input:focus-visible) { outline: 2px solid var(--focus); outline-offset: -2px; }
+
+  .count { color: var(--muted); font-size: 0.9rem; font-variant-numeric: tabular-nums; }
+
+  /* ---- Repo list -------------------------------------------------------- */
+  ul.repos { list-style: none; margin: 16px 0 0; padding: 0; }
+  li.repo {
+    padding: 14px 4px; border-bottom: 1px solid var(--border);
+  }
+  .repo-head { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+  .repo-name { font-size: 1.02rem; font-weight: 600; overflow-wrap: anywhere; }
+  .repo-desc { margin: 4px 0 8px; color: var(--text); overflow-wrap: anywhere; }
+  .repo-meta { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; font-size: 0.85rem; color: var(--muted); min-width: 0; }
+  .repo-meta > * { min-width: 0; overflow-wrap: anywhere; }
+  .chip {
+    background: var(--chip-bg); color: var(--chip-text);
+    border-radius: 999px; padding: 2px 10px; font-size: 0.8rem; font-weight: 500;
+  }
+  .stars { color: var(--muted); font-variant-numeric: tabular-nums; }
+  .stars .ico { color: var(--star); }
+  .topics { color: var(--muted); font-size: 0.82rem; }
+
+  li.repo.gone { opacity: 0.62; }
+  li.repo.gone .repo-name { color: var(--text); } /* keep readable even if link 404s */
+  .badge {
+    background: var(--gone-bg); color: var(--gone-text);
+    border-radius: 999px; padding: 2px 10px; font-size: 0.75rem; font-weight: 600;
+    white-space: nowrap;
+  }
+
+  /* ---- Empty / status states ------------------------------------------- */
+  .notice {
+    margin: 48px auto; max-width: 560px; text-align: center;
+    background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
+    padding: 32px 24px; box-shadow: var(--shadow);
+  }
+  .notice h2 { margin: 0 0 8px; font-size: 1.15rem; }
+  .notice p { margin: 6px 0; color: var(--muted); }
+  .notice code { background: var(--surface-2); padding: 2px 6px; border-radius: 6px; font-size: 0.85em; }
+  .hidden { display: none !important; }
+
+  footer { margin-top: 40px; color: var(--muted); font-size: 0.82rem; text-align: center; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>⭐ Stars Archive</h1>
+    <div class="stats" id="stats" aria-live="polite"></div>
+  </header>
+
+  <!-- Main app (hidden until data loads) -->
+  <section id="app" class="hidden" aria-label="Starred repositories">
+    <div class="controls">
+      <div class="row">
+        <input type="search" id="search" placeholder="Search name, description, topics, language…"
+               aria-label="Search repositories" autocomplete="off" spellcheck="false">
+        <label class="field">Language
+          <select id="lang" aria-label="Filter by language"></select>
+        </label>
+        <label class="field">Sort
+          <select id="sort" aria-label="Sort repositories">
+            <option value="stars">Most stars</option>
+            <option value="starred">Recently starred</option>
+            <option value="added">Recently added</option>
+            <option value="name">Name (A–Z)</option>
+          </select>
+        </label>
+      </div>
+      <div class="row">
+        <fieldset class="seg" id="status" role="radiogroup" aria-label="Status filter">
+          <legend>Status</legend>
+          <label><input type="radio" name="status" value="active"><span>Active</span></label>
+          <label><input type="radio" name="status" value="gone"><span>Gone</span></label>
+          <label><input type="radio" name="status" value="all" checked><span>All</span></label>
+        </fieldset>
+        <span class="count" id="count" aria-live="polite"></span>
+      </div>
+    </div>
+
+    <ul class="repos" id="list"></ul>
+  </section>
+
+  <!-- Empty / error state -->
+  <section id="empty" class="notice hidden">
+    <h2>No archive yet</h2>
+    <p>There's no <code>stars.json</code> data to show.</p>
+    <p>Run the <strong>Archive Stars</strong> workflow (Actions → Archive Stars →
+       Run workflow), then this page will populate on the next Pages deploy.</p>
+  </section>
+
+  <footer>
+    Rendered entirely in your browser from <code>stars.json</code> · append-only star archive
+  </footer>
+</div>
+
+<script>
+(function () {
+  "use strict";
+
+  // ---- Helpers ----------------------------------------------------------
+  var ESC = { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" };
+  function esc(s) {
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return ESC[c]; });
+  }
+  function fmtStars(n) { return (Number(n) || 0).toLocaleString(); }
+  function fmtDate(iso) {
+    if (!iso) return "";
+    var d = new Date(iso);
+    if (isNaN(d.getTime())) return "";
+    return d.toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" });
+  }
+  // Descending date compare with nulls sorted last.
+  function cmpDateDesc(a, b) {
+    if (!a && !b) return 0;
+    if (!a) return 1;
+    if (!b) return -1;
+    return a < b ? 1 : (a > b ? -1 : 0);
+  }
+  function debounce(fn, ms) {
+    var t;
+    return function () {
+      clearTimeout(t);
+      t = setTimeout(fn, ms);
+    };
+  }
+  var SAFE_URL = /^https?:\/\//i;
+
+  // ---- Element refs -----------------------------------------------------
+  var $ = function (id) { return document.getElementById(id); };
+  var elApp = $("app"), elEmpty = $("empty"), elStats = $("stats");
+  var elSearch = $("search"), elLang = $("lang"), elSort = $("sort"), elStatus = $("status");
+  var elList = $("list"), elCount = $("count");
+
+  var RECORDS = [];   // normalized, with precomputed search haystack
+  var state = { q: "", lang: "", status: "all", sort: "stars" };
+
+  // ---- Load -------------------------------------------------------------
+  fetch("./stars.json", { cache: "no-cache" })
+    .then(function (r) {
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      return r.json();
+    })
+    .then(function (data) {
+      var repos = (data && data.repos) || {};
+      var keys = Object.keys(repos);
+      if (!keys.length) { showEmpty(); return; }
+      init(repos, keys);
+    })
+    .catch(function () { showEmpty(); });
+
+  function showEmpty() {
+    elApp.classList.add("hidden");
+    elEmpty.classList.remove("hidden");
+    elStats.textContent = "";
+  }
+
+  // ---- Init -------------------------------------------------------------
+  function init(repos, keys) {
+    var active = 0, gone = 0, lastSeen = "";
+    var langCounts = Object.create(null);
+
+    RECORDS = keys.map(function (k) {
+      var r = repos[k];
+      var lang = r.language || "Other";
+      if (r.status === "gone") gone++; else active++;
+      if (r.last_seen && r.last_seen > lastSeen) lastSeen = r.last_seen;
+      langCounts[lang] = (langCounts[lang] || 0) + 1;
+
+      var topics = Array.isArray(r.topics) ? r.topics : [];
+      var hay = (
+        (r.full_name || "") + " " +
+        (r.description || "") + " " +
+        topics.join(" ") + " " +
+        (r.language || "")
+      ).toLowerCase();
+
+      return {
+        full_name: r.full_name || k,
+        html_url: r.html_url || "",
+        description: r.description || "",
+        language: r.language || null,
+        langKey: lang,
+        stars: Number(r.stars) || 0,
+        topics: topics,
+        starred_at: r.starred_at || null,
+        first_seen: r.first_seen || null,
+        gone_since: r.gone_since || null,
+        status: r.status === "gone" ? "gone" : "active",
+        hay: hay
+      };
+    });
+
+    // Header stats.
+    elStats.innerHTML =
+      "<span><strong>" + RECORDS.length + "</strong> total</span>" +
+      '<span class="dot"></span>' +
+      "<span><strong>" + active + "</strong> active</span>" +
+      '<span class="dot"></span>' +
+      "<span><strong>" + gone + "</strong> gone</span>" +
+      (lastSeen ? '<span class="dot"></span><span>updated ' + esc(fmtDate(lastSeen)) + "</span>" : "");
+
+    // Language selector, ordered by count desc then name.
+    var langs = Object.keys(langCounts).sort(function (a, b) {
+      return langCounts[b] - langCounts[a] || a.localeCompare(b);
+    });
+    var opts = ['<option value="">All languages (' + RECORDS.length + ")</option>"];
+    langs.forEach(function (l) {
+      opts.push('<option value="' + esc(l) + '">' + esc(l) + " (" + langCounts[l] + ")</option>");
+    });
+    elLang.innerHTML = opts.join("");
+
+    // Wire events.
+    elSearch.addEventListener("input", debounce(function () {
+      state.q = elSearch.value.trim().toLowerCase();
+      apply();
+    }, 150));
+    elLang.addEventListener("change", function () { state.lang = elLang.value; apply(); });
+    elSort.addEventListener("change", function () { state.sort = elSort.value; apply(); });
+    elStatus.addEventListener("change", function (e) {
+      if (e.target && e.target.name === "status") { state.status = e.target.value; apply(); }
+    });
+
+    elEmpty.classList.add("hidden");
+    elApp.classList.remove("hidden");
+    apply();
+  }
+
+  // ---- Filter + sort + render ------------------------------------------
+  var SORTERS = {
+    stars: function (a, b) { return b.stars - a.stars || a.full_name.localeCompare(b.full_name); },
+    starred: function (a, b) { return cmpDateDesc(a.starred_at, b.starred_at) || a.full_name.localeCompare(b.full_name); },
+    added: function (a, b) { return cmpDateDesc(a.first_seen, b.first_seen) || a.full_name.localeCompare(b.full_name); },
+    name: function (a, b) { return a.full_name.toLowerCase().localeCompare(b.full_name.toLowerCase()); }
+  };
+
+  function apply() {
+    var q = state.q, lang = state.lang, status = state.status;
+    var out = [];
+    for (var i = 0; i < RECORDS.length; i++) {
+      var r = RECORDS[i];
+      if (status !== "all" && r.status !== status) continue;
+      if (lang && r.langKey !== lang) continue;
+      if (q && r.hay.indexOf(q) === -1) continue;
+      out.push(r);
+    }
+    out.sort(SORTERS[state.sort] || SORTERS.stars);
+    render(out);
+    elCount.textContent = "showing " + out.length.toLocaleString() +
+      " of " + RECORDS.length.toLocaleString();
+  }
+
+  function render(rows) {
+    var html = new Array(rows.length);
+    for (var i = 0; i < rows.length; i++) {
+      var r = rows[i];
+      var gone = r.status === "gone";
+      var nameHTML = SAFE_URL.test(r.html_url)
+        ? '<a class="repo-name" href="' + esc(r.html_url) + '" target="_blank" rel="noopener noreferrer">' + esc(r.full_name) + "</a>"
+        : '<span class="repo-name">' + esc(r.full_name) + "</span>";
+      var badge = gone
+        ? '<span class="badge">gone since ' + esc(fmtDate(r.gone_since)) + "</span>"
+        : "";
+      var desc = r.description
+        ? '<p class="repo-desc">' + esc(r.description) + "</p>"
+        : "";
+      var starredMeta = r.starred_at
+        ? '<span class="date">starred ' + esc(fmtDate(r.starred_at)) + "</span>"
+        : "";
+      var topics = r.topics.length
+        ? '<span class="topics">' + esc(r.topics.slice(0, 6).join(" · ")) + "</span>"
+        : "";
+
+      html[i] =
+        '<li class="repo' + (gone ? " gone" : "") + '">' +
+          '<div class="repo-head">' + nameHTML + badge + "</div>" +
+          desc +
+          '<div class="repo-meta">' +
+            '<span class="chip">' + esc(r.langKey) + "</span>" +
+            '<span class="stars"><span class="ico">★</span> ' + fmtStars(r.stars) + "</span>" +
+            starredMeta +
+            topics +
+          "</div>" +
+        "</li>";
+    }
+    elList.innerHTML = html.join("");
+  }
+})();
+</script>
+</body>
+</html>

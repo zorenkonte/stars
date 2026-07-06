@@ -12,6 +12,29 @@ starred repositories, rendered to Markdown by a scheduled GitHub Action.
 > These three files are generated on the first workflow run — don't hand-author
 > them.
 
+## Web reader
+
+A static, browsable view of the archive is published to GitHub Pages:
+
+**➡️ https://zorenkonte.github.io/stars/**
+
+It's a single self-contained page (`docs/index.html` — vanilla HTML/CSS/JS, no
+build step, no frameworks, no CDNs) that reads `stars.json` in your browser and
+gives you live search (across name, description, topics, language), a language
+filter with counts, an active/gone/all toggle, and sorting by stars, most
+recently starred, most recently added, or name. Gone repos are shown muted with
+a "gone since" badge. It follows your system light/dark preference.
+
+The [`pages.yml`](.github/workflows/pages.yml) workflow deploys it on every push
+to `main` that touches `stars.json` or `docs/**`, so the site refreshes right
+after each daily archive commit. It bundles a copy of `stars.json` next to
+`index.html` at deploy time (Pages can't serve a root-level `../stars.json`), and
+the page fetches `./stars.json` from its own directory.
+
+**One-time setup:** in **Settings → Pages → Source**, select **"GitHub
+Actions"**. (Then run the *Deploy Pages* workflow once, or wait for the next push
+to `main`.)
+
 ## Why append-only?
 
 GitHub's "starred" API only ever returns repositories that **currently exist
