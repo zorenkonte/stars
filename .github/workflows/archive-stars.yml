@@ -1,0 +1,60 @@
+name: Archive Stars
+
+# Maintains an append-only archive of zorenkonte's starred repositories.
+# Runs on a daily schedule and can be triggered manually.
+
+on:
+  schedule:
+    # 06:17 UTC every day (off-the-hour to avoid GitHub's cron congestion).
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+# Needed so the commit step can push the regenerated files back to the repo.
+permissions:
+  contents: write
+
+# Avoid overlapping runs stepping on each other's commit.
+concurrency:
+  group: archive-stars
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update star archive
+        env:
+          STARS_USERNAME: zorenkonte
+          # The built-in token is enough for PUBLIC starred repos (5,000
+          # requests/hour). It is scoped to this repo and can push commits.
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # DAILY_COUNT: "10"   # how many repos TODAY.md surfaces each run
+          #
+          # --- To also archive PRIVATE starred repos ---------------------- #
+          # 1. Create a classic PAT with the `repo` scope (or a fine-grained
+          #    token that can read the repos you starred).
+          # 2. Save it as the repository secret STARS_TOKEN.
+          # 3. Uncomment the two lines below (they override the public setup):
+          # GH_TOKEN: ${{ secrets.STARS_TOKEN }}
+          # USE_AUTH_USER: "true"
+        run: python scripts/archive_stars.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(stars): update archive $(date -u +%Y-%m-%d)"
+            git push
+          fi
