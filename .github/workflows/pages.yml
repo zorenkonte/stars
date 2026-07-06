@@ -1,0 +1,60 @@
+name: Deploy Pages
+
+# Publishes the static web reader (docs/index.html) to GitHub Pages, bundling a
+# copy of the current stars.json alongside it so the page can fetch "./stars.json"
+# from its own directory (GitHub Pages can't serve a root-level ../stars.json).
+
+on:
+  push:
+    branches: [main]
+    # Redeploy whenever the daily archive commit updates the data, or the reader
+    # itself changes.
+    paths:
+      - stars.json
+      - docs/**
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one deploy at a time; let an in-progress production deploy finish rather
+# than cancelling it.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Assemble site (index.html + a sibling copy of stars.json)
+        run: |
+          mkdir -p _site
+          cp docs/index.html _site/index.html
+          if [ -f stars.json ]; then
+            cp stars.json _site/stars.json
+          else
+            # Before the first archive run there is no data yet; ship an empty
+            # archive so the page shows its friendly "No archive yet" message.
+            echo '{"repos":{}}' > _site/stars.json
+          fi
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
