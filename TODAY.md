@@ -2,14 +2,14 @@
 
 _2026-07-07 — 10 repositories_
 
-- **[ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)** — Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
-- **[C4illin/ConvertX](https://github.com/C4illin/ConvertX)** — 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
-- **[Chaintech-Network/compose_multiplatform_date_time_picker](https://github.com/Chaintech-Network/compose_multiplatform_date_time_picker)** — 
-- **[ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)** — ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows
-- **[CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)** — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
-- **[Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)** — An open-source RAG-based tool for chatting with your documents.
-- **[ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)** — ClickHouse® is a real-time analytics database management system
-- **[Clivern/Beaver](https://github.com/Clivern/Beaver)** — 💨 A real time messaging system to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
-- **[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-- **[Codennnn/Green-Wall](https://github.com/Codennnn/Green-Wall)** — ⬜🟩 GitHub Contributions Graph Generator. :octocat:
+- **[Col-E/Recaf](https://github.com/Col-E/Recaf)** — The modern Java bytecode editor
+- **[Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** — A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+- **[CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)** — Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- **[CryptoBlades/cryptoblades](https://github.com/CryptoBlades/cryptoblades)** — 
+- **[CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)** — :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+- **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)** — 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+- **[DJ-Raven/swing-modal-dialog](https://github.com/DJ-Raven/swing-modal-dialog)** — Java Swing UI library custom with FlatLaf
+- **[DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)** — Hooks for fetching, caching and updating asynchronous data in Vue
+- **[Dashibase/lotion](https://github.com/Dashibase/lotion)** — An open-source Notion UI built with Vue 3
 
