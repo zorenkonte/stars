@@ -1,6 +1,6 @@
 # ⭐ Starred Repositories Archive
 
-_Last updated 2026-07-07 — 1423 active · 0 archived._
+_Last updated 2026-07-07 — 1424 active · 0 archived._
 
 > Append-only archive. Repositories that leave GitHub (deleted, made private, renamed, or unstarred) are kept below under **Archived**, never removed.
 
@@ -13,7 +13,7 @@ _Last updated 2026-07-07 — 1423 active · 0 archived._
 - [Kotlin](#kotlin) (130)
 - [PHP](#php) (75)
 - [Go](#go) (73)
-- [Other](#other) (70)
+- [Other](#other) (71)
 - [Rust](#rust) (44)
 - [C](#c) (38)
 - [C++](#c) (35)
@@ -1192,6 +1192,7 @@ _Last updated 2026-07-07 — 1423 active · 0 archived._
 - **[zorenkonte/JavaFX-MetroUI](https://github.com/zorenkonte/JavaFX-MetroUI)** — Splash Screen And Sample Apps on Spring Hibernate Javafx
 - **[zorenkonte/Magnific-Popup](https://github.com/zorenkonte/Magnific-Popup)** — Light and responsive lightbox script with focus on performance.
 - **[zorenkonte/basicContext](https://github.com/zorenkonte/basicContext)** — Easy-to-use context-menu for your website or webapp.
+- **[zorenkonte/dotfiles](https://github.com/zorenkonte/dotfiles)** — @zorenkonte personal dotfiles
 - **[zorenkonte/gitignore](https://github.com/zorenkonte/gitignore)** — A collection of useful .gitignore templates
 - **[zorenkonte/laravel](https://github.com/zorenkonte/laravel)** — A PHP framework for web artisans
 - **[zorenkonte/vue](https://github.com/zorenkonte/vue)** — 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
