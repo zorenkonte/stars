@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-07-06 — 10 repositories_
+_2026-07-07 — 10 repositories_
 
-- **[0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)** — Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-- **[0xGF/boneyard](https://github.com/0xGF/boneyard)** — Auto generated skeleton loading framework
-- **[1egoman/funnies](https://github.com/1egoman/funnies)** — :stuck_out_tongue_winking_eye: Make users laugh when your app loads.
-- **[4gray/iptvnator](https://github.com/4gray/iptvnator)** — :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
-- **[521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)** — :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-- **[666ghj/BettaFish](https://github.com/666ghj/BettaFish)** — 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-- **[97-things/97-things-every-programmer-should-know](https://github.com/97-things/97-things-every-programmer-should-know)** — Pearls of wisdom for programmers collected from leading practitioners.
-- **[996icu/996.ICU](https://github.com/996icu/996.ICU)** — Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- **[AIGCDesignGroup/ReplaceAnything](https://github.com/AIGCDesignGroup/ReplaceAnything)** — 
-- **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** — Stable Diffusion web UI
+- **[AcidCaos/raisetheempires](https://github.com/AcidCaos/raisetheempires)** — The Empires & Allies preservation project
+- **[AdAway/AdAway](https://github.com/AdAway/AdAway)** — AdAway is a free and open source ad blocker for Android.
+- **[AdamMc331/CMPTemplate](https://github.com/AdamMc331/CMPTemplate)** — This is a template repository with developer tooling already included so you can get up and running with confidence.
+- **[AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)** — Network-wide ads & trackers blocking DNS server
+- **[Aider-AI/aider](https://github.com/Aider-AI/aider)** — aider is AI pair programming in your terminal
+- **[Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos)** — High-quality PNGs for logos I made for fun
+- **[Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller)** — ⚡️ Blazing fast scrolling for any amount of data
+- **[AlbertLucianto/vue-text-highlight](https://github.com/AlbertLucianto/vue-text-highlight)** — Text highlighter library for Vue.js :lipstick:
+- **[Alex-D/Trumbowyg](https://github.com/Alex-D/Trumbowyg)** — A lightweight and amazing WYSIWYG JavaScript editor under 10kB
+- **[Alfred-Skyblue/vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus)** — Universal Drag-and-Drop Component Supporting both Vue 3 and Vue 2
 
