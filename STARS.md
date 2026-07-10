@@ -1,6 +1,6 @@
 # ⭐ Starred Repositories Archive
 
-_Last updated 2026-07-09 — 1424 active · 1 archived._
+_Last updated 2026-07-10 — 1424 active · 1 archived._
 
 > Append-only archive. Repositories that leave GitHub (deleted, made private, renamed, or unstarred) are kept below under **Archived**, never removed.
 
@@ -65,8 +65,8 @@ _Last updated 2026-07-09 — 1424 active · 1 archived._
 - **[n8n-io/n8n](https://github.com/n8n-io/n8n)** — Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - **[microsoft/vscode](https://github.com/microsoft/vscode)** — Visual Studio Code
 - **[anomalyco/opencode](https://github.com/anomalyco/opencode)** — The open source coding agent.
-- **[langgenius/dify](https://github.com/langgenius/dify)** — Production-ready platform for agentic workflow development.
 - **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** — The API to search, scrape, and interact with the web at scale. 🔥
+- **[langgenius/dify](https://github.com/langgenius/dify)** — Production-ready platform for agentic workflow development.
 - **[iptv-org/iptv](https://github.com/iptv-org/iptv)** — Collection of publicly available IPTV channels from all over the world
 - **[excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)** — Virtual whiteboard for sketching hand-drawn like diagrams
 - **[garrytan/gstack](https://github.com/garrytan/gstack)** — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
@@ -99,8 +99,8 @@ _Last updated 2026-07-09 — 1424 active · 1 archived._
 - **[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)** — Build AI Agents, Visually
 - **[makeplane/plane](https://github.com/makeplane/plane)** — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - **[vuejs/core](https://github.com/vuejs/core)** — 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- **[twentyhq/twenty](https://github.com/twentyhq/twenty)** — The open alternative to Salesforce, designed for AI.
 - **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** — 🎥 Make videos programmatically with React
+- **[twentyhq/twenty](https://github.com/twentyhq/twenty)** — The open alternative to Salesforce, designed for AI.
 - **[ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework)** — A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - **[DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)** — The repository for high quality TypeScript type definitions.
 - **[TanStack/query](https://github.com/TanStack/query)** — 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
@@ -126,11 +126,11 @@ _Last updated 2026-07-09 — 1424 active · 1 archived._
 - **[novuhq/novu](https://github.com/novuhq/novu)** — The open-source communication infrastructure for agents and products
 - **[RSSNext/Folo](https://github.com/RSSNext/Folo)** — 🧡 Folo is the AI RSS Reader
 - **[mattermost/mattermost](https://github.com/mattermost/mattermost)** — Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
-- **[ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)** — The headless rich text editor framework for web artisans.
 - **[umami-software/umami](https://github.com/umami-software/umami)** — Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- **[ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)** — The headless rich text editor framework for web artisans.
 - **[directus/directus](https://github.com/directus/directus)** — The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- **[solidjs/solid](https://github.com/solidjs/solid)** — A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - **[musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)** — Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+- **[solidjs/solid](https://github.com/solidjs/solid)** — A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - **[ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane)** — Vane is an AI-powered answering engine.
 - **[Dokploy/dokploy](https://github.com/Dokploy/dokploy)** — Open Source Alternative to Vercel, Netlify and Heroku.
 - **[drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)** — ORM
@@ -144,8 +144,8 @@ _Last updated 2026-07-09 — 1424 active · 1 archived._
 - **[hasura/graphql-engine](https://github.com/hasura/graphql-engine)** — Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - **[codex-team/editor.js](https://github.com/codex-team/editor.js)** — A block-style editor with clean JSON output
 - **[ianstormtaylor/slate](https://github.com/ianstormtaylor/slate)** — A completely customizable framework for building rich text editors. (Currently in beta.)
-- **[fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)** — Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - **[honojs/hono](https://github.com/honojs/hono)** — Web framework built on Web Standards
+- **[fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)** — Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - **[sequelize/sequelize](https://github.com/sequelize/sequelize)** — Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.
 - **[jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)** — Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - **[nrwl/nx](https://github.com/nrwl/nx)** — The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
@@ -187,10 +187,10 @@ _Last updated 2026-07-09 — 1424 active · 1 archived._
 - **[github/docs](https://github.com/github/docs)** — The open-source repo for docs.github.com
 - **[kortix-ai/suna](https://github.com/kortix-ai/suna)** — The Company AI Command Center
 - **[rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)** — record and replay the web
-- **[unocss/unocss](https://github.com/unocss/unocss)** — The instant on-demand atomic CSS engine.
 - **[linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)** — ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
-- **[motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)** — Visualize Your Ideas With Code
+- **[unocss/unocss](https://github.com/unocss/unocss)** — The instant on-demand atomic CSS engine.
 - **[mksglu/context-mode](https://github.com/mksglu/context-mode)** — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+- **[motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)** — Visualize Your Ideas With Code
 - **[conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)** — 📓 Lint commit messages
 - **[refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)** — Desktop app to manage markdown knowledge bases
 - **[teambit/bit](https://github.com/teambit/bit)** — AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
@@ -227,8 +227,8 @@ _Last updated 2026-07-09 — 1424 active · 1 archived._
 - **[jina-ai/reader](https://github.com/jina-ai/reader)** — Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - **[logaretm/vee-validate](https://github.com/logaretm/vee-validate)** — ✅ Painless Vue forms
 - **[toss/es-toolkit](https://github.com/toss/es-toolkit)** — A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
-- **[getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)** — A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - **[rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA)** — Free, Open Source, Self-Hosted WhatsApp API Gateway
+- **[getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)** — A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - **[Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller)** — ⚡️ Blazing fast scrolling for any amount of data
 - **[ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts)** — Vue.js component for Apache ECharts™.
 - **[blinkospace/blinko](https://github.com/blinkospace/blinko)** — An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
@@ -303,15 +303,15 @@ _Last updated 2026-07-09 — 1424 active · 1 archived._
 - **[nuxt/content](https://github.com/nuxt/content)** — The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
 - **[remvze/moodist](https://github.com/remvze/moodist)** — 🌲 Ambient sounds for focus and calm.
 - **[vidstack/player](https://github.com/vidstack/player)** — UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
-- **[Maronato/vue-toastification](https://github.com/Maronato/vue-toastification)** — Vue notifications made easy!
 - **[baairon/torlink](https://github.com/baairon/torlink)** — A sleek, zero-setup torrent finder and downloader that lives right in your terminal.
+- **[Maronato/vue-toastification](https://github.com/Maronato/vue-toastification)** — Vue notifications made easy!
 - **[romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion)** — tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
 - **[workos/authkit](https://github.com/workos/authkit)** — The world's best login box powered by WorkOS and Radix.
 - **[rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI)** — A single Gradio + React WebUI with extensions for ACE-Step, OmniVoice, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, MusicGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, and Bark!
 - **[wa0x6e/cal-heatmap](https://github.com/wa0x6e/cal-heatmap)** — Cal-Heatmap is a javascript charting library to create a time-series calendar heatmap
 - **[megh-bari/pattern-craft](https://github.com/megh-bari/pattern-craft)** — Professional-grade background patterns and gradients for your websites and apps. Easily copy and paste into your next project. Crafted with modern CSS and Tailwind for seamless integration.
-- **[undb-io/undb](https://github.com/undb-io/undb)** — 🚀 Private first self-hosted no code database & BaaS.
 - **[paper-design/shaders](https://github.com/paper-design/shaders)** — Zero-dependency canvas shaders that can be installed from npm or designed in Paper
+- **[undb-io/undb](https://github.com/undb-io/undb)** — 🚀 Private first self-hosted no code database & BaaS.
 - **[TriliumNext/Notes](https://github.com/TriliumNext/Notes)** — Build your personal knowledge base with TriliumNext Notes
 - **[vime-js/vime](https://github.com/vime-js/vime)** — Customizable, extensible, accessible and framework agnostic media player. Modern alternative to Video.js and Plyr. Supports HTML5, HLS, Dash, YouTube, Vimeo, Dailymotion...
 - **[OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe)** — Turn expensive prompts into cheap fine-tuned models
@@ -456,8 +456,8 @@ _Last updated 2026-07-09 — 1424 active · 1 archived._
 - **[OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)** — The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - **[FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)** — Automate the process of making money online.
 - **[iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive)** — Real-time face swap for PC streaming or video calls
-- **[feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk)** — AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - **[stanford-oval/storm](https://github.com/stanford-oval/storm)** — An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+- **[feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk)** — AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - **[python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)** — We have made you a wrapper you can't refuse
 - **[facefusion/facefusion](https://github.com/facefusion/facefusion)** — Industry leading face manipulation platform
 - **[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** — Python scraper based on AI
@@ -481,8 +481,8 @@ _Last updated 2026-07-09 — 1424 active · 1 archived._
 - **[netbox-community/netbox](https://github.com/netbox-community/netbox)** — The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - **[stitionai/devika](https://github.com/stitionai/devika)** — Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.
 - **[eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)** — open-source agentic AI data assistant for the next generation of AI + Data products.
-- **[nari-labs/dia](https://github.com/nari-labs/dia)** — A TTS model capable of generating ultra-realistic dialogue in one pass.
 - **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+- **[nari-labs/dia](https://github.com/nari-labs/dia)** — A TTS model capable of generating ultra-realistic dialogue in one pass.
 - **[smicallef/spiderfoot](https://github.com/smicallef/spiderfoot)** — SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - **[iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab)** — DeepFaceLab is the leading software for creating deepfakes.
 - **[fail2ban/fail2ban](https://github.com/fail2ban/fail2ban)** — Daemon to ban hosts that cause multiple authentication errors
@@ -504,8 +504,8 @@ _Last updated 2026-07-09 — 1424 active · 1 archived._
 - **[simonw/llm](https://github.com/simonw/llm)** — Access large language models from the command-line
 - **[keephq/keep](https://github.com/keephq/keep)** — The open-source AIOps and alert management platform
 - **[simonw/datasette](https://github.com/simonw/datasette)** — An open source multi-tool for exploring and publishing data
-- **[magic-research/magic-animate](https://github.com/magic-research/magic-animate)** — [CVPR 2024] Official repository for "MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model"
 - **[rommapp/romm](https://github.com/rommapp/romm)** — A beautiful, powerful, self-hosted rom manager and player.
+- **[magic-research/magic-animate](https://github.com/magic-research/magic-animate)** — [CVPR 2024] Official repository for "MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model"
 - **[karpathy/minbpe](https://github.com/karpathy/minbpe)** — Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 - **[blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot)** — The recursive internet scanner for hackers. 🧡
 - **[facebookresearch/nougat](https://github.com/facebookresearch/nougat)** — Implementation of Nougat Neural Optical Understanding for Academic Documents
@@ -776,8 +776,8 @@ _Last updated 2026-07-09 — 1424 active · 1 archived._
 - **[Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines)** — Programming style, best practices, and coding conventions.
 - **[schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop)** — PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - **[yokoffing/Betterfox](https://github.com/yokoffing/Betterfox)** — Firefox user.js for optimal privacy and security. Your favorite browser, but better.
-- **[gka/chroma.js](https://github.com/gka/chroma.js)** — JavaScript library for all kinds of color manipulations
 - **[fmhy/edit](https://github.com/fmhy/edit)** — Make changes to FMHY
+- **[gka/chroma.js](https://github.com/gka/chroma.js)** — JavaScript library for all kinds of color manipulations
 - **[faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js)** — UAParser.js - The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser (client-side) or Node.js (server-side).
 - **[hackmdio/codimd](https://github.com/hackmdio/codimd)** — CodiMD - Realtime collaborative markdown notes on all platforms.
 - **[streamaserver/streama](https://github.com/streamaserver/streama)** — Self hosted streaming media server. https://docs.streama-project.com/
@@ -895,8 +895,8 @@ _Last updated 2026-07-09 — 1424 active · 1 archived._
 - **[kosi-libs/Kodein](https://github.com/kosi-libs/Kodein)** — Painless Kotlin Dependency Injection
 - **[Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet)** — Ivy Wallet is an open-source money manager app for Android, no longer maintained. You can fork the code or download the final version from Google Play.
 - **[patrykandpatrick/vico](https://github.com/patrykandpatrick/vico)** — A powerful and extensible chart library for Compose Multiplatform.
-- **[adrielcafe/voyager](https://github.com/adrielcafe/voyager)** — 🛸 A pragmatic navigation library for Compose Multiplatform
 - **[oshai/kotlin-logging](https://github.com/oshai/kotlin-logging)** — Lightweight Multiplatform logging framework for Kotlin. A convenient and performant logging facade.
+- **[adrielcafe/voyager](https://github.com/adrielcafe/voyager)** — 🛸 A pragmatic navigation library for Compose Multiplatform
 - **[korlibs/korge](https://github.com/korlibs/korge)** — A Kotlin Multiplatform Game Engine
 - **[ajalt/clikt](https://github.com/ajalt/clikt)** — Multiplatform command line interface parsing for Kotlin
 - **[arkivanov/Decompose](https://github.com/arkivanov/Decompose)** — Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing (navigation) and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.)
@@ -1155,7 +1155,7 @@ _Last updated 2026-07-09 — 1424 active · 1 archived._
 - **[ipfs/ipfs](https://github.com/ipfs/ipfs)** — Peer-to-peer hypermedia protocol
 - **[toml-lang/toml](https://github.com/toml-lang/toml)** — Tom's Obvious, Minimal Language
 - **[krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise)** — Contains Company Wise Questions sorted based on Frequency and all time
-- **[dailydotdev/daily](https://github.com/dailydotdev/daily)** — daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
+- **[dailydotdev/daily](https://github.com/dailydotdev/daily)** — daily.dev is the personalized developer news feed and community. Get the best tech content from 1000+ sources in your browser new tab or on mobile. Free and open source.
 - **[rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)** — List of projects that provide terminal user interfaces
 - **[obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)** — Community plugins list, theme list, and releases of Obsidian.
 - **[bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter)** — ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.

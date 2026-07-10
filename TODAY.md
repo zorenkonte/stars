@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-07-09 — 10 repositories_
+_2026-07-10 — 10 repositories_
 
-- **[Docile-Alligator/Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)** — A Reddit client for Android
-- **[Dokploy/dokploy](https://github.com/Dokploy/dokploy)** — Open Source Alternative to Vercel, Netlify and Heroku.
-- **[DrKLO/Telegram](https://github.com/DrKLO/Telegram)** — Telegram for Android source
-- **[Droid-ify/client](https://github.com/Droid-ify/client)** — Clutterfree F-Droid client
-- **[Efimj/Shkiper](https://github.com/Efimj/Shkiper)** — Android modern notepad
-- **[EranBoudjnah/CleanArchitectureForAndroid](https://github.com/EranBoudjnah/CleanArchitectureForAndroid)** — Clean Architecture for Android - a sample project
-- **[ErsatzTV/legacy](https://github.com/ErsatzTV/legacy)** — Open-source platform that transforms your personal media library into live, custom TV channels.
-- **[Exafunction/codeium](https://github.com/Exafunction/codeium)** — 
-- **[Exafunction/windsurf.vim](https://github.com/Exafunction/windsurf.vim)** — Free, ultrafast Copilot alternative for Vim and Neovim
-- **[FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)** — Mirror of https://git.ffmpeg.org/ffmpeg.git
+- **[Fechin/reference](https://github.com/Fechin/reference)** — ⭕ Share quick reference cheat sheet for developers.
+- **[FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)** — A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- **[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)** — Build AI Agents, Visually
+- **[FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)** — The iconic SVG, font, and CSS toolkit
+- **[FossifyOrg/Calendar](https://github.com/FossifyOrg/Calendar)** — A simple calendar with events, customizable widgets and no ads.
+- **[FossifyOrg/Contacts](https://github.com/FossifyOrg/Contacts)** — Easy and quick contact management with no ads, handles groups and favorites too.
+- **[FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT)** — 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+- **[Freika/dawarich](https://github.com/Freika/dawarich)** — Your favorite self-hostable alternative to Google Timeline (Google Location History)
+- **[FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)** — Automate the process of making money online.
+- **[Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)** — Display and control your Android device
 
