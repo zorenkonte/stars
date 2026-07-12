@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-07-11 — 10 repositories_
+_2026-07-12 — 10 repositories_
 
-- **[GitbookIO/gitbook](https://github.com/GitbookIO/gitbook)** — The open source frontend for GitBook doc sites
-- **[GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)** — Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform
-- **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
-- **[Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter)** — A server software reimplementation for a certain anime game.
-- **[Grsmto/simplebar](https://github.com/Grsmto/simplebar)** — Custom scrollbars vanilla javascript library with native scroll, done simple, lightweight, easy to use and cross-browser.
-- **[Gurupreet/ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook)** — A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential
-- **[GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)** — Comfortably monitor your Internet traffic 🕵️‍♂️
-- **[Heapy/awesome-kotlin](https://github.com/Heapy/awesome-kotlin)** — A curated list of awesome Kotlin related stuff Inspired by awesome-java.
-- **[HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events)** — Open-source event management and ticket selling platform — perfect for concerts, conferences, and everything in between 🎟️ If you find this project helpful, please consider giving us a star ⭐️
-- **[Homebrew/brew](https://github.com/Homebrew/brew)** — 🍺 The Package Manager for Everywhere
+- **[Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)** — Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
+- **[HubSpot/vex](https://github.com/HubSpot/vex)** — A modern dialog library which is highly configurable and easy to style. #hubspot-open-source
+- **[HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone)** — Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
+- **[HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)** — Label Studio is a multi-type data labeling and annotation tool with standardized output format
+- **[HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web)** — A remote debugging platform you'll definitely find useful. Lightweight, cross-platform, out-of-box debugging tool
+- **[IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)** — CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+- **[InsertKoinIO/koin](https://github.com/InsertKoinIO/koin)** — Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
+- **[ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane)** — Vane is an AI-powered answering engine.
+- **[Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet)** — Ivy Wallet is an open-source money manager app for Android, no longer maintained. You can fork the code or download the final version from Google Play.
+- **[JFormDesigner/FlatLaf](https://github.com/JFormDesigner/FlatLaf)** — FlatLaf - Swing Look and Feel (with Darcula/IntelliJ themes support)
 

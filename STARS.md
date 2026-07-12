@@ -1,21 +1,21 @@
 # ⭐ Starred Repositories Archive
 
-_Last updated 2026-07-11 — 1424 active · 1 archived._
+_Last updated 2026-07-12 — 1426 active · 1 archived._
 
 > Append-only archive. Repositories that leave GitHub (deleted, made private, renamed, or unstarred) are kept below under **Archived**, never removed.
 
 ## Languages
 
-- [TypeScript](#typescript) (307)
-- [Python](#python) (177)
+- [TypeScript](#typescript) (308)
+- [Python](#python) (176)
 - [Java](#java) (148)
 - [JavaScript](#javascript) (135)
 - [Kotlin](#kotlin) (130)
 - [PHP](#php) (75)
 - [Go](#go) (73)
 - [Other](#other) (70)
-- [Rust](#rust) (45)
-- [C](#c) (38)
+- [Rust](#rust) (46)
+- [C](#c) (39)
 - [C++](#c) (35)
 - [Shell](#shell) (29)
 - [Vue](#vue) (28)
@@ -94,6 +94,7 @@ _Last updated 2026-07-11 — 1424 active · 1 archived._
 - **[nocodb/nocodb](https://github.com/nocodb/nocodb)** — 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - **[withastro/astro](https://github.com/withastro/astro)** — The web framework for content-driven websites. ⭐️ Star to support our work!
 - **[nuxt/nuxt](https://github.com/nuxt/nuxt)** — the full-stack Vue framework
+- **[mem0ai/mem0](https://github.com/mem0ai/mem0)** — Universal memory layer for AI Agents
 - **[appwrite/appwrite](https://github.com/appwrite/appwrite)** — Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - **[laurent22/joplin](https://github.com/laurent22/joplin)** — Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - **[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)** — Build AI Agents, Visually
@@ -113,8 +114,8 @@ _Last updated 2026-07-11 — 1424 active · 1 archived._
 - **[RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** — The Secure CommsOS™ for mission-critical operations
 - **[siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)** — A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - **[fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template)** — Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
-- **[streamich/react-use](https://github.com/streamich/react-use)** — React Hooks — 👍
 - **[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)** — GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration
+- **[streamich/react-use](https://github.com/streamich/react-use)** — React Hooks — 👍
 - **[janhq/jan](https://github.com/janhq/jan)** — Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - **[colinhacks/zod](https://github.com/colinhacks/zod)** — TypeScript-first schema validation with static type inference
 - **[nolimits4web/swiper](https://github.com/nolimits4web/swiper)** — Most modern mobile touch slider with hardware accelerated transitions
@@ -375,8 +376,8 @@ _Last updated 2026-07-11 — 1424 active · 1 archived._
 - **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — The agent that grows with you
 - **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - **[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)** — A feature-rich command-line audio/video downloader
-- **[521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)** — :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - **[microsoft/markitdown](https://github.com/microsoft/markitdown)** — Python tool for converting files and office documents to Markdown.
+- **[521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)** — :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** — Stable Diffusion web UI
 - **[huggingface/transformers](https://github.com/huggingface/transformers)** — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** — The agent engineering platform.
@@ -412,7 +413,6 @@ _Last updated 2026-07-11 — 1424 active · 1 archived._
 - **[keras-team/keras](https://github.com/keras-team/keras)** — Deep Learning for humans
 - **[docling-project/docling](https://github.com/docling-project/docling)** — Get your documents ready for gen AI
 - **[karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)** — The simplest, fastest repository for training/finetuning medium-sized GPTs.
-- **[mem0ai/mem0](https://github.com/mem0ai/mem0)** — Universal memory layer for AI Agents
 - **[CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)** — Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - **[RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)** — 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - **[meta-llama/llama](https://github.com/meta-llama/llama)** — Inference code for Llama models
@@ -420,8 +420,8 @@ _Last updated 2026-07-11 — 1424 active · 1 archived._
 - **[zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt)** — Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 - **[soimort/you-get](https://github.com/soimort/you-get)** — :arrow_double_down: Dumb downloader that scrapes the web
 - **[NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)** — 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-- **[deepfakes/faceswap](https://github.com/deepfakes/faceswap)** — Deepfakes Software For All
 - **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+- **[deepfakes/faceswap](https://github.com/deepfakes/faceswap)** — Deepfakes Software For All
 - **[AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)** — CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - **[odoo/odoo](https://github.com/odoo/odoo)** — Odoo. Open Source Apps To Grow Your Business.
 - **[lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)** — Focus on prompting and generating
@@ -510,7 +510,7 @@ _Last updated 2026-07-11 — 1424 active · 1 archived._
 - **[blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot)** — The recursive internet scanner for hackers. 🧡
 - **[facebookresearch/nougat](https://github.com/facebookresearch/nougat)** — Implementation of Nougat Neural Optical Understanding for Academic Documents
 - **[microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji)** — A collection of familiar, friendly, and modern emoji from Microsoft
-- **[KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT)** — Private, real-time speaker diarization on hardware you control. See who is speaking as it happens, no third-party cloud required.
+- **[KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT)** — A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
 - **[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)** — LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
 - **[jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama)** — The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
 - **[firmai/financial-machine-learning](https://github.com/firmai/financial-machine-learning)** — A curated list of practical financial machine learning tools and applications.
@@ -744,8 +744,8 @@ _Last updated 2026-07-11 — 1424 active · 1 archived._
 - **[benweet/stackedit](https://github.com/benweet/stackedit)** — In-browser Markdown editor
 - **[localtunnel/localtunnel](https://github.com/localtunnel/localtunnel)** — expose yourself
 - **[postcss/autoprefixer](https://github.com/postcss/autoprefixer)** — Parse CSS and add vendor prefixes to rules by Can I Use
-- **[yjs/yjs](https://github.com/yjs/yjs)** — Shared data types for building collaborative software
 - **[wwebjs/whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js)** — A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+- **[yjs/yjs](https://github.com/yjs/yjs)** — Shared data types for building collaborative software
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** — Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - **[MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)** — Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 - **[tabler/tabler-icons](https://github.com/tabler/tabler-icons)** — A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
@@ -1105,7 +1105,7 @@ _Last updated 2026-07-11 — 1424 active · 1 archived._
 - **[php/frankenphp](https://github.com/php/frankenphp)** — 🧟 The modern PHP app server
 - **[krillinai/KrillinAI](https://github.com/krillinai/KrillinAI)** — AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTube, TikTok, Bilibili, Douyin, and more.AI视频翻译配音工具，面向人类与AI Agent，100+语言全链路，CLI分阶段调用，适配抖音、小红书、哔哩哔哩、视频号、TikTok、YouTube
 - **[teamhanko/hanko](https://github.com/teamhanko/hanko)** — Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch.
-- **[pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)** — An easy-to-use OAuth 2.0 and OpenID Connect provider that lets users sign in to your services with their passkeys.
+- **[pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)** — An easy-to-use OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 - **[AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny)** — Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - **[projectdiscovery/naabu](https://github.com/projectdiscovery/naabu)** — A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
 - **[opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud)** — 🌤️ OpenCloud is the open source platform for file management, sharing and collaboration. Simple and sovereign.
@@ -1156,8 +1156,8 @@ _Last updated 2026-07-11 — 1424 active · 1 archived._
 - **[toml-lang/toml](https://github.com/toml-lang/toml)** — Tom's Obvious, Minimal Language
 - **[krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise)** — Contains Company Wise Questions sorted based on Frequency and all time
 - **[dailydotdev/daily](https://github.com/dailydotdev/daily)** — daily.dev is the personalized developer news feed and community. Get the best tech content from 1000+ sources in your browser new tab or on mobile. Free and open source.
-- **[rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)** — List of projects that provide terminal user interfaces
 - **[obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)** — Community plugins list, theme list, and releases of Obsidian.
+- **[rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)** — List of projects that provide terminal user interfaces
 - **[bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter)** — ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.
 - **[aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss)** — 😎 Awesome things related to Tailwind CSS
 - **[HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone)** — Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
@@ -1225,11 +1225,12 @@ _Last updated 2026-07-11 — 1424 active · 1 archived._
 - **[biomejs/biome](https://github.com/biomejs/biome)** — A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - **[slint-ui/slint](https://github.com/slint-ui/slint)** — Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - **[neondatabase/neon](https://github.com/neondatabase/neon)** — Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+- **[ratatui/ratatui](https://github.com/ratatui/ratatui)** — A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - **[0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)** — Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - **[asciinema/asciinema](https://github.com/asciinema/asciinema)** — Terminal session recorder, streamer and player 📹
 - **[windmill-labs/windmill](https://github.com/windmill-labs/windmill)** — Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
-- **[run-llama/liteparse](https://github.com/run-llama/liteparse)** — A fast, helpful, and open-source document parser
 - **[n0-computer/iroh](https://github.com/n0-computer/iroh)** — IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
+- **[run-llama/liteparse](https://github.com/run-llama/liteparse)** — A fast, helpful, and open-source document parser
 - **[Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)** — A spotify daemon
 - **[BloopAI/bloop](https://github.com/BloopAI/bloop)** — bloop is a fast code search engine written in Rust.
 - **[BoundaryML/baml](https://github.com/BoundaryML/baml)** — The programming language for agents
@@ -1273,6 +1274,7 @@ _Last updated 2026-07-11 — 1424 active · 1 archived._
 - **[duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar)** — 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
 - **[nmap/nmap](https://github.com/nmap/nmap)** — Nmap - the Network Mapper. Github mirror of official SVN repository.
 - **[vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra)** — hydra
+- **[tsl0922/ttyd](https://github.com/tsl0922/ttyd)** — Share your terminal over the web
 - **[sqlite/sqlite](https://github.com/sqlite/sqlite)** — Official Git mirror of the SQLite source tree
 - **[AdAway/AdAway](https://github.com/AdAway/AdAway)** — AdAway is a free and open source ad blocker for Android.
 - **[fluent/fluent-bit](https://github.com/fluent/fluent-bit)** — Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows
