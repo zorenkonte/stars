@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-07-15 — 10 repositories_
+_2026-07-16 — 10 repositories_
 
-- **[KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars)** — A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.
-- **[KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT)** — A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
-- **[Kong/kong](https://github.com/Kong/kong)** — 🦍 The API and AI Gateway
-- **[Kotlin/dokka](https://github.com/Kotlin/dokka)** — API documentation engine for Kotlin
-- **[Kotlin/kotlin-interactive-shell](https://github.com/Kotlin/kotlin-interactive-shell)** — Kotlin Language Interactive Shell
-- **[Kotlin/kotlinx-datetime](https://github.com/Kotlin/kotlinx-datetime)** — KotlinX multiplatform date/time library
-- **[Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines)** — Programming style, best practices, and coding conventions.
-- **[LWJGL/lwjgl3](https://github.com/LWJGL/lwjgl3)** — LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) and XR (OpenVR, LibOVR, OpenXR) applications.
-- **[Label84/laravel-hours-helper](https://github.com/Label84/laravel-hours-helper)** — Create a Collection of dates/times with a specific interval for a specific period.
-- **[Laravel-Backpack/CRUD](https://github.com/Laravel-Backpack/CRUD)** — Build custom admin panels. Fast!
+- **[LaravelDaily/laravel-invoices](https://github.com/LaravelDaily/laravel-invoices)** — Laravel package to generate PDF invoices from various customizable parameters
+- **[LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM)** — Large World Model -- Modeling Text and Video with Millions Context
+- **[LasseRafn/ui-avatars](https://github.com/LasseRafn/ui-avatars)** — 
+- **[LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)** — Neovim config for the lazy
+- **[Leaflet/Leaflet](https://github.com/Leaflet/Leaflet)** — 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
+- **[Live-Charts/LiveCharts2](https://github.com/Live-Charts/LiveCharts2)** — Beautiful, interactive charts, maps, and gauges. One API for every .NET UI framework.
+- **[LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt)** — A collection of GPT system prompts and various prompt injection/leaking knowledge.
+- **[Maronato/vue-toastification](https://github.com/Maronato/vue-toastification)** — Vue notifications made easy!
+- **[MarsX-dev/floatui](https://github.com/MarsX-dev/floatui)** — Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
+- **[MatiasDesuu/ThinkDashboard](https://github.com/MatiasDesuu/ThinkDashboard)** — A lightweight, self-hosted bookmark dashboard with keyboard shortcuts.
 
