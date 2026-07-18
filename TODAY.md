@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-07-17 — 10 repositories_
+_2026-07-18 — 10 repositories_
 
-- **[Maxteabag/sqlit](https://github.com/Maxteabag/sqlit)** — A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
-- **[MayakaApps/ComposeWindowStyler](https://github.com/MayakaApps/ComposeWindowStyler)** — Compose Window Styler is a library that lets you style your Compose for Desktop window to have more native and modern UI. This includes styling the window to use acrylic, mica ...etc.
-- **[MemoriLabs/Memori](https://github.com/MemoriLabs/Memori)** — Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. Built for enterprise, Memori works with the data infrastructure you already run, no rip-and-replace, and deploys across managed cloud, single-tenant cloud, VPC, and on-premises.
-- **[MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist)** — YouTube Music client for Android
-- **[MichaIng/DietPi](https://github.com/MichaIng/DietPi)** — Lightweight justice for your single-board computer!
-- **[Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)** — Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
-- **[MoKee/android_packages_apps_WarpShare](https://github.com/MoKee/android_packages_apps_WarpShare)** — 
-- **[MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)** — Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
-- **[MobileNativeFoundation/Store](https://github.com/MobileNativeFoundation/Store)** — A Kotlin Multiplatform solution for working with data. Whether you’re building alone or with a team of thousands, Store can help
-- **[Mokshit06/typewind](https://github.com/Mokshit06/typewind)** — The safety of Typescript with the magic of Tailwind.
+- **[MultiplatformKickstarter/Adoptme](https://github.com/MultiplatformKickstarter/Adoptme)** — Production-ready marketplace app template for Kotlin Multiplatform & Compose Multiplatform. Android, iOS & Desktop from a single codebase.
+- **[MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)** — Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
+- **[NVIDIA/cosmos](https://github.com/NVIDIA/cosmos)** — NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
+- **[NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)** — 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+- **[Narasimha1997/fake-sms](https://github.com/Narasimha1997/fake-sms)** — A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
+- **[NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)** — Ghidra is a software reverse engineering (SRE) framework
+- **[NativeScript/NativeScript](https://github.com/NativeScript/NativeScript)** — ⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you name it compatible.
+- **[Netflix/Hystrix](https://github.com/Netflix/Hystrix)** — Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+- **[Netflix/dgs-framework](https://github.com/Netflix/dgs-framework)** — GraphQL for Java with Spring Boot made easy.
+- **[Netflix/eureka](https://github.com/Netflix/eureka)** — AWS Service registry for resilient mid-tier load balancing and failover.
 
