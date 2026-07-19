@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-07-18 — 10 repositories_
+_2026-07-19 — 10 repositories_
 
-- **[MultiplatformKickstarter/Adoptme](https://github.com/MultiplatformKickstarter/Adoptme)** — Production-ready marketplace app template for Kotlin Multiplatform & Compose Multiplatform. Android, iOS & Desktop from a single codebase.
-- **[MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)** — Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
-- **[NVIDIA/cosmos](https://github.com/NVIDIA/cosmos)** — NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
-- **[NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)** — 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-- **[Narasimha1997/fake-sms](https://github.com/Narasimha1997/fake-sms)** — A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
-- **[NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)** — Ghidra is a software reverse engineering (SRE) framework
-- **[NativeScript/NativeScript](https://github.com/NativeScript/NativeScript)** — ⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you name it compatible.
-- **[Netflix/Hystrix](https://github.com/Netflix/Hystrix)** — Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
-- **[Netflix/dgs-framework](https://github.com/Netflix/dgs-framework)** — GraphQL for Java with Spring Boot made easy.
-- **[Netflix/eureka](https://github.com/Netflix/eureka)** — AWS Service registry for resilient mid-tier load balancing and failover.
+- **[Netflix/zuul](https://github.com/Netflix/zuul)** — Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
+- **[NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)** — Docker container for managing Nginx proxy hosts with a simple, powerful interface
+- **[NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS)** — JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
+- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — The agent that grows with you
+- **[Novage/p2p-media-loader](https://github.com/Novage/p2p-media-loader)** — An open-source engine for P2P streaming of live and on demand video directly in a web browser HTML page
+- **[Nurtak/ObjectGraphVisualization](https://github.com/Nurtak/ObjectGraphVisualization)** — Object-Graph-Visualization
+- **[Nutlope/aicommits](https://github.com/Nutlope/aicommits)** — A CLI that writes your git commit messages for you with AI
+- **[Nutlope/roomGPT](https://github.com/Nutlope/roomGPT)** — Upload a photo of your room to generate your dream room with AI.
+- **[Nuzair46/BlockTheSpot-Mac](https://github.com/Nuzair46/BlockTheSpot-Mac)** — Spotify Ad blocker for MacOS
+- **[OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)** — The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 
