@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-07-19 — 10 repositories_
+_2026-07-20 — 10 repositories_
 
-- **[Netflix/zuul](https://github.com/Netflix/zuul)** — Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
-- **[NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)** — Docker container for managing Nginx proxy hosts with a simple, powerful interface
-- **[NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS)** — JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
-- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — The agent that grows with you
-- **[Novage/p2p-media-loader](https://github.com/Novage/p2p-media-loader)** — An open-source engine for P2P streaming of live and on demand video directly in a web browser HTML page
-- **[Nurtak/ObjectGraphVisualization](https://github.com/Nurtak/ObjectGraphVisualization)** — Object-Graph-Visualization
-- **[Nutlope/aicommits](https://github.com/Nutlope/aicommits)** — A CLI that writes your git commit messages for you with AI
-- **[Nutlope/roomGPT](https://github.com/Nutlope/roomGPT)** — Upload a photo of your room to generate your dream room with AI.
-- **[Nuzair46/BlockTheSpot-Mac](https://github.com/Nuzair46/BlockTheSpot-Mac)** — Spotify Ad blocker for MacOS
-- **[OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)** — The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+- **[OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)** — A hackable markdown, Typst, latex, html(inline) & Asciidoc previewer for Neovim
+- **[Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu)** — Classic Shell Reborn.
+- **[OpenAdaptAI/OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt)** — Compile a demonstrated GUI workflow into a deterministic, locally executable program. Zero model calls on healthy runs; governed repair; halts instead of guessing. Launcher for openadapt-flow: pip install openadapt
+- **[OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)** — Open Data Platform for analysts, quants and AI agents.
+- **[OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse)** — 🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation
+- **[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)** — ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
+- **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)** — 🙌 OpenHands: AI-Driven Development
+- **[OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe)** — Turn expensive prompts into cheap fine-tuned models
+- **[OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)** — Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
+- **[OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2)** — An open source re-implementation of RollerCoaster Tycoon 2 🎢
 

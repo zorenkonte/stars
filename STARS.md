@@ -1,6 +1,6 @@
 # ⭐ Starred Repositories Archive
 
-_Last updated 2026-07-19 — 1430 active · 3 archived._
+_Last updated 2026-07-20 — 1431 active · 3 archived._
 
 > Append-only archive. Repositories that leave GitHub (deleted, made private, renamed, or unstarred) are kept below under **Archived**, never removed.
 
@@ -11,7 +11,7 @@ _Last updated 2026-07-19 — 1430 active · 3 archived._
 - [Java](#java) (149)
 - [JavaScript](#javascript) (135)
 - [Kotlin](#kotlin) (131)
-- [PHP](#php) (75)
+- [PHP](#php) (76)
 - [Go](#go) (73)
 - [Other](#other) (71)
 - [Rust](#rust) (46)
@@ -131,8 +131,8 @@ _Last updated 2026-07-19 — 1430 active · 3 archived._
 - **[directus/directus](https://github.com/directus/directus)** — The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - **[musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)** — One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - **[Dokploy/dokploy](https://github.com/Dokploy/dokploy)** — Open Source Alternative to Vercel, Netlify and Heroku.
-- **[solidjs/solid](https://github.com/solidjs/solid)** — A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - **[ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane)** — Vane is an AI-powered answering engine.
+- **[solidjs/solid](https://github.com/solidjs/solid)** — A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - **[AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)** — Network-wide ads & trackers blocking DNS server
 - **[medusajs/medusa](https://github.com/medusajs/medusa)** — The world's most flexible commerce platform.
 - **[drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)** — ORM
@@ -441,8 +441,8 @@ _Last updated 2026-07-19 — 1430 active · 3 archived._
 - **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** — World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - **[QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)** — Opiniated RAG for integrating GenAI in your apps 🧠 Focus on your product rather than the RAG. Easy integration in existing products with customisation! Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.
 - **[httpie/cli](https://github.com/httpie/cli)** — 🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- **[satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)** — What the f*ck Python? 😱
 - **[frappe/erpnext](https://github.com/frappe/erpnext)** — Free and Open Source Enterprise Resource Planning (ERP)
+- **[satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)** — What the f*ck Python? 😱
 - **[PostHog/posthog](https://github.com/PostHog/posthog)** — :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
 - **[stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)** — DSPy: The framework for programming—not prompting—language models
 - **[khoj-ai/khoj](https://github.com/khoj-ai/khoj)** — Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
@@ -475,12 +475,12 @@ _Last updated 2026-07-19 — 1430 active · 3 archived._
 - **[karpathy/llm-council](https://github.com/karpathy/llm-council)** — LLM Council works together to answer your hardest questions
 - **[goauthentik/authentik](https://github.com/goauthentik/authentik)** — The authentication glue you need.
 - **[PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)** — Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
+- **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
 - **[airbytehq/airbyte](https://github.com/airbytehq/airbyte)** — Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 - **[Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)** — ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - **[openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)** — The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - **[netbox-community/netbox](https://github.com/netbox-community/netbox)** — The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - **[datalab-to/surya](https://github.com/datalab-to/surya)** — OCR, layout analysis, reading order, table recognition in 90+ languages
-- **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
 - **[smicallef/spiderfoot](https://github.com/smicallef/spiderfoot)** — SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - **[stitionai/devika](https://github.com/stitionai/devika)** — Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.
 - **[eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)** — open-source agentic AI data assistant for the next generation of AI + Data products.
@@ -931,8 +931,8 @@ _Last updated 2026-07-19 — 1430 active · 3 archived._
 - **[SciProgCentre/kmath](https://github.com/SciProgCentre/kmath)** — Kotlin mathematics extensions library
 - **[jwstegemann/fritz2](https://github.com/jwstegemann/fritz2)** — Easily build reactive web-apps in Kotlin based on flows and coroutines.
 - **[JetBrains/compose-multiplatform-template](https://github.com/JetBrains/compose-multiplatform-template)** — Compose Multiplatform Application project template
-- **[hexagontk/hexagon](https://github.com/hexagontk/hexagon)** — ARCHIVED REPOSITORY. Hexagon is a microservices toolkit written in Kotlin. Its purpose is to ease the building of services (Web applications or APIs) that run inside a cloud platform.
 - **[you-apps/ClockYou](https://github.com/you-apps/ClockYou)** — Privacy focused clock app built with MD3
+- **[hexagontk/hexagon](https://github.com/hexagontk/hexagon)** — ARCHIVED REPOSITORY. Hexagon is a microservices toolkit written in Kotlin. Its purpose is to ease the building of services (Web applications or APIs) that run inside a cloud platform.
 - **[svenjacobs/reveal](https://github.com/svenjacobs/reveal)** — Reveal effect (coach mark) for Compose Multiplatform targeting Android, iOS, Desktop and Web
 - **[saveourtool/diktat](https://github.com/saveourtool/diktat)** — Strict coding standard for Kotlin and a custom set of rules for detecting code smells, code style issues and bugs
 - **[christianrowlands/android-network-survey](https://github.com/christianrowlands/android-network-survey)** — Cellular Survey Android App
@@ -1021,6 +1021,7 @@ _Last updated 2026-07-19 — 1430 active · 3 archived._
 - **[protonemedia/laravel-splade](https://github.com/protonemedia/laravel-splade)** — 💫 The magic of Inertia.js with the simplicity of Blade 💫 - Splade provides a super easy way to build Single Page Applications (SPA) using standard Laravel Blade templates, and sparkle it to make it interactive. All without ever leaving Blade.
 - **[spatie/laravel-searchable](https://github.com/spatie/laravel-searchable)** — Pragmatically search through models and other sources
 - **[tenancy/tenancy](https://github.com/tenancy/tenancy)** — Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups.
+- **[spatie/laravel-db-snapshots](https://github.com/spatie/laravel-db-snapshots)** — Quickly dump and load databases
 - **[LasseRafn/ui-avatars](https://github.com/LasseRafn/ui-avatars)** — 
 - **[staudenmeir/eloquent-json-relations](https://github.com/staudenmeir/eloquent-json-relations)** — Laravel Eloquent relationships with JSON keys
 - **[rappasoft/laravel-authentication-log](https://github.com/rappasoft/laravel-authentication-log)** — Log user authentication details and send new device notifications.
@@ -1076,8 +1077,8 @@ _Last updated 2026-07-19 — 1430 active · 3 archived._
 - **[pingcap/tidb](https://github.com/pingcap/tidb)** — TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.
 - **[harness/harness](https://github.com/harness/harness)** — Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - **[IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)** — CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-- **[glanceapp/glance](https://github.com/glanceapp/glance)** — A self-hosted dashboard that puts all your feeds in one place
 - **[schollz/croc](https://github.com/schollz/croc)** — Easily and securely send things from one computer to another :crocodile: :package:
+- **[glanceapp/glance](https://github.com/glanceapp/glance)** — A self-hosted dashboard that puts all your feeds in one place
 - **[filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)** — 📂 Web File Browser
 - **[tailscale/tailscale](https://github.com/tailscale/tailscale)** — The easiest, most secure way to use WireGuard and 2FA.
 - **[podman-container-tools/podman](https://github.com/podman-container-tools/podman)** — Podman: A tool for managing OCI containers and pods.
@@ -1322,9 +1323,9 @@ _Last updated 2026-07-19 — 1430 active · 3 archived._
 - **[justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder)** — A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
 - **[nasa/fprime](https://github.com/nasa/fprime)** — F´ - A flight software and embedded systems framework
 - **[google/skia](https://github.com/google/skia)** — Skia is a complete 2D graphic library for drawing Text, Geometries, and Images. See documentation for contribution instructions.
+- **[moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)** — Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - **[Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu)** — Classic Shell Reborn.
 - **[uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js)** — μWebSockets for Node.js back-ends :metal:
-- **[moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)** — Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - **[sz3/libcimbar](https://github.com/sz3/libcimbar)** — Optimized implementation for color-icon-matrix barcodes
 - **[moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex)** — Money Manager Ex is an easy to use, money management application built with wxWidgets
 - **[javafxports/openjdk-jfx](https://github.com/javafxports/openjdk-jfx)** — The openjfx repo has moved to:
