@@ -1,6 +1,6 @@
 # ⭐ Starred Repositories Archive
 
-_Last updated 2026-07-21 — 1431 active · 3 archived._
+_Last updated 2026-07-22 — 1432 active · 3 archived._
 
 > Append-only archive. Repositories that leave GitHub (deleted, made private, renamed, or unstarred) are kept below under **Archived**, never removed.
 
@@ -32,11 +32,11 @@ _Last updated 2026-07-21 — 1431 active · 3 archived._
 - [Clojure](#clojure) (3)
 - [Haskell](#haskell) (3)
 - [PowerShell](#powershell) (3)
+- [Swift](#swift) (3)
 - [Blade](#blade) (2)
 - [Groovy](#groovy) (2)
 - [SCSS](#scss) (2)
 - [Svelte](#svelte) (2)
-- [Swift](#swift) (2)
 - [Vim Script](#vim-script) (2)
 - [Zig](#zig) (2)
 - [Astro](#astro) (1)
@@ -223,8 +223,8 @@ _Last updated 2026-07-21 — 1431 active · 3 archived._
 - **[keplergl/kepler.gl](https://github.com/keplergl/kepler.gl)** — Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - **[developit/mitt](https://github.com/developit/mitt)** — 🥊 Tiny 200 byte functional event emitter / pubsub.
 - **[jina-ai/reader](https://github.com/jina-ai/reader)** — Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
-- **[getumbrel/umbrel](https://github.com/getumbrel/umbrel)** — An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 - **[rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA)** — Free, Open Source, Self-Hosted WhatsApp API Gateway
+- **[getumbrel/umbrel](https://github.com/getumbrel/umbrel)** — An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 - **[Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git)** — Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - **[logaretm/vee-validate](https://github.com/logaretm/vee-validate)** — ✅ Painless Vue forms
 - **[toss/es-toolkit](https://github.com/toss/es-toolkit)** — A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
@@ -286,8 +286,8 @@ _Last updated 2026-07-21 — 1431 active · 3 archived._
 - **[KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars)** — A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.
 - **[drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper)** — TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
 - **[streamyfin/streamyfin](https://github.com/streamyfin/streamyfin)** — A modern Jellyfin client built with Expo
-- **[microsoft/poml](https://github.com/microsoft/poml)** — Prompt Orchestration Markup Language
 - **[zidoro/pomatez](https://github.com/zidoro/pomatez)** — Stay Focused. Take a Break.
+- **[microsoft/poml](https://github.com/microsoft/poml)** — Prompt Orchestration Markup Language
 - **[vuejs/eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue)** — Official ESLint plugin for Vue.js
 - **[Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator)** — Authenticator generates 2-Step Verification codes in your browser.
 - **[Bowen7/regex-vis](https://github.com/Bowen7/regex-vis)** — 🎨 Regex visualizer & editor
@@ -433,11 +433,11 @@ _Last updated 2026-07-21 — 1431 active · 3 archived._
 - **[mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)** — An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - **[getsentry/sentry](https://github.com/getsentry/sentry)** — Developer-first error tracking and performance monitoring
 - **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** — A community-supported supercharged document management system: scan, index and archive all your documents
-- **[gradio-app/gradio](https://github.com/gradio-app/gradio)** — Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - **[usestrix/strix](https://github.com/usestrix/strix)** — Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+- **[gradio-app/gradio](https://github.com/gradio-app/gradio)** — Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - **[666ghj/BettaFish](https://github.com/666ghj/BettaFish)** — 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-- **[hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI)** — Making large AI models cheaper, faster and more accessible
 - **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — Use claude code, codex or pi for free from the terminal, IDE, or you phone like OpenClaw (voice supported)
+- **[hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI)** — Making large AI models cheaper, faster and more accessible
 - **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** — World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - **[QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)** — Opiniated RAG for integrating GenAI in your apps 🧠 Focus on your product rather than the RAG. Easy integration in existing products with customisation! Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.
 - **[httpie/cli](https://github.com/httpie/cli)** — 🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -470,8 +470,8 @@ _Last updated 2026-07-21 — 1431 active · 3 archived._
 - **[Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui)** — GUI for a Vocal Remover that uses Deep Neural Networks.
 - **[emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)** — A list of developer portfolios for your inspiration
 - **[kovidgoyal/calibre](https://github.com/kovidgoyal/calibre)** — The official source code repository for the calibre ebook manager
-- **[plotly/dash](https://github.com/plotly/dash)** — Data Apps & Dashboards for Python. No JavaScript Required.
 - **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+- **[plotly/dash](https://github.com/plotly/dash)** — Data Apps & Dashboards for Python. No JavaScript Required.
 - **[vanna-ai/vanna](https://github.com/vanna-ai/vanna)** — 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - **[karpathy/llm-council](https://github.com/karpathy/llm-council)** — LLM Council works together to answer your hardest questions
 - **[goauthentik/authentik](https://github.com/goauthentik/authentik)** — The authentication glue you need.
@@ -495,9 +495,9 @@ _Last updated 2026-07-21 — 1431 active · 3 archived._
 - **[Kanaries/pygwalker](https://github.com/Kanaries/pygwalker)** — PyGWalker: Turn your dataframe into an interactive UI for visual analysis
 - **[microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)** — Bringing Old Photo Back to Life (CVPR 2020 oral)
 - **[MemoriLabs/Memori](https://github.com/MemoriLabs/Memori)** — Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. Built for enterprise, Memori works with the data infrastructure you already run, no rip-and-replace, and deploys across managed cloud, single-tenant cloud, VPC, and on-premises.
+- **[dottxt-ai/outlines](https://github.com/dottxt-ai/outlines)** — Structured Outputs
 - **[llmware-ai/llmware](https://github.com/llmware-ai/llmware)** — Unified framework for building enterprise RAG pipelines with small, specialized models
 - **[Zulko/moviepy](https://github.com/Zulko/moviepy)** — Video editing with Python
-- **[dottxt-ai/outlines](https://github.com/dottxt-ai/outlines)** — Structured Outputs
 - **[postmanlabs/httpbin](https://github.com/postmanlabs/httpbin)** — HTTP Request & Response Service, written in Python + Flask.
 - **[instaloader/instaloader](https://github.com/instaloader/instaloader)** — Download pictures (or videos) along with their captions and other metadata from Instagram.
 - **[mealie-recipes/mealie](https://github.com/mealie-recipes/mealie)** — Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
@@ -524,8 +524,8 @@ _Last updated 2026-07-21 — 1431 active · 3 archived._
 - **[ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024)** — 👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀
 - **[WeblateOrg/weblate](https://github.com/WeblateOrg/weblate)** — Web based localization tool with tight version control integration.
 - **[ant-research/CoDeF](https://github.com/ant-research/CoDeF)** — [CVPR'24 Highlight] Official PyTorch implementation of CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
-- **[initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim)** — Visually simulate Git operations in your own repos with a single terminal command.
 - **[cvg/LightGlue](https://github.com/cvg/LightGlue)** — LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
+- **[initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim)** — Visually simulate Git operations in your own repos with a single terminal command.
 - **[linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic)** — Copy playlists and liked music from Spotify to YTMusic
 - **[Maxteabag/sqlit](https://github.com/Maxteabag/sqlit)** — A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - **[swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs)** — A collection of IPA files from many different sources, for TrollStore!
@@ -722,8 +722,8 @@ _Last updated 2026-07-21 — 1431 active · 3 archived._
 - **[jquery/jquery](https://github.com/jquery/jquery)** — jQuery JavaScript Library
 - **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** — Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
 - **[iamkun/dayjs](https://github.com/iamkun/dayjs)** — ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
-- **[bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)** — </> htmx - high power tools for HTML
 - **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** — The design language that makes your AI harness better at design.
+- **[bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)** — </> htmx - high power tools for HTML
 - **[Leaflet/Leaflet](https://github.com/Leaflet/Leaflet)** — 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - **[videojs/video.js](https://github.com/videojs/video.js)** — Video.js - open source HTML5 video player
 - **[ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)** — ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
@@ -954,8 +954,8 @@ _Last updated 2026-07-21 — 1431 active · 3 archived._
 - **[Chaintech-Network/compose_multiplatform_date_time_picker](https://github.com/Chaintech-Network/compose_multiplatform_date_time_picker)** — 
 - **[mvysny/vaadin-on-kotlin](https://github.com/mvysny/vaadin-on-kotlin)** — Writing full-stack statically-typed web apps on JVM at its simplest
 - **[WorldWindEarth/WorldWindKotlin](https://github.com/WorldWindEarth/WorldWindKotlin)** — The WorldWind Kotlin SDK (WWK) includes the library, examples and tutorials for building multiplatform 3D virtual globe applications for Android, Web and Java.
-- **[worstkiller/jetpack_compose_animation](https://github.com/worstkiller/jetpack_compose_animation)** — This repository is for jetpack compose animation examples
 - **[isaacsa51/Minus](https://github.com/isaacsa51/Minus)** — Register, calculate and make reminders for your recurring expenses alongside credit card due dates.
+- **[worstkiller/jetpack_compose_animation](https://github.com/worstkiller/jetpack_compose_animation)** — This repository is for jetpack compose animation examples
 - **[mvysny/karibu-dsl](https://github.com/mvysny/karibu-dsl)** — Kotlin Vaadin extensions and DSL
 - **[kibotu/geofencer](https://github.com/kibotu/geofencer)** — Location tracking & geofencing the easy way. Supports background, killed app, rebooted device different update intervals.
 - **[vinceglb/ComposeAI](https://github.com/vinceglb/ComposeAI)** — An Android & iOS application ChatGPT like made with Compose Multiplatform
@@ -1076,8 +1076,8 @@ _Last updated 2026-07-21 — 1431 active · 3 archived._
 - **[juanfont/headscale](https://github.com/juanfont/headscale)** — An open source, self-hosted implementation of the Tailscale control server
 - **[pingcap/tidb](https://github.com/pingcap/tidb)** — TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.
 - **[harness/harness](https://github.com/harness/harness)** — Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
-- **[IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)** — CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - **[schollz/croc](https://github.com/schollz/croc)** — Easily and securely send things from one computer to another :crocodile: :package:
+- **[IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)** — CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - **[glanceapp/glance](https://github.com/glanceapp/glance)** — A self-hosted dashboard that puts all your feeds in one place
 - **[filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)** — 📂 Web File Browser
 - **[tailscale/tailscale](https://github.com/tailscale/tailscale)** — The easiest, most secure way to use WireGuard and 2FA.
@@ -1535,6 +1535,12 @@ _Last updated 2026-07-21 — 1431 active · 3 archived._
 - **[SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX)** — SpotX patcher used for patching the desktop version of Spotify
 - **[mlocati/powershell-phpmanager](https://github.com/mlocati/powershell-phpmanager)** — A PowerShell module to install/update PHP, PHP extensions and Composer on Windows
 
+## Swift
+
+- **[apple/container](https://github.com/apple/container)** — A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
+- **[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** — Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
+- **[PlayCover/PlayCover](https://github.com/PlayCover/PlayCover)** — Community fork of PlayCover
+
 ## Blade
 
 - **[laravel/laravel](https://github.com/laravel/laravel)** — Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
@@ -1554,11 +1560,6 @@ _Last updated 2026-07-21 — 1431 active · 3 archived._
 
 - **[imputnet/cobalt](https://github.com/imputnet/cobalt)** — best way to save what you love
 - **[seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog)** — Self-hostable travel tracker and trip planner.
-
-## Swift
-
-- **[apple/container](https://github.com/apple/container)** — A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
-- **[PlayCover/PlayCover](https://github.com/PlayCover/PlayCover)** — Community fork of PlayCover
 
 ## Vim Script
 
