@@ -1,6 +1,6 @@
 # ⭐ Starred Repositories Archive
 
-_Last updated 2026-07-24 — 1432 active · 3 archived._
+_Last updated 2026-07-25 — 1432 active · 4 archived._
 
 > Append-only archive. Repositories that leave GitHub (deleted, made private, renamed, or unstarred) are kept below under **Archived**, never removed.
 
@@ -134,7 +134,7 @@ _Last updated 2026-07-24 — 1432 active · 3 archived._
 - **[ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane)** — Vane is an AI-powered answering engine.
 - **[solidjs/solid](https://github.com/solidjs/solid)** — A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - **[AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)** — Network-wide ads & trackers blocking DNS server
-- **[medusajs/medusa](https://github.com/medusajs/medusa)** — The world's most flexible commerce platform.
+- **[medusajs/medusa](https://github.com/medusajs/medusa)** — The world's most flexible commerce platform for agents and developers
 - **[drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)** — ORM
 - **[continuedev/continue](https://github.com/continuedev/continue)** — open-source coding agent
 - **[lissy93/web-check](https://github.com/lissy93/web-check)** — 🕵️‍♂️ All-in-one OSINT tool for analysing any website
@@ -157,8 +157,8 @@ _Last updated 2026-07-24 — 1432 active · 3 archived._
 - **[fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)** — The most advanced free and open-source browser fingerprinting library
 - **[HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)** — Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - **[srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)** — The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.
-- **[actualbudget/actual](https://github.com/actualbudget/actual)** — A local-first personal finance app
 - **[karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)** — A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+- **[actualbudget/actual](https://github.com/actualbudget/actual)** — A local-first personal finance app
 - **[hcengineering/platform](https://github.com/hcengineering/platform)** — Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - **[wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)** — The easiest way to run WireGuard VPN + Web-based Admin UI.
 - **[nilbuild/driver.js](https://github.com/nilbuild/driver.js)** — A lightweight, dependency-free JavaScript library for guiding user focus across the page.
@@ -274,8 +274,8 @@ _Last updated 2026-07-24 — 1432 active · 3 archived._
 - **[zerostaticthemes/square-ui](https://github.com/zerostaticthemes/square-ui)** — Collection of beautifully crafted open-source layouts UI built with shadcn/ui.
 - **[pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue)** — A browser based Pokémon fangame heavily inspired by the roguelite genre.
 - **[smol-ai/GodMode](https://github.com/smol-ai/GodMode)** — AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
-- **[dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge)** — Merge Tailwind CSS classes without style conflicts
 - **[antiwork/shortest](https://github.com/antiwork/shortest)** — QA via natural language AI tests
+- **[dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge)** — Merge Tailwind CSS classes without style conflicts
 - **[soketi/soketi](https://github.com/soketi/soketi)** — Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
 - **[HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web)** — A remote debugging platform you'll definitely find useful. Lightweight, cross-platform, out-of-box debugging tool
 - **[meltylabs/melty](https://github.com/meltylabs/melty)** — Chat first code editor. To download the packaged app:
@@ -288,8 +288,8 @@ _Last updated 2026-07-24 — 1432 active · 3 archived._
 - **[streamyfin/streamyfin](https://github.com/streamyfin/streamyfin)** — A modern Jellyfin client built with Expo
 - **[zidoro/pomatez](https://github.com/zidoro/pomatez)** — Stay Focused. Take a Break.
 - **[microsoft/poml](https://github.com/microsoft/poml)** — Prompt Orchestration Markup Language
-- **[vuejs/eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue)** — Official ESLint plugin for Vue.js
 - **[Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator)** — Authenticator generates 2-Step Verification codes in your browser.
+- **[vuejs/eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue)** — Official ESLint plugin for Vue.js
 - **[Bowen7/regex-vis](https://github.com/Bowen7/regex-vis)** — 🎨 Regex visualizer & editor
 - **[unjs/magic-regexp](https://github.com/unjs/magic-regexp)** — A compiled-away, type-safe, readable RegExp alternative
 - **[vuejs/composition-api](https://github.com/vuejs/composition-api)** — Composition API plugin for Vue 2
@@ -385,8 +385,8 @@ _Last updated 2026-07-24 — 1432 active · 3 archived._
 - **[browser-use/browser-use](https://github.com/browser-use/browser-use)** — 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 - **[nvbn/thefuck](https://github.com/nvbn/thefuck)** — Magnificent app which corrects your previous console command.
-- **[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** — real time face swap and one-click video deepfake with only a single image
 - **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+- **[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** — real time face swap and one-click video deepfake with only a single image
 - **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — TradingAgents: Multi-Agents LLM Financial Trading Framework
 - **[home-assistant/core](https://github.com/home-assistant/core)** — :house_with_garden: Open source home automation that puts local control and privacy first.
 - **[vllm-project/vllm](https://github.com/vllm-project/vllm)** — A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -401,11 +401,11 @@ _Last updated 2026-07-24 — 1432 active · 3 archived._
 - **[opendatalab/MinerU](https://github.com/opendatalab/MinerU)** — Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - **[apache/superset](https://github.com/apache/superset)** — Apache Superset is a Data Visualization and Data Exploration Platform
 - **[abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)** — Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-- **[binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)** — 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
 - **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)** — 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+- **[binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)** — 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
 - **[OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)** — Open Data Platform for analysts, quants and AI agents.
-- **[ansible/ansible](https://github.com/ansible/ansible)** — Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** — A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+- **[ansible/ansible](https://github.com/ansible/ansible)** — Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - **[FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT)** — 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - **[unslothai/unsloth](https://github.com/unslothai/unsloth)** — Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models.
 - **[localstack/localstack](https://github.com/localstack/localstack)** — 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
@@ -435,9 +435,9 @@ _Last updated 2026-07-24 — 1432 active · 3 archived._
 - **[usestrix/strix](https://github.com/usestrix/strix)** — Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** — A community-supported supercharged document management system: scan, index and archive all your documents
 - **[gradio-app/gradio](https://github.com/gradio-app/gradio)** — Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — Use claude code, codex or pi for free from the terminal, IDE, or you phone like OpenClaw (voice supported)
-- **[666ghj/BettaFish](https://github.com/666ghj/BettaFish)** — 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+- **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — Use claude code, codex or pi for free from the terminal, IDE, or your phone like OpenClaw (voice supported)
 - **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+- **[666ghj/BettaFish](https://github.com/666ghj/BettaFish)** — 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 - **[hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI)** — Making large AI models cheaper, faster and more accessible
 - **[QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)** — Opiniated RAG for integrating GenAI in your apps 🧠 Focus on your product rather than the RAG. Easy integration in existing products with customisation! Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.
 - **[httpie/cli](https://github.com/httpie/cli)** — 🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -461,12 +461,12 @@ _Last updated 2026-07-24 — 1432 active · 3 archived._
 - **[facefusion/facefusion](https://github.com/facefusion/facefusion)** — Industry leading face manipulation platform
 - **[python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)** — We have made you a wrapper you can't refuse
 - **[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-- **[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** — Python scraper based on AI
 - **[assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)** — An autonomous agent that conducts deep research on any data using any LLM providers
+- **[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** — Python scraper based on AI
 - **[invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)** — Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
 - **[Stability-AI/generative-models](https://github.com/Stability-AI/generative-models)** — Generative Models by Stability AI
-- **[huggingface/lerobot](https://github.com/huggingface/lerobot)** — 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
 - **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+- **[huggingface/lerobot](https://github.com/huggingface/lerobot)** — 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
 - **[Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)** — An open-source RAG-based tool for chatting with your documents.
 - **[Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui)** — GUI for a Vocal Remover that uses Deep Neural Networks.
 - **[emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)** — A list of developer portfolios for your inspiration
@@ -579,8 +579,8 @@ _Last updated 2026-07-24 — 1432 active · 3 archived._
 - **[DrKLO/Telegram](https://github.com/DrKLO/Telegram)** — Telegram for Android source
 - **[Anuken/Mindustry](https://github.com/Anuken/Mindustry)** — The automation tower defense RTS
 - **[kestra-io/kestra](https://github.com/kestra-io/kestra)** — Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
-- **[jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)** — Jenkins automation server
 - **[ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)** — Learn Low Level Design (LLD) and prepare for interviews using free resources.
+- **[jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)** — Jenkins automation server
 - **[iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)** — A tool for reverse engineering Android apk files
 - **[Netflix/Hystrix](https://github.com/Netflix/Hystrix)** — Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 - **[openjdk/jdk](https://github.com/openjdk/jdk)** — JDK main-line development https://openjdk.org/projects/jdk
@@ -671,8 +671,8 @@ _Last updated 2026-07-24 — 1432 active · 3 archived._
 - **[jreleaser/jreleaser](https://github.com/jreleaser/jreleaser)** — :rocket: Release projects quickly and easily with JReleaser
 - **[mgarin/weblaf](https://github.com/mgarin/weblaf)** — WebLaF is a fully open-source Look & Feel and component library written in pure Java for cross-platform desktop Swing applications.
 - **[vaadin/hilla](https://github.com/vaadin/hilla)** — Build better business applications, faster. No more juggling REST endpoints or deciphering GraphQL queries. Hilla seamlessly connects Spring Boot and React to accelerate application development.
-- **[spring-projects/spring-data-rest](https://github.com/spring-projects/spring-data-rest)** — Simplifies building hypermedia-driven REST web services on top of Spring Data repositories
 - **[spring-io/spring-javaformat](https://github.com/spring-io/spring-javaformat)** — 
+- **[spring-projects/spring-data-rest](https://github.com/spring-projects/spring-data-rest)** — Simplifies building hypermedia-driven REST web services on top of Spring Data repositories
 - **[gluonhq/scenebuilder](https://github.com/gluonhq/scenebuilder)** — Scene Builder is a visual, drag 'n' drop, layout tool for designing JavaFX application user interfaces.
 - **[MoKee/android_packages_apps_WarpShare](https://github.com/MoKee/android_packages_apps_WarpShare)** — 
 - **[jflex-de/jflex](https://github.com/jflex-de/jflex)** — The fast scanner generator for Java™ with full Unicode support
@@ -718,12 +718,12 @@ _Last updated 2026-07-24 — 1432 active · 3 archived._
 - **[juliangarnier/anime](https://github.com/juliangarnier/anime)** — JavaScript animation engine
 - **[Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)** — Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - **[lodash/lodash](https://github.com/lodash/lodash)** — A modern JavaScript utility library delivering modularity, performance, & extras.
-- **[adam-p/markdown-here](https://github.com/adam-p/markdown-here)** — Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** — Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+- **[adam-p/markdown-here](https://github.com/adam-p/markdown-here)** — Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - **[jquery/jquery](https://github.com/jquery/jquery)** — jQuery JavaScript Library
 - **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** — The design language that makes your AI harness better at design.
-- **[iamkun/dayjs](https://github.com/iamkun/dayjs)** — ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - **[bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)** — </> htmx - high power tools for HTML
+- **[iamkun/dayjs](https://github.com/iamkun/dayjs)** — ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - **[Leaflet/Leaflet](https://github.com/Leaflet/Leaflet)** — 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - **[videojs/video.js](https://github.com/videojs/video.js)** — Video.js - open source HTML5 video player
 - **[ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)** — ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
@@ -769,8 +769,8 @@ _Last updated 2026-07-24 — 1432 active · 3 archived._
 - **[bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)** — MOVED to https://github.com/bootstrap-vue-next/bootstrap-vue-next
 - **[http-party/node-http-proxy](https://github.com/http-party/node-http-proxy)** — A full-featured http proxy for node.js
 - **[shipshapecode/shepherd](https://github.com/shipshapecode/shepherd)** — Guide your users through a tour of your app
-- **[pomber/git-history](https://github.com/pomber/git-history)** — Quickly browse the history of a file from any git repository
 - **[advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)** — Self-hosted audiobook and podcast server
+- **[pomber/git-history](https://github.com/pomber/git-history)** — Quickly browse the history of a file from any git repository
 - **[catdad/canvas-confetti](https://github.com/catdad/canvas-confetti)** — 🎉 performant confetti animation in the browser
 - **[atomiks/tippyjs](https://github.com/atomiks/tippyjs)** — Tooltip, popover, dropdown, and menu library
 - **[lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework)** — OSINT Framework
@@ -878,7 +878,7 @@ _Last updated 2026-07-24 — 1432 active · 3 archived._
 - **[d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se)** — SD Maid 2/SE is Android's most thorough cleaning tool.
 - **[ReactiveX/RxKotlin](https://github.com/ReactiveX/RxKotlin)** — RxJava bindings for Kotlin
 - **[Gurupreet/ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook)** — A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential
-- **[sqldelight/sqldelight](https://github.com/sqldelight/sqldelight)** — SQLDelight - Generates typesafe Kotlin APIs from SQL
+- **[lysine-dev/sqldelight](https://github.com/lysine-dev/sqldelight)** — SQLDelight - Generates typesafe Kotlin APIs from SQL
 - **[chrisbanes/tivi](https://github.com/chrisbanes/tivi)** — Tivi is a TV show tracking Android app, which connects to trakt.tv
 - **[arrow-kt/arrow](https://github.com/arrow-kt/arrow)** — The perfect companion for your Kotlin journey - Inspired by functional, data-oriented and concurrent programming
 - **[androidx/androidx](https://github.com/androidx/androidx)** — Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
@@ -892,9 +892,9 @@ _Last updated 2026-07-24 — 1432 active · 3 archived._
 - **[ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template)** — 👋🧩Template repository for ReVanced Patches
 - **[Kotlin/dokka](https://github.com/Kotlin/dokka)** — API documentation engine for Kotlin
 - **[MobileNativeFoundation/Store](https://github.com/MobileNativeFoundation/Store)** — A Kotlin Multiplatform solution for working with data. Whether you’re building alone or with a team of thousands, Store can help
+- **[joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace)** — Kotlin Multiplatform sample with SwiftUI, Jetpack Compose, Compose for Wear, Compose for Desktop, and Compose for Web clients along with Ktor backend.
 - **[raamcosta/compose-destinations](https://github.com/raamcosta/compose-destinations)** — Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.
 - **[Netflix/dgs-framework](https://github.com/Netflix/dgs-framework)** — GraphQL for Java with Spring Boot made easy.
-- **[joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace)** — Kotlin Multiplatform sample with SwiftUI, Jetpack Compose, Compose for Wear, Compose for Desktop, and Compose for Web clients along with Ktor backend.
 - **[kosi-libs/Kodein](https://github.com/kosi-libs/Kodein)** — Painless Kotlin Dependency Injection
 - **[Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet)** — Ivy Wallet is an open-source money manager app for Android, no longer maintained. You can fork the code or download the final version from Google Play.
 - **[patrykandpatrick/vico](https://github.com/patrykandpatrick/vico)** — A powerful and extensible chart library for Compose Multiplatform.
@@ -1095,8 +1095,8 @@ _Last updated 2026-07-24 — 1432 active · 3 archived._
 - **[vitessio/vitess](https://github.com/vitessio/vitess)** — Vitess is a database clustering system for horizontal scaling of MySQL.
 - **[twpayne/chezmoi](https://github.com/twpayne/chezmoi)** — Manage your dotfiles across multiple diverse machines, securely.
 - **[apache/casbin](https://github.com/apache/casbin)** — Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC.
-- **[bettercap/bettercap](https://github.com/bettercap/bettercap)** — The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - **[yorukot/superfile](https://github.com/yorukot/superfile)** — Pretty fancy and modern terminal file manager
+- **[bettercap/bettercap](https://github.com/bettercap/bettercap)** — The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - **[ipfs/kubo](https://github.com/ipfs/kubo)** — An IPFS implementation in Go
 - **[dagger/dagger](https://github.com/dagger/dagger)** — Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - **[apache/answer](https://github.com/apache/answer)** — A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
@@ -1269,7 +1269,7 @@ _Last updated 2026-07-24 — 1432 active · 3 archived._
 - **[openssl/openssl](https://github.com/openssl/openssl)** — General purpose TLS and crypto library
 - **[ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)** — GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - **[hashcat/hashcat](https://github.com/hashcat/hashcat)** — World's fastest and most advanced password recovery utility
-- **[lvgl/lvgl](https://github.com/lvgl/lvgl)** — Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
+- **[lvgl/lvgl](https://github.com/lvgl/lvgl)** — LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - **[fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)** — A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - **[timescale/timescaledb](https://github.com/timescale/timescaledb)** — A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - **[jarun/nnn](https://github.com/jarun/nnn)** — n³ The unorthodox terminal file manager
@@ -1641,6 +1641,7 @@ _Last updated 2026-07-24 — 1432 active · 3 archived._
 
 ## Archived (no longer on GitHub)
 
+- **sqldelight/sqldelight** — SQLDelight - Generates typesafe Kotlin APIs from SQL _(gone since 2026-07-25, last known 6845★)_
 - **square/okhttp** — Square’s meticulous HTTP client for the JVM, Android, and GraalVM. _(gone since 2026-07-17, last known 46999★)_
 - **square/retrofit** — A type-safe HTTP client for Android and the JVM _(gone since 2026-07-17, last known 43912★)_
 - **zorenkonte/dotfiles** — @zorenkonte personal dotfiles _(gone since 2026-07-07, last known 1★)_
