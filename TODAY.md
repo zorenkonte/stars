@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-07-26 — 10 repositories_
+_2026-07-27 — 10 repositories_
 
-- **[Tameyer41/liftoff](https://github.com/Tameyer41/liftoff)** — Mock Interview Simulator with AI-Powered Feedback
-- **[TanStack/query](https://github.com/TanStack/query)** — 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
-- **[TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes)** — Application for managing recipes, planning meals, building shopping lists and much much more!
-- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — TradingAgents: Multi-Agents LLM Financial Trading Framework
-- **[Team-xManager/xManager](https://github.com/Team-xManager/xManager)** — Ad-Free, New Features & Freedom
-- **[TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)** — A libre lightweight streaming front-end for Android.
-- **[TeamNewPipe/NewPipeExtractor](https://github.com/TeamNewPipe/NewPipeExtractor)** — NewPipe's core library for extracting data from streaming sites
-- **[Telegram-FOSS-Team/Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)** — Unofficial, FOSS-friendly fork of the original Telegram client for Android
-- **[TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)** — PhotoMaker [CVPR 2024]
-- **[Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)** — Self-hosted SSH and remote desktop management.
+- **[TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)** — All Algorithms implemented in Java
+- **[TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver)** — The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.
+- **[TooTallNate/Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket)** — A barebones WebSocket client and server implementation written in 100% Java.
+- **[ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)** — ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- **[TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI)** — <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
+- **[TriliumNext/Notes](https://github.com/TriliumNext/Notes)** — Build your personal knowledge base with TriliumNext Notes
+- **[TsudaKageyu/minhook](https://github.com/TsudaKageyu/minhook)** — The Minimalistic x86/x64 API Hooking Library for Windows
+- **[Typhon0/AnimateFX](https://github.com/Typhon0/AnimateFX)** — A library of +70 ready-to-use animations for JavaFX
+- **[Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)** — Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
+- **[Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured)** — Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models. Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding.
 
