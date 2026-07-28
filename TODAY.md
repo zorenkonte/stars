@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-07-27 — 10 repositories_
+_2026-07-28 — 10 repositories_
 
-- **[TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)** — All Algorithms implemented in Java
-- **[TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver)** — The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.
-- **[TooTallNate/Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket)** — A barebones WebSocket client and server implementation written in 100% Java.
-- **[ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)** — ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
-- **[TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI)** — <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-- **[TriliumNext/Notes](https://github.com/TriliumNext/Notes)** — Build your personal knowledge base with TriliumNext Notes
-- **[TsudaKageyu/minhook](https://github.com/TsudaKageyu/minhook)** — The Minimalistic x86/x64 API Hooking Library for Windows
-- **[Typhon0/AnimateFX](https://github.com/Typhon0/AnimateFX)** — A library of +70 ready-to-use animations for JavaFX
-- **[Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)** — Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
-- **[Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured)** — Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models. Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding.
+- **[ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)** — GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
+- **[VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js)** — A lightweight JavaScript library for creating particles
+- **[Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git)** — Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
+- **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)** — A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
+- **[WeblateOrg/weblate](https://github.com/WeblateOrg/weblate)** — Web based localization tool with tight version control integration.
+- **[WendellAdriel/laravel-validated-dto](https://github.com/WendellAdriel/laravel-validated-dto)** — Data Transfer Objects with validation for Laravel applications
+- **[WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go)** — Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
+- **[WorldWindEarth/WorldWindKotlin](https://github.com/WorldWindEarth/WorldWindKotlin)** — The WorldWind Kotlin SDK (WWK) includes the library, examples and tutorials for building multiplatform 3D virtual globe applications for Android, Web and Java.
+- **[XingangPan/DragGAN](https://github.com/XingangPan/DragGAN)** — Official Code for DragGAN (SIGGRAPH 2023)
+- **[YanNerio/emotion-ratings](https://github.com/YanNerio/emotion-ratings)** — :angry: :disappointed: :expressionless: :blush: :heart_eyes: This plugin allows you to create ratings using emojis
 
