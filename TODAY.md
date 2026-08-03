@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-08-02 — 10 repositories_
+_2026-08-03 — 10 repositories_
 
-- **[andrii-kryvoviaz/slink](https://github.com/andrii-kryvoviaz/slink)** — Self-hosted image sharing service
-- **[android/compose-samples](https://github.com/android/compose-samples)** — Official Jetpack Compose samples.
-- **[android/nowinandroid](https://github.com/android/nowinandroid)** — A fully functional Android app built entirely with Kotlin and Jetpack Compose
-- **[android/sunflower](https://github.com/android/sunflower)** — A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose.
-- **[androiddevnotes/awesome-android-kotlin-apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)** — 👓 A curated list of awesome android kotlin apps by open-source contributors.
-- **[androidx/androidx](https://github.com/androidx/androidx)** — Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
-- **[angular/angular](https://github.com/angular/angular)** — Deliver web apps with confidence 🚀
-- **[aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss)** — 😎 Awesome things related to Tailwind CSS
-- **[aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi)** — An app for manga and anime
-- **[ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)** — AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
+- **[ankitects/anki](https://github.com/ankitects/anki)** — Anki is a smart spaced repetition flashcard program
+- **[anomalyco/opencode](https://github.com/anomalyco/opencode)** — The open source coding agent.
+- **[anomalyco/sst](https://github.com/anomalyco/sst)** — Build full-stack apps on your own infrastructure.
+- **[ansible/ansible](https://github.com/ansible/ansible)** — Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+- **[ant-design/ant-design](https://github.com/ant-design/ant-design)** — An enterprise-class UI design language and React UI library
+- **[ant-research/CoDeF](https://github.com/ant-research/CoDeF)** — [CVPR'24 Highlight] Official PyTorch implementation of CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
+- **[antfu-collective/icones](https://github.com/antfu-collective/icones)** — ⚡️ Icon Explorer with Instant searching, powered by Iconify
+- **[antfu-collective/ni](https://github.com/antfu-collective/ni)** — 💡 Use the right package manager
+- **[antfu-collective/unconfig](https://github.com/antfu-collective/unconfig)** — A universal solution for loading configurations.
+- **[antfu-collective/vitesse](https://github.com/antfu-collective/vitesse)** — 🏕 Opinionated Vite + Vue Starter Template
 
