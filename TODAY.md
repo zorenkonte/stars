@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-08-03 — 10 repositories_
+_2026-08-04 — 10 repositories_
 
-- **[ankitects/anki](https://github.com/ankitects/anki)** — Anki is a smart spaced repetition flashcard program
-- **[anomalyco/opencode](https://github.com/anomalyco/opencode)** — The open source coding agent.
-- **[anomalyco/sst](https://github.com/anomalyco/sst)** — Build full-stack apps on your own infrastructure.
-- **[ansible/ansible](https://github.com/ansible/ansible)** — Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
-- **[ant-design/ant-design](https://github.com/ant-design/ant-design)** — An enterprise-class UI design language and React UI library
-- **[ant-research/CoDeF](https://github.com/ant-research/CoDeF)** — [CVPR'24 Highlight] Official PyTorch implementation of CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
-- **[antfu-collective/icones](https://github.com/antfu-collective/icones)** — ⚡️ Icon Explorer with Instant searching, powered by Iconify
-- **[antfu-collective/ni](https://github.com/antfu-collective/ni)** — 💡 Use the right package manager
-- **[antfu-collective/unconfig](https://github.com/antfu-collective/unconfig)** — A universal solution for loading configurations.
-- **[antfu-collective/vitesse](https://github.com/antfu-collective/vitesse)** — 🏕 Opinionated Vite + Vue Starter Template
+- **[antfu/antfu.me](https://github.com/antfu/antfu.me)** — My personal website
+- **[antfu/eslint-config](https://github.com/antfu/eslint-config)** — Anthony's ESLint config preset
+- **[anthropics/claude-code](https://github.com/anthropics/claude-code)** — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+- **[antiwork/shortest](https://github.com/antiwork/shortest)** — QA via natural language AI tests
+- **[antoniandre/vue-cal-v4](https://github.com/antoniandre/vue-cal-v4)** — A Vue.js full calendar, no dependency, no BS. :metal:
+- **[anyproto/anytype-ts](https://github.com/anyproto/anytype-ts)** — Official Anytype client for MacOS, Linux, and Windows
+- **[apache/answer](https://github.com/apache/answer)** — A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+- **[apache/casbin](https://github.com/apache/casbin)** — Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC.
+- **[apache/casbin-jcasbin](https://github.com/apache/casbin-jcasbin)** — An authorization library that supports access control models like ACL, RBAC, ABAC in Java
+- **[apache/druid](https://github.com/apache/druid)** — Apache Druid: a high performance real-time analytics database.
 
