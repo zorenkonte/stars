@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-08-06 — 10 repositories_
+_2026-08-07 — 10 repositories_
 
-- **[api-platform/api-platform](https://github.com/api-platform/api-platform)** — 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- **[apitable/apitable](https://github.com/apitable/apitable)** — 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
-- **[apple/container](https://github.com/apple/container)** — A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
-- **[apple/pkl](https://github.com/apple/pkl)** — A configuration as code language with rich validation and tooling.
-- **[appleboy/ssh-action](https://github.com/appleboy/ssh-action)** — GitHub Actions for executing remote ssh commands.
-- **[appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)** — Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-- **[appwrite/appwrite](https://github.com/appwrite/appwrite)** — Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
-- **[aralroca/default-composer](https://github.com/aralroca/default-composer)** — A tiny (~500B) JavaScript library that allows you to set default values for nested objects
-- **[archtechx/tenancy](https://github.com/archtechx/tenancy)** — Automatic multi-tenancy for Laravel. No code changes needed.
-- **[argyleink/open-props](https://github.com/argyleink/open-props)** — CSS custom properties to help accelerate adaptive and consistent design.
+- **[aristocratos/btop](https://github.com/aristocratos/btop)** — A monitor of resources
+- **[arkivanov/Decompose](https://github.com/arkivanov/Decompose)** — Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing (navigation) and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.)
+- **[arrow-kt/arrow](https://github.com/arrow-kt/arrow)** — The perfect companion for your Kotlin journey - Inspired by functional, data-oriented and concurrent programming
+- **[asciinema/asciinema](https://github.com/asciinema/asciinema)** — Terminal session recorder, streamer and player 📹
+- **[asdf-vm/asdf](https://github.com/asdf-vm/asdf)** — Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+- **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** — Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+- **[ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews)** — Tips and resources to prepare for Behavioral interviews.
+- **[ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)** — Learn Low Level Design (LLD) and prepare for interviews using free resources.
+- **[assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)** — An autonomous agent that conducts deep research on any data using any LLM providers
+- **[assertj/assertj](https://github.com/assertj/assertj)** — Fluent testing assertions for Java and the JVM
 

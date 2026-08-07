@@ -1,6 +1,6 @@
 # ⭐ Starred Repositories Archive
 
-_Last updated 2026-08-06 — 1443 active · 5 archived._
+_Last updated 2026-08-07 — 1443 active · 5 archived._
 
 > Append-only archive. Repositories that leave GitHub (deleted, made private, renamed, or unstarred) are kept below under **Archived**, never removed.
 
@@ -108,8 +108,8 @@ _Last updated 2026-08-06 — 1443 active · 5 archived._
 - **[tldraw/tldraw](https://github.com/tldraw/tldraw)** — Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
 - **[slidevjs/slidev](https://github.com/slidevjs/slidev)** — Presentation Slides for Developers
 - **[upscayl/upscayl](https://github.com/upscayl/upscayl)** — 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-- **[slab/quill](https://github.com/slab/quill)** — Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - **[calcom/cal.diy](https://github.com/calcom/cal.diy)** — Scheduling infrastructure for absolutely everyone.
+- **[slab/quill](https://github.com/slab/quill)** — Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - **[RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** — The Secure CommsOS™ for mission-critical operations
 - **[siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)** — A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - **[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)** — GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration
@@ -340,8 +340,8 @@ _Last updated 2026-08-06 — 1443 active · 5 archived._
 - **[vue-vine/vue-vine](https://github.com/vue-vine/vue-vine)** — Another style of writing Vue components.
 - **[aholachek/animate-css-grid](https://github.com/aholachek/animate-css-grid)** — Painless transitions for CSS Grid
 - **[bitjson/qr-code](https://github.com/bitjson/qr-code)** — A no-framework, no-dependencies, customizable, animate-able, SVG-based <qr-code> HTML element.
-- **[joeattardi/picmo](https://github.com/joeattardi/picmo)** — JavaScript emoji picker. Any app, any framework.
 - **[perminder-klair/subwave](https://github.com/perminder-klair/subwave)** — Personal internet radio: Agentic AI DJ
+- **[joeattardi/picmo](https://github.com/joeattardi/picmo)** — JavaScript emoji picker. Any app, any framework.
 - **[DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)** — Hooks for fetching, caching and updating asynchronous data in Vue
 - **[smastrom/notivue](https://github.com/smastrom/notivue)** — Zero-dependency, powerful, and truly customizable toast notification system for Vue
 - **[Codennnn/Green-Wall](https://github.com/Codennnn/Green-Wall)** — ⬜🟩 GitHub Contributions Graph Generator. :octocat:
@@ -435,8 +435,8 @@ _Last updated 2026-08-06 — 1443 active · 5 archived._
 - **[exo-explore/exo](https://github.com/exo-explore/exo)** — Run frontier AI locally.
 - **[coqui-ai/TTS](https://github.com/coqui-ai/TTS)** — 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
-- **[mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)** — An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
+- **[mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)** — An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - **[getsentry/sentry](https://github.com/getsentry/sentry)** — Developer-first error tracking and performance monitoring
 - **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** — A community-supported supercharged document management system: scan, index and archive all your documents
 - **[gradio-app/gradio](https://github.com/gradio-app/gradio)** — Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -455,7 +455,7 @@ _Last updated 2026-08-06 — 1443 active · 5 archived._
 - **[chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix)** — 
 - **[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)** — ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
 - **[Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)** — The first real AI developer
-- **[nicolargo/glances](https://github.com/nicolargo/glances)** — Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- **[nicolargo/glances](https://github.com/nicolargo/glances)** — Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - **[OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)** — The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - **[FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)** — Automate the process of making money online.
 - **[iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive)** — Real-time face swap for PC streaming or video calls
@@ -464,9 +464,9 @@ _Last updated 2026-08-06 — 1443 active · 5 archived._
 - **[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - **[facefusion/facefusion](https://github.com/facefusion/facefusion)** — Industry leading face manipulation platform
 - **[python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)** — We have made you a wrapper you can't refuse
+- **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
 - **[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** — Python scraper based on AI
 - **[assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)** — An autonomous agent that conducts deep research on any data using any LLM providers
-- **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
 - **[invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)** — Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
 - **[Stability-AI/generative-models](https://github.com/Stability-AI/generative-models)** — Generative Models by Stability AI
 - **[huggingface/lerobot](https://github.com/huggingface/lerobot)** — 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
@@ -596,8 +596,8 @@ _Last updated 2026-08-06 — 1443 active · 5 archived._
 - **[thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)** — Open-source IoT Platform - Device management, data collection, processing and visualization.
 - **[google/ExoPlayer](https://github.com/google/ExoPlayer)** — This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media
 - **[oracle/graal](https://github.com/oracle/graal)** — GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
-- **[mybatis/mybatis-3](https://github.com/mybatis/mybatis-3)** — MyBatis SQL mapper framework for Java
 - **[JetBrains/intellij-community](https://github.com/JetBrains/intellij-community)** — IntelliJ IDEA & IntelliJ Platform
+- **[mybatis/mybatis-3](https://github.com/mybatis/mybatis-3)** — MyBatis SQL mapper framework for Java
 - **[ben-manes/caffeine](https://github.com/ben-manes/caffeine)** — A high performance caching library for Java
 - **[material-components/material-components-android](https://github.com/material-components/material-components-android)** — [MAINTENANCE MODE] Modular and customizable Material Design UI components for Android
 - **[questdb/questdb](https://github.com/questdb/questdb)** — QuestDB is a high performance, open-source, time-series database
@@ -816,8 +816,8 @@ _Last updated 2026-08-06 — 1443 active · 5 archived._
 - **[simonwep/pickr](https://github.com/simonwep/pickr)** — 🎨 Pickr - A simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba, hsla, hsva and more!
 - **[hustcc/canvas-nest.js](https://github.com/hustcc/canvas-nest.js)** — :cancer: Interactive Particle / Nest System With JavaScript and Canvas, no jQuery.
 - **[konstaui/konsta](https://github.com/konstaui/konsta)** — Mobile UI components made with Tailwind CSS
-- **[Alex-D/Trumbowyg](https://github.com/Alex-D/Trumbowyg)** — A lightweight and amazing WYSIWYG JavaScript editor under 10kB
 - **[nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d)** — A real-time 3D digital map of Tokyo's public transport system
+- **[Alex-D/Trumbowyg](https://github.com/Alex-D/Trumbowyg)** — A lightweight and amazing WYSIWYG JavaScript editor under 10kB
 - **[steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja)** — VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 - **[AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff)** — A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
 - **[obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas)** — An open file format for infinite canvas data.
@@ -988,7 +988,7 @@ _Last updated 2026-08-06 — 1443 active · 5 archived._
 - **[nextcloud/server](https://github.com/nextcloud/server)** — ☁️ Nextcloud server, a safe home for all your data
 - **[laravel/framework](https://github.com/laravel/framework)** — Laravel is a web application framework with expressive, elegant syntax.
 - **[filamentphp/filament](https://github.com/filamentphp/filament)** — A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
-- **[bagisto/bagisto](https://github.com/bagisto/bagisto)** — Free and open source laravel eCommerce platform
+- **[bagisto/bagisto](https://github.com/bagisto/bagisto)** — Open Source eCommerce Platform Built with Laravel for Enterprise-Scale Commerce Supporting 10M+ SKUs
 - **[firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)** — Firefly III: a personal finances manager
 - **[matomo-org/matomo](https://github.com/matomo-org/matomo)** — Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!
 - **[BookStackApp/BookStack](https://github.com/BookStackApp/BookStack)** — NOW MANAGED ON CODEBERG
@@ -1171,10 +1171,10 @@ _Last updated 2026-08-06 — 1443 active · 5 archived._
 - **[linexjlin/GPTs](https://github.com/linexjlin/GPTs)** — leaked prompts of GPTs
 - **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)** — A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
 - **[ipfs/ipfs](https://github.com/ipfs/ipfs)** — Peer-to-peer hypermedia protocol
-- **[toml-lang/toml](https://github.com/toml-lang/toml)** — Tom's Obvious, Minimal Language
 - **[obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)** — Community plugins list, theme list, and releases of Obsidian.
-- **[krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise)** — Contains Company Wise Questions sorted based on Frequency and all time
+- **[toml-lang/toml](https://github.com/toml-lang/toml)** — Tom's Obvious, Minimal Language
 - **[rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)** — List of projects that provide terminal user interfaces
+- **[krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise)** — Contains Company Wise Questions sorted based on Frequency and all time
 - **[bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter)** — ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.
 - **[aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss)** — 😎 Awesome things related to Tailwind CSS
 - **[HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone)** — Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
