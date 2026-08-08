@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-08-07 — 10 repositories_
+_2026-08-08 — 10 repositories_
 
-- **[aristocratos/btop](https://github.com/aristocratos/btop)** — A monitor of resources
-- **[arkivanov/Decompose](https://github.com/arkivanov/Decompose)** — Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing (navigation) and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.)
-- **[arrow-kt/arrow](https://github.com/arrow-kt/arrow)** — The perfect companion for your Kotlin journey - Inspired by functional, data-oriented and concurrent programming
-- **[asciinema/asciinema](https://github.com/asciinema/asciinema)** — Terminal session recorder, streamer and player 📹
-- **[asdf-vm/asdf](https://github.com/asdf-vm/asdf)** — Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** — Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
-- **[ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews)** — Tips and resources to prepare for Behavioral interviews.
-- **[ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)** — Learn Low Level Design (LLD) and prepare for interviews using free resources.
-- **[assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)** — An autonomous agent that conducts deep research on any data using any LLM providers
-- **[assertj/assertj](https://github.com/assertj/assertj)** — Fluent testing assertions for Java and the JVM
+- **[astral-sh/uv](https://github.com/astral-sh/uv)** — An extremely fast Python package and project manager, written in Rust.
+- **[atomiks/tippyjs](https://github.com/atomiks/tippyjs)** — Tooltip, popover, dropdown, and menu library
+- **[atuinsh/atuin](https://github.com/atuinsh/atuin)** — ✨ Making your shell magical
+- **[auth0/Auth0.Android](https://github.com/auth0/Auth0.Android)** — Android toolkit for Auth0 API
+- **[auth0/java-jwt](https://github.com/auth0/java-jwt)** — Java implementation of JSON Web Token (JWT)
+- **[avan1235/open-otp](https://github.com/avan1235/open-otp)** — Kotlin Multiplatform implementation of One Time Passwords Manager that compiles to native code on all platforms from single codebase
+- **[avil13/vue-sweetalert2](https://github.com/avil13/vue-sweetalert2)** — A convenient wrapper for sweetalert2.
+- **[awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)** — A list of Free Software network services and web applications which can be hosted on your own servers
+- **[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)** — A topic-centric list of HQ open datasets.
+- **[awssat/laravel-visits](https://github.com/awssat/laravel-visits)** — 📊 Laravel Visits is a counter that can be attached to any model to track its visits using Redis or Eloquent. (with tags, IP protection and caching)
 
