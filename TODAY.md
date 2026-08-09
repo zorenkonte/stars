@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-08-08 — 10 repositories_
+_2026-08-09 — 10 repositories_
 
-- **[astral-sh/uv](https://github.com/astral-sh/uv)** — An extremely fast Python package and project manager, written in Rust.
-- **[atomiks/tippyjs](https://github.com/atomiks/tippyjs)** — Tooltip, popover, dropdown, and menu library
-- **[atuinsh/atuin](https://github.com/atuinsh/atuin)** — ✨ Making your shell magical
-- **[auth0/Auth0.Android](https://github.com/auth0/Auth0.Android)** — Android toolkit for Auth0 API
-- **[auth0/java-jwt](https://github.com/auth0/java-jwt)** — Java implementation of JSON Web Token (JWT)
-- **[avan1235/open-otp](https://github.com/avan1235/open-otp)** — Kotlin Multiplatform implementation of One Time Passwords Manager that compiles to native code on all platforms from single codebase
-- **[avil13/vue-sweetalert2](https://github.com/avil13/vue-sweetalert2)** — A convenient wrapper for sweetalert2.
-- **[awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)** — A list of Free Software network services and web applications which can be hosted on your own servers
-- **[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)** — A topic-centric list of HQ open datasets.
-- **[awssat/laravel-visits](https://github.com/awssat/laravel-visits)** — 📊 Laravel Visits is a counter that can be attached to any model to track its visits using Redis or Eloquent. (with tags, IP protection and caching)
+- **[ax5ui/ax5ui-formatter](https://github.com/ax5ui/ax5ui-formatter)** — Javascript UI Component - Formatter ( Money, Date, Time Formatter )
+- **[axios/axios](https://github.com/axios/axios)** — Promise based HTTP client for the browser and node.js
+- **[babyfish-ct/jimmer](https://github.com/babyfish-ct/jimmer)** — The most advanced ORM of JVM, for both java & kotlin
+- **[bagisto/bagisto](https://github.com/bagisto/bagisto)** — Open Source eCommerce Platform Built with Laravel for Enterprise-Scale Commerce Supporting 10M+ SKUs
+- **[bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)** — 翻墙-科学上网
+- **[bantikyan/icheck-bootstrap](https://github.com/bantikyan/icheck-bootstrap)** — Pure css checkboxes and radio buttons for Twitter Bootstrap.
+- **[barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy)** — Android real-time display control software
+- **[barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper)** — IDE Helper for Laravel
+- **[barryvdh/laravel-snappy](https://github.com/barryvdh/laravel-snappy)** — Laravel Snappy PDF
+- **[basementstudio/scrollytelling](https://github.com/basementstudio/scrollytelling)** — A library for creating Scrollytelling animations, powered by React & GSAP.
 
