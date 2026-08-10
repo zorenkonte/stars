@@ -1,6 +1,6 @@
 # ⭐ Starred Repositories Archive
 
-_Last updated 2026-08-09 — 1443 active · 5 archived._
+_Last updated 2026-08-10 — 1443 active · 5 archived._
 
 > Append-only archive. Repositories that leave GitHub (deleted, made private, renamed, or unstarred) are kept below under **Archived**, never removed.
 
@@ -95,8 +95,8 @@ _Last updated 2026-08-09 — 1443 active · 5 archived._
 - **[withastro/astro](https://github.com/withastro/astro)** — The web framework for content-driven websites. ⭐️ Star to support our work!
 - **[nuxt/nuxt](https://github.com/nuxt/nuxt)** — the full-stack Vue framework
 - **[appwrite/appwrite](https://github.com/appwrite/appwrite)** — Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
-- **[laurent22/joplin](https://github.com/laurent22/joplin)** — Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** — 🎥 Make videos programmatically with React
+- **[laurent22/joplin](https://github.com/laurent22/joplin)** — Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - **[makeplane/plane](https://github.com/makeplane/plane)** — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - **[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)** — Build AI Agents, Visually
 - **[twentyhq/twenty](https://github.com/twentyhq/twenty)** — The open alternative to Salesforce, designed for AI.
@@ -137,8 +137,8 @@ _Last updated 2026-08-09 — 1443 active · 5 archived._
 - **[medusajs/medusa](https://github.com/medusajs/medusa)** — The world's most flexible commerce platform for agents and developers
 - **[continuedev/continue](https://github.com/continuedev/continue)** — open-source coding agent
 - **[drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)** — ORM
-- **[lissy93/web-check](https://github.com/lissy93/web-check)** — 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** — 📨 The ultimate agentic social media scheduling tool 🤖
+- **[lissy93/web-check](https://github.com/lissy93/web-check)** — 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - **[NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)** — Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - **[motiondivision/motion](https://github.com/motiondivision/motion)** — A modern animation library for React and JavaScript
 - **[floating-ui/floating-ui](https://github.com/floating-ui/floating-ui)** — A JavaScript library to position floating elements and create interactions for them.
@@ -219,8 +219,8 @@ _Last updated 2026-08-09 — 1443 active · 5 archived._
 - **[stenciljs/core](https://github.com/stenciljs/core)** — A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, (+ more) and traditional web applications from a single, framework-agnostic codebase.
 - **[jackyzha0/quartz](https://github.com/jackyzha0/quartz)** — 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - **[formbricks/formbricks](https://github.com/formbricks/formbricks)** — Open Source Qualtrics Alternative
-- **[rybbit-io/rybbit](https://github.com/rybbit-io/rybbit)** — 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
 - **[rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA)** — Free, Open Source, Self-Hosted WhatsApp API Gateway
+- **[rybbit-io/rybbit](https://github.com/rybbit-io/rybbit)** — 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
 - **[illacloud/illa-builder](https://github.com/illacloud/illa-builder)** — Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL, MongoDB, MSSQL, Rest API, Hugging Face, Redis, etc. Automate workflows with schedule or webhook. Open source Retool.
 - **[keplergl/kepler.gl](https://github.com/keplergl/kepler.gl)** — Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - **[developit/mitt](https://github.com/developit/mitt)** — 🥊 Tiny 200 byte functional event emitter / pubsub.
@@ -292,10 +292,10 @@ _Last updated 2026-08-09 — 1443 active · 5 archived._
 - **[zidoro/pomatez](https://github.com/zidoro/pomatez)** — Stay Focused. Take a Break.
 - **[Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator)** — Authenticator generates 2-Step Verification codes in your browser.
 - **[vuejs/eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue)** — Official ESLint plugin for Vue.js
+- **[baairon/torlink](https://github.com/baairon/torlink)** — 👾 A sleek, zero-setup torrent finder and downloader that lives right in your terminal.
 - **[Bowen7/regex-vis](https://github.com/Bowen7/regex-vis)** — 🎨 Regex visualizer & editor
 - **[unjs/magic-regexp](https://github.com/unjs/magic-regexp)** — A compiled-away, type-safe, readable RegExp alternative
 - **[vuejs/composition-api](https://github.com/vuejs/composition-api)** — Composition API plugin for Vue 2
-- **[baairon/torlink](https://github.com/baairon/torlink)** — 👾 A sleek, zero-setup torrent finder and downloader that lives right in your terminal.
 - **[tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform)** — Developer & translator friendly web-based localization platform
 - **[prazzon/Flexbox-Labs](https://github.com/prazzon/Flexbox-Labs)** — A web app for creating flexible layouts with the power of CSS Flexbox.
 - **[alovajs/alova](https://github.com/alovajs/alova)** — The request strategy layer for JavaScript. 20+ ready-made strategies cut your request code by up to 70%
@@ -422,8 +422,8 @@ _Last updated 2026-08-09 — 1443 active · 5 archived._
 - **[meta-llama/llama](https://github.com/meta-llama/llama)** — Inference code for Llama models
 - **[zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt)** — Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 - **[deepfakes/faceswap](https://github.com/deepfakes/faceswap)** — Deepfakes Software For All
-- **[soimort/you-get](https://github.com/soimort/you-get)** — :arrow_double_down: Dumb downloader that scrapes the web
 - **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+- **[soimort/you-get](https://github.com/soimort/you-get)** — :arrow_double_down: Dumb downloader that scrapes the web
 - **[AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)** — CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - **[odoo/odoo](https://github.com/odoo/odoo)** — Odoo. Open Source Apps To Grow Your Business.
 - **[lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)** — Focus on prompting and generating
@@ -462,8 +462,8 @@ _Last updated 2026-08-09 — 1443 active · 5 archived._
 - **[stanford-oval/storm](https://github.com/stanford-oval/storm)** — An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - **[feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk)** — Open source AI job application bot in Python: auto apply to jobs, with a tailored resume and cover letter for each posting.
 - **[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-- **[facefusion/facefusion](https://github.com/facefusion/facefusion)** — Industry leading face manipulation platform
 - **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+- **[facefusion/facefusion](https://github.com/facefusion/facefusion)** — Industry leading face manipulation platform
 - **[python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)** — We have made you a wrapper you can't refuse
 - **[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** — Python scraper based on AI
 - **[assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)** — An autonomous agent that conducts deep research on any data using any LLM providers
@@ -474,8 +474,8 @@ _Last updated 2026-08-09 — 1443 active · 5 archived._
 - **[Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui)** — GUI for a Vocal Remover that uses Deep Neural Networks.
 - **[Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)** — An open-source RAG-based tool for chatting with your documents.
 - **[kovidgoyal/calibre](https://github.com/kovidgoyal/calibre)** — The official source code repository for the calibre ebook manager
-- **[plotly/dash](https://github.com/plotly/dash)** — Data Apps & Dashboards for Python. No JavaScript Required.
 - **[goauthentik/authentik](https://github.com/goauthentik/authentik)** — The authentication glue you need.
+- **[plotly/dash](https://github.com/plotly/dash)** — Data Apps & Dashboards for Python. No JavaScript Required.
 - **[vanna-ai/vanna](https://github.com/vanna-ai/vanna)** — 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - **[karpathy/llm-council](https://github.com/karpathy/llm-council)** — LLM Council works together to answer your hardest questions
 - **[PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)** — Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
@@ -791,8 +791,8 @@ _Last updated 2026-08-09 — 1443 active · 5 archived._
 - **[faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js)** — UAParser.js - The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser (client-side) or Node.js (server-side).
 - **[hackmdio/codimd](https://github.com/hackmdio/codimd)** — CodiMD - Realtime collaborative markdown notes on all platforms.
 - **[streamaserver/streama](https://github.com/streamaserver/streama)** — Self hosted streaming media server. https://docs.streama-project.com/
-- **[grocy/grocy](https://github.com/grocy/grocy)** — ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - **[citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)** — The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+- **[grocy/grocy](https://github.com/grocy/grocy)** — ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - **[kpdecker/jsdiff](https://github.com/kpdecker/jsdiff)** — A javascript text differencing implementation.
 - **[nuejs/nue](https://github.com/nuejs/nue)** — Fastest way to build modern websites
 - **[ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror)** — The ProseMirror WYSIWYM editor
@@ -883,8 +883,8 @@ _Last updated 2026-08-09 — 1443 active · 5 archived._
 - **[skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)** — 🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.
 - **[facebook/litho](https://github.com/facebook/litho)** — A declarative framework for building efficient UIs on Android.
 - **[aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi)** — An app for manga and anime
-- **[Droid-ify/client](https://github.com/Droid-ify/client)** — Clutterfree F-Droid client
 - **[d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se)** — SD Maid 2/SE is Android's most thorough cleaning tool.
+- **[Droid-ify/client](https://github.com/Droid-ify/client)** — Clutterfree F-Droid client
 - **[ReactiveX/RxKotlin](https://github.com/ReactiveX/RxKotlin)** — RxJava bindings for Kotlin
 - **[Gurupreet/ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook)** — A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential
 - **[sqldelight/sqldelight](https://github.com/sqldelight/sqldelight)** — SQLDelight - Generates typesafe Kotlin APIs from SQL
@@ -1423,8 +1423,8 @@ _Last updated 2026-08-09 — 1443 active · 5 archived._
 - **[argyleink/open-props](https://github.com/argyleink/open-props)** — CSS custom properties to help accelerate adaptive and consistent design.
 - **[tobychui/zoraxy](https://github.com/tobychui/zoraxy)** — A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - **[nisrulz/app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator)** — Generate a customized Privacy Policy and Terms of Use document for your mobile apps
-- **[nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar)** — An elegant calendar and datepicker plugin for Vue.
 - **[hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji)** — Open source emojis for designers, developers and everyone else!
+- **[nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar)** — An elegant calendar and datepicker plugin for Vue.
 - **[bobbyiliev/introduction-to-docker-ebook](https://github.com/bobbyiliev/introduction-to-docker-ebook)** — Free Introduction to Docker eBook
 - **[rohunvora/just-fucking-cancel](https://github.com/rohunvora/just-fucking-cancel)** — claude code cancels your subscriptions for you
 - **[ebelinski/apilevels](https://github.com/ebelinski/apilevels)** — A microsite overview of all Android 🤖 versions and their corresponding API/SDK levels, version codes, codenames, and market shares.
