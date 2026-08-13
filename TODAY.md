@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-08-12 — 10 repositories_
+_2026-08-13 — 10 repositories_
 
-- **[blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script)** — 分流规则、重写写规则及脚本。
-- **[blakeembrey/change-case](https://github.com/blakeembrey/change-case)** — Convert strings between camelCase, PascalCase, Capital Case, snake_case and more
-- **[bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter)** — ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.
-- **[blinkospace/blinko](https://github.com/blinkospace/blinko)** — An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
-- **[bobbyiliev/introduction-to-docker-ebook](https://github.com/bobbyiliev/introduction-to-docker-ebook)** — Free Introduction to Docker eBook
-- **[bol-van/zapret](https://github.com/bol-van/zapret)** — DPI bypass multi platform
-- **[bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)** — MOVED to https://github.com/bootstrap-vue-next/bootstrap-vue-next
-- **[bpc-clone/bpc_chrome_support](https://github.com/bpc-clone/bpc_chrome_support)** — 
-- **[braver/programmingfonts](https://github.com/braver/programmingfonts)** — Test drive programming fonts online: the definitive list of fonts for code.
-- **[breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather)** — A feature-rich weather app with good visualizations and more than 50 sources.
+- **[bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)** — Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- **[brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph)** — Stack trace visualizer
+- **[briannesbitt/Carbon](https://github.com/briannesbitt/Carbon)** — A simple PHP API extension for DateTime.
+- **[browser-use/browser-use](https://github.com/browser-use/browser-use)** — 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- **[bryanlundberg/NexusTimer](https://github.com/bryanlundberg/NexusTimer)** — Nexus Timer is a powerful and minimalist training tool for SpeedCubing.
+- **[build-trust/ockam](https://github.com/build-trust/ockam)** — Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
+- **[bumble-tech/appyx](https://github.com/bumble-tech/appyx)** — Model-driven navigation + UI components with gesture control for Compose Multiplatform
+- **[bumptech/glide](https://github.com/bumptech/glide)** — An image loading and caching library for Android focused on smooth scrolling
+- **[bytebase/bytebase](https://github.com/bytebase/bytebase)** — Database governance built for humans and agents — controlling changes and access across every major database.
+- **[cachethq/cachet](https://github.com/cachethq/cachet)** — 🚦 Cachet, the open source, self-hosted status page system.
 
