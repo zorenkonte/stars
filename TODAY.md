@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-08-14 — 10 repositories_
+_2026-08-15 — 10 repositories_
 
-- **[caddyserver/caddy](https://github.com/caddyserver/caddy)** — Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- **[calcom/cal.diy](https://github.com/calcom/cal.diy)** — Scheduling infrastructure for absolutely everyone.
-- **[calebjacob/tooltipster](https://github.com/calebjacob/tooltipster)** — A jQuery tooltip plugin
-- **[calibrain/shelfmark](https://github.com/calibrain/shelfmark)** — 
-- **[canyie/pine](https://github.com/canyie/pine)** — Dynamic java method hook framework on ART. Allowing you to change almost all java methods' behavior dynamically.
-- **[capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway)** — The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.
-- **[casey/just](https://github.com/casey/just)** — 🤖 Just a command runner
-- **[cashapp/redwood](https://github.com/cashapp/redwood)** — Multiplatform reactive UI for Android, iOS, and web using Kotlin and Jetpack Compose
-- **[cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig)** — Guide for getting a gig as a tech student.
-- **[catdad/canvas-confetti](https://github.com/catdad/canvas-confetti)** — 🎉 performant confetti animation in the browser
+- **[charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)** — A powerful little TUI framework 🏗
+- **[chartdb/chartdb](https://github.com/chartdb/chartdb)** — Database diagrams editor that allows you to visualize and design your DB with a single query.
+- **[chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)** — Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+- **[cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine)** — Cheat Engine. A development environment focused on modding
+- **[checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)** — Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
+- **[chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix)** — 
+- **[chrieke/prettymapp](https://github.com/chrieke/prettymapp)** — 🖼️ Create beautiful maps from OpenStreetMap data in a streamlit webapp
+- **[chrisbanes/tivi](https://github.com/chrisbanes/tivi)** — Tivi is a TV show tracking Android app, which connects to trakt.tv
+- **[christianrowlands/android-network-survey](https://github.com/christianrowlands/android-network-survey)** — Cellular Survey Android App
+- **[clappr/clappr](https://github.com/clappr/clappr)** — An extensible, plugin-oriented, HTML5-first media player for the web
 
