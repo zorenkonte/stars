@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-08-18 — 10 repositories_
+_2026-08-19 — 10 repositories_
 
-- **[conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)** — 📓 Lint commit messages
-- **[conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version)** — :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
-- **[conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org)** — The conventional commits specification
-- **[coollabsio/coolify](https://github.com/coollabsio/coolify)** — An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-- **[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)** — Lean's LEDE source
-- **[coqui-ai/TTS](https://github.com/coqui-ai/TTS)** — 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
-- **[cosmicanant/recursive-diff](https://github.com/cosmicanant/recursive-diff)** — A JavaScript library to find diff between two JavaScript Objects. Support for Array, Number, Date and other primitive data types.
-- **[cpulvermacher/time-travel](https://github.com/cpulvermacher/time-travel)** — A browser extension to spoof the current date, time and time zone seen by websites.
-- **[crestalnetwork/intentkit](https://github.com/crestalnetwork/intentkit)** — IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.
-- **[cretueusebiu/laravel-vue-spa](https://github.com/cretueusebiu/laravel-vue-spa)** — A Laravel-Vue SPA starter kit.
+- **[cretueusebiu/vform](https://github.com/cretueusebiu/vform)** — Handle Laravel-Vue forms and validation with ease.
+- **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+- **[crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated)** — Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
+- **[cubing/cubing.js](https://github.com/cubing/cubing.js)** — 🛠 A library for displaying and working with twisty puzzles. Also currently home to the code for Twizzle.
+- **[cure53/DOMPurify](https://github.com/cure53/DOMPurify)** — DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
+- **[cursor/cursor](https://github.com/cursor/cursor)** — 
+- **[cvg/LightGlue](https://github.com/cvg/LightGlue)** — LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
+- **[cyrildewit/eloquent-viewable](https://github.com/cyrildewit/eloquent-viewable)** — A minimalistic analytics package for Laravel with seamless view tracking for Eloquent models
+- **[czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp)** — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
+- **[d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh)** — 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 
