@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-08-22 — 10 repositories_
+_2026-08-23 — 10 repositories_
 
-- **[developit/mitt](https://github.com/developit/mitt)** — 🥊 Tiny 200 byte functional event emitter / pubsub.
-- **[devicons/devicon](https://github.com/devicons/devicon)** — Set of icons representing programming languages, designing & development tools
-- **[dexie/Dexie.js](https://github.com/dexie/Dexie.js)** — A Minimalistic Wrapper for IndexedDB
-- **[dguo/make-a-readme](https://github.com/dguo/make-a-readme)** — :page_facing_up: Because nobody can read your mind (yet)
-- **[dicebear/dicebear](https://github.com/dicebear/dicebear)** — DiceBear is an avatar library for designers and developers. 🌍
-- **[dimitri/pgloader](https://github.com/dimitri/pgloader)** — Migrate to PostgreSQL in a single command!
-- **[directus/directus](https://github.com/directus/directus)** — The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- **[discourse/discourse](https://github.com/discourse/discourse)** — A platform for community discussion. Free, open, simple.
-- **[dockur/macos](https://github.com/dockur/macos)** — MacOS inside a Docker container.
-- **[dockur/windows](https://github.com/dockur/windows)** — Windows inside a Docker container.
+- **[docling-project/docling](https://github.com/docling-project/docling)** — Get your documents ready for gen AI
+- **[docmost/docmost](https://github.com/docmost/docmost)** — Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
+- **[documenso/documenso](https://github.com/documenso/documenso)** — The Open Source DocuSign Alternative.
+- **[docusealco/docuseal](https://github.com/docusealco/docuseal)** — Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+- **[dokar3/compose-sonner](https://github.com/dokar3/compose-sonner)** — An opinionated toast component for Compose Multiplatform.
+- **[dokar3/sheets](https://github.com/dokar3/sheets)** — Another feature-rich bottom sheet for Compose Multiplatform.
+- **[dokku/dokku](https://github.com/dokku/dokku)** — A docker-powered PaaS that helps you build and manage the lifecycle of applications
+- **[dolthub/dolt](https://github.com/dolthub/dolt)** — Dolt – Git for Data
+- **[dominant-strategies/go-quai](https://github.com/dominant-strategies/go-quai)** — Official Go Implementation of the Quai Network
+- **[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)** — Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
