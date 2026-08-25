@@ -1,6 +1,6 @@
 # ⭐ Starred Repositories Archive
 
-_Last updated 2026-08-24 — 1457 active · 9 archived._
+_Last updated 2026-08-25 — 1457 active · 10 archived._
 
 > Append-only archive. Repositories that leave GitHub (deleted, made private, renamed, or unstarred) are kept below under **Archived**, never removed.
 
@@ -101,8 +101,8 @@ _Last updated 2026-08-24 — 1457 active · 9 archived._
 - **[twentyhq/twenty](https://github.com/twentyhq/twenty)** — The open alternative to Salesforce, designed for AI.
 - **[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)** — Build AI Agents, Visually
 - **[vuejs/core](https://github.com/vuejs/core)** — 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- **[ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework)** — A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - **[stablyai/orca](https://github.com/stablyai/orca)** — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+- **[ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework)** — A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - **[DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)** — The repository for high quality TypeScript type definitions.
 - **[CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)** — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 - **[TanStack/query](https://github.com/TanStack/query)** — 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
@@ -144,8 +144,8 @@ _Last updated 2026-08-24 — 1457 active · 9 archived._
 - **[motiondivision/motion](https://github.com/motiondivision/motion)** — A modern animation library for React and JavaScript
 - **[floating-ui/floating-ui](https://github.com/floating-ui/floating-ui)** — A JavaScript library to position floating elements and create interactions for them.
 - **[hasura/graphql-engine](https://github.com/hasura/graphql-engine)** — Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
-- **[codex-team/editor.js](https://github.com/codex-team/editor.js)** — A block-style editor with clean JSON output
 - **[honojs/hono](https://github.com/honojs/hono)** — Web framework built on Web Standards
+- **[codex-team/editor.js](https://github.com/codex-team/editor.js)** — A block-style editor with clean JSON output
 - **[ianstormtaylor/slate](https://github.com/ianstormtaylor/slate)** — A completely customizable framework for building rich text editors. (Currently in beta.)
 - **[fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)** — Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - **[sequelize/sequelize](https://github.com/sequelize/sequelize)** — Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.
@@ -181,8 +181,8 @@ _Last updated 2026-08-24 — 1457 active · 9 archived._
 - **[vueuse/vueuse](https://github.com/vueuse/vueuse)** — Collection of essential Vue Composition Utilities for Vue 3
 - **[QwikDev/qwik](https://github.com/QwikDev/qwik)** — Instant-loading web apps, without effort
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** — Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
-- **[lit/lit](https://github.com/lit/lit)** — Lit is a simple library for building fast, lightweight web components.
 - **[desktop/desktop](https://github.com/desktop/desktop)** — Focus on what matters instead of fighting with Git.
+- **[lit/lit](https://github.com/lit/lit)** — Lit is a simple library for building fast, lightweight web components.
 - **[teableio/teable](https://github.com/teableio/teable)** — ✨ AI Spreadsheet for Business
 - **[eclipse-theia/theia](https://github.com/eclipse-theia/theia)** — Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - **[docmost/docmost](https://github.com/docmost/docmost)** — Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
@@ -206,18 +206,18 @@ _Last updated 2026-08-24 — 1457 active · 9 archived._
 - **[tinymce/tinymce](https://github.com/tinymce/tinymce)** — The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 - **[electric-sql/pglite](https://github.com/electric-sql/pglite)** — Embeddable Postgres with real-time, reactive bindings.
 - **[apitable/apitable](https://github.com/apitable/apitable)** — 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
-- **[Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)** — Self-hosted SSH and remote desktop management.
 - **[midday-ai/midday](https://github.com/midday-ai/midday)** — Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
-- **[vuejs/pinia](https://github.com/vuejs/pinia)** — 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
+- **[Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)** — Self-hosted SSH and remote desktop management.
 - **[documenso/documenso](https://github.com/documenso/documenso)** — The Open Source DocuSign Alternative.
+- **[vuejs/pinia](https://github.com/vuejs/pinia)** — 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
 - **[dexie/Dexie.js](https://github.com/dexie/Dexie.js)** — A Minimalistic Wrapper for IndexedDB
 - **[formkit/auto-animate](https://github.com/formkit/auto-animate)** — A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - **[vercel/satori](https://github.com/vercel/satori)** — Enlightened library to convert HTML and CSS to SVG
 - **[ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)** — A markdown version emoji cheat sheet
 - **[shikijs/shiki](https://github.com/shikijs/shiki)** — A beautiful yet powerful syntax highlighter
 - **[ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock)** — Skip YouTube video sponsors (browser extension)
-- **[anomalyco/opentui](https://github.com/anomalyco/opentui)** — OpenTUI is a library to build terminal user interfaces (TUI)
 - **[rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA)** — Free, Open Source, Self-Hosted WhatsApp API Gateway
+- **[anomalyco/opentui](https://github.com/anomalyco/opentui)** — OpenTUI is a library to build terminal user interfaces (TUI)
 - **[stenciljs/core](https://github.com/stenciljs/core)** — A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, (+ more) and traditional web applications from a single, framework-agnostic codebase.
 - **[jackyzha0/quartz](https://github.com/jackyzha0/quartz)** — 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - **[rybbit-io/rybbit](https://github.com/rybbit-io/rybbit)** — 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
@@ -235,8 +235,8 @@ _Last updated 2026-08-24 — 1457 active · 9 archived._
 - **[Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller)** — ⚡️ Blazing fast scrolling for any amount of data
 - **[ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts)** — Vue.js component for Apache ECharts™.
 - **[Nutlope/roomGPT](https://github.com/Nutlope/roomGPT)** — Upload a photo of your room to generate your dream room with AI.
-- **[unovue/shadcn-vue](https://github.com/unovue/shadcn-vue)** — Vue port of shadcn-ui
 - **[instantdb/instant](https://github.com/instantdb/instant)** — Instant is the best backend for AI-coded apps. You get auth, permissions, storage, presence, and streams — everything you need to ship apps your users will love.
+- **[unovue/shadcn-vue](https://github.com/unovue/shadcn-vue)** — Vue port of shadcn-ui
 - **[lucia-auth/lucia](https://github.com/lucia-auth/lucia)** — Authentication, simple and clean
 - **[wxt-dev/wxt](https://github.com/wxt-dev/wxt)** — ⚡ Next-gen Web Extension Framework
 - **[gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens)** — Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
@@ -260,8 +260,8 @@ _Last updated 2026-08-24 — 1457 active · 9 archived._
 - **[zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin)** — A plugin to edit and view Excalidraw drawings in Obsidian
 - **[0xGF/boneyard](https://github.com/0xGF/boneyard)** — Auto generated skeleton loading framework
 - **[jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js)** — ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
-- **[sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery)** — A customizable, modular, responsive, lightbox gallery plugin.
 - **[stalniy/casl](https://github.com/stalniy/casl)** — CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
+- **[sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery)** — A customizable, modular, responsive, lightbox gallery plugin.
 - **[4gray/iptvnator](https://github.com/4gray/iptvnator)** — :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - **[joe-bell/cva](https://github.com/joe-bell/cva)** — Class Variance Authority
 - **[bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow)** — A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
@@ -286,8 +286,8 @@ _Last updated 2026-08-24 — 1457 active · 9 archived._
 - **[meltylabs/melty](https://github.com/meltylabs/melty)** — Chat first code editor. To download the packaged app:
 - **[code-hike/codehike](https://github.com/code-hike/codehike)** — Build rich content websites with Markdown and React
 - **[hustcc/timeago.js](https://github.com/hustcc/timeago.js)** — :clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.
-- **[benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch)** — Diff & patch JavaScript objects
 - **[baairon/torlink](https://github.com/baairon/torlink)** — 👾 A sleek, zero-setup torrent finder and downloader that lives right in your terminal.
+- **[benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch)** — Diff & patch JavaScript objects
 - **[KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars)** — A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.
 - **[drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper)** — TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
 - **[streamyfin/streamyfin](https://github.com/streamyfin/streamyfin)** — A modern Jellyfin client built with Expo
@@ -305,10 +305,10 @@ _Last updated 2026-08-24 — 1457 active · 9 archived._
 - **[unplugin/unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import)** — Auto import APIs on-demand for Vite, Webpack and Rollup
 - **[pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder)** — The simplest way to create progressive web apps across platforms and devices. Start here. This repo is home to several projects in the PWABuilder family of tools.
 - **[remvze/moodist](https://github.com/remvze/moodist)** — Ambient sounds for focus and calm.
-- **[nuxt/content](https://github.com/nuxt/content)** — The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
 - **[vidstack/player](https://github.com/vidstack/player)** — UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
-- **[Maronato/vue-toastification](https://github.com/Maronato/vue-toastification)** — Vue notifications made easy!
+- **[nuxt/content](https://github.com/nuxt/content)** — The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
 - **[paper-design/shaders](https://github.com/paper-design/shaders)** — Zero-dependency canvas shaders that can be installed from npm or designed in Paper
+- **[Maronato/vue-toastification](https://github.com/Maronato/vue-toastification)** — Vue notifications made easy!
 - **[romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion)** — tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
 - **[workos/authkit](https://github.com/workos/authkit)** — The world's best login box powered by WorkOS and Radix.
 - **[rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI)** — A single Gradio + React WebUI with extensions for ACE-Step, OmniVoice, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, MusicGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, and Bark!
@@ -422,8 +422,8 @@ _Last updated 2026-08-24 — 1457 active · 9 archived._
 - **[ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)** — Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - **[CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)** — Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - **[meta-llama/llama](https://github.com/meta-llama/llama)** — Inference code for Llama models
-- **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - **[usestrix/strix](https://github.com/usestrix/strix)** — Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+- **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - **[deepfakes/faceswap](https://github.com/deepfakes/faceswap)** — Deepfakes Software For All
 - **[zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt)** — Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 - **[soimort/you-get](https://github.com/soimort/you-get)** — :arrow_double_down: Dumb downloader that scrapes the web
@@ -433,8 +433,8 @@ _Last updated 2026-08-24 — 1457 active · 9 archived._
 - **[run-llama/llama_index](https://github.com/run-llama/llama_index)** — LlamaIndex is the leading document agent and OCR platform
 - **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
 - **[roboflow/supervision](https://github.com/roboflow/supervision)** — We write your reusable computer vision tools. 💜
-- **[Aider-AI/aider](https://github.com/Aider-AI/aider)** — aider is AI pair programming in your terminal
 - **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
+- **[Aider-AI/aider](https://github.com/Aider-AI/aider)** — aider is AI pair programming in your terminal
 - **[oobabooga/textgen](https://github.com/oobabooga/textgen)** — Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.
 - **[exo-explore/exo](https://github.com/exo-explore/exo)** — Run frontier AI locally.
 - **[coqui-ai/TTS](https://github.com/coqui-ai/TTS)** — 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
@@ -446,8 +446,8 @@ _Last updated 2026-08-24 — 1457 active · 9 archived._
 - **[hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI)** — Making large AI models cheaper, faster and more accessible
 - **[QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)** — Opiniated RAG for integrating GenAI in your apps 🧠 Focus on your product rather than the RAG. Easy integration in existing products with customisation! Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.
 - **[PostHog/posthog](https://github.com/PostHog/posthog)** — :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
-- **[httpie/cli](https://github.com/httpie/cli)** — 🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - **[frappe/erpnext](https://github.com/frappe/erpnext)** — Free and Open Source Enterprise Resource Planning (ERP)
+- **[httpie/cli](https://github.com/httpie/cli)** — 🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - **[stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)** — DSPy: The framework for programming—not prompting—language models
 - **[satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)** — What the f*ck Python? 😱
 - **[soxoj/maigret](https://github.com/soxoj/maigret)** — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
@@ -479,8 +479,8 @@ _Last updated 2026-08-24 — 1457 active · 9 archived._
 - **[goauthentik/authentik](https://github.com/goauthentik/authentik)** — The authentication glue you need.
 - **[plotly/dash](https://github.com/plotly/dash)** — Data Apps & Dashboards for Python. No JavaScript Required.
 - **[karpathy/llm-council](https://github.com/karpathy/llm-council)** — LLM Council works together to answer your hardest questions
-- **[vanna-ai/vanna](https://github.com/vanna-ai/vanna)** — 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - **[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)** — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+- **[vanna-ai/vanna](https://github.com/vanna-ai/vanna)** — 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - **[PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)** — Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - **[airbytehq/airbyte](https://github.com/airbytehq/airbyte)** — Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 - **[Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)** — ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
@@ -490,8 +490,8 @@ _Last updated 2026-08-24 — 1457 active · 9 archived._
 - **[openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)** — The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - **[eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)** — open-source agentic AI data assistant for the next generation of AI + Data products.
 - **[stitionai/devika](https://github.com/stitionai/devika)** — Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.
-- **[nari-labs/dia](https://github.com/nari-labs/dia)** — A TTS model capable of generating ultra-realistic dialogue in one pass.
 - **[allenai/olmocr](https://github.com/allenai/olmocr)** — Toolkit for linearizing PDFs for LLM datasets/training
+- **[nari-labs/dia](https://github.com/nari-labs/dia)** — A TTS model capable of generating ultra-realistic dialogue in one pass.
 - **[iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab)** — DeepFaceLab is the leading software for creating deepfakes.
 - **[fail2ban/fail2ban](https://github.com/fail2ban/fail2ban)** — Daemon to ban hosts that cause multiple authentication errors
 - **[Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)** — Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
@@ -512,14 +512,14 @@ _Last updated 2026-08-24 — 1457 active · 9 archived._
 - **[mealie-recipes/mealie](https://github.com/mealie-recipes/mealie)** — Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
 - **[simonw/llm](https://github.com/simonw/llm)** — Access large language models from the command-line
 - **[keephq/keep](https://github.com/keephq/keep)** — The open-source AIOps and alert management platform
-- **[guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff)** — Official implementation of AnimateDiff.
 - **[rommapp/romm](https://github.com/rommapp/romm)** — A beautiful, powerful, self-hosted rom manager and player.
+- **[guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff)** — Official implementation of AnimateDiff.
 - **[simonw/datasette](https://github.com/simonw/datasette)** — An open source multi-tool for exploring and publishing data
 - **[magic-research/magic-animate](https://github.com/magic-research/magic-animate)** — [CVPR 2024] Official repository for "MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model"
 - **[karpathy/minbpe](https://github.com/karpathy/minbpe)** — Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 - **[blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot)** — The recursive internet scanner for hackers. 🧡
-- **[microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji)** — A collection of familiar, friendly, and modern emoji from Microsoft
 - **[KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT)** — A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
+- **[microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji)** — A collection of familiar, friendly, and modern emoji from Microsoft
 - **[facebookresearch/nougat](https://github.com/facebookresearch/nougat)** — Implementation of Nougat Neural Optical Understanding for Academic Documents
 - **[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)** — LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
 - **[jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama)** — The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
@@ -720,8 +720,8 @@ _Last updated 2026-08-24 — 1457 active · 9 archived._
 - **[Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)** — Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
 - **[nodejs/node](https://github.com/nodejs/node)** — Node.js JavaScript runtime ✨🐢🚀✨
 - **[mrdoob/three.js](https://github.com/mrdoob/three.js)** — JavaScript 3D Library.
-- **[axios/axios](https://github.com/axios/axios)** — Promise based HTTP client for the browser and node.js
 - **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- **[axios/axios](https://github.com/axios/axios)** — Promise based HTTP client for the browser and node.js
 - **[microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)** — 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - **[sveltejs/svelte](https://github.com/sveltejs/svelte)** — web development for the rest of us
 - **[FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)** — The iconic SVG, font, and CSS toolkit
@@ -1177,8 +1177,8 @@ _Last updated 2026-08-24 — 1457 active · 9 archived._
 - **[kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)** — A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - **[waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)** — Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - **[cursor/cursor](https://github.com/cursor/cursor)** — 
-- **[linexjlin/GPTs](https://github.com/linexjlin/GPTs)** — leaked prompts of GPTs
 - **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)** — A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
+- **[linexjlin/GPTs](https://github.com/linexjlin/GPTs)** — leaked prompts of GPTs
 - **[ipfs/ipfs](https://github.com/ipfs/ipfs)** — Peer-to-peer hypermedia protocol
 - **[obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)** — Community plugins list, theme list, and releases of Obsidian.
 - **[toml-lang/toml](https://github.com/toml-lang/toml)** — Tom's Obvious, Minimal Language
@@ -1520,8 +1520,8 @@ _Last updated 2026-08-24 — 1457 active · 9 archived._
 - **[apple/container](https://github.com/apple/container)** — A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - **[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** — Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - **[PlayCover/PlayCover](https://github.com/PlayCover/PlayCover)** — Community fork of PlayCover
+- **[vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils)** — Free and open-source macOS menu bar toolkit.
 - **[altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)** — Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp
-- **[vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)** — Free and open-source macOS menu bar toolkit.
 - **[Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk)** — The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
 
 ## Dart
@@ -1674,5 +1674,6 @@ _Last updated 2026-08-24 — 1457 active · 9 archived._
 - **square/okhttp** — Square’s meticulous HTTP client for the JVM, Android, and GraalVM. _(gone since 2026-07-17, last known 46999★)_
 - **square/retrofit** — A type-safe HTTP client for Android and the JVM _(gone since 2026-07-17, last known 43912★)_
 - **tigerzoren/BackUpAndRestore** — Basic Java BackUp and Restore MySQL Database _(gone since 2026-08-24, last known 2★)_
+- **vorssaint/vorssaint-utils** — Free and open-source macOS menu bar toolkit. _(gone since 2026-08-25, last known 9308★)_
 - **zorenkonte/dotfiles** — @zorenkonte personal dotfiles _(gone since 2026-07-07, last known 1★)_
 
