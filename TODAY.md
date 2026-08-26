@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-08-25 — 10 repositories_
+_2026-08-26 — 10 repositories_
 
-- **[duckdb/duckdb](https://github.com/duckdb/duckdb)** — DuckDB is an analytical in-process SQL database management system
-- **[duckduckgo/Android](https://github.com/duckduckgo/Android)** — DuckDuckGo Android App
-- **[duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar)** — 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
-- **[dwightjack/vue-types](https://github.com/dwightjack/vue-types)** — Vue3 Prop Types definitions
-- **[dzikoysk/reposilite](https://github.com/dzikoysk/reposilite)** — Lightweight and easy-to-use repository management software dedicated for the Maven-based artifacts in the JVM ecosystem 📦
-- **[earendil-works/pi](https://github.com/earendil-works/pi)** — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-- **[ebelinski/apilevels](https://github.com/ebelinski/apilevels)** — A microsite overview of all Android 🤖 versions and their corresponding API/SDK levels, version codes, codenames, and market shares.
-- **[eclipse-theia/theia](https://github.com/eclipse-theia/theia)** — Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- **[eclipse-vertx/vert.x](https://github.com/eclipse-vertx/vert.x)** — Vert.x is a tool-kit for building reactive applications on the JVM
-- **[ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts)** — Vue.js component for Apache ECharts™.
+- **[ekvedaras/laravel-query-intellij](https://github.com/ekvedaras/laravel-query-intellij)** — 💿 Laravel Query Builder integration for PhpStorm
+- **[elastic/elasticsearch](https://github.com/elastic/elasticsearch)** — Free and Open Source, Distributed, RESTful Search Engine
+- **[electric-sql/pglite](https://github.com/electric-sql/pglite)** — Embeddable Postgres with real-time, reactive bindings.
+- **[electron/electron](https://github.com/electron/electron)** — :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- **[eliep/vue-avatar](https://github.com/eliep/vue-avatar)** — An avatar component for vue.js
+- **[embedly/player.js](https://github.com/embedly/player.js)** — Control embedded video and audio across multiple providers
+- **[emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)** — A list of developer portfolios for your inspiration
+- **[eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)** — open-source agentic AI data assistant for the next generation of AI + Data products.
+- **[erlang/otp](https://github.com/erlang/otp)** — Erlang/OTP
+- **[eugenp/tutorials](https://github.com/eugenp/tutorials)** — Getting Started with Spring Boot 3:
 
