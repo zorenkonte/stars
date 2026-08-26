@@ -5,10 +5,15 @@ name: Deploy Pages
 # from its own directory (GitHub Pages can't serve a root-level ../stars.json).
 
 on:
+  # The daily archive commit is pushed with the built-in GITHUB_TOKEN, and GitHub
+  # deliberately does not fire `push` workflows for those commits. So chain off the
+  # archive workflow finishing instead — that's what actually refreshes the data.
+  workflow_run:
+    workflows: ["Archive Stars"]
+    types: [completed]
   push:
     branches: [main]
-    # Redeploy whenever the daily archive commit updates the data, or the reader
-    # itself changes.
+    # Redeploy when the reader itself changes, or stars.json is edited by hand.
     paths:
       - stars.json
       - docs/**
@@ -27,6 +32,8 @@ concurrency:
 
 jobs:
   deploy:
+    # Don't publish off a failed archive run; other triggers always proceed.
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
