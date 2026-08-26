@@ -188,8 +188,8 @@ _Last updated 2026-08-26 — 1461 active · 10 archived._
 - **[eclipse-theia/theia](https://github.com/eclipse-theia/theia)** — Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - **[docmost/docmost](https://github.com/docmost/docmost)** — Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - **[github/docs](https://github.com/github/docs)** — The open-source repo for docs.github.com
-- **[kortix-ai/suna](https://github.com/kortix-ai/suna)** — The open-source AI Management System
 - **[mksglu/context-mode](https://github.com/mksglu/context-mode)** — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+- **[kortix-ai/suna](https://github.com/kortix-ai/suna)** — The open-source AI Management System
 - **[rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)** — record and replay the web
 - **[linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)** — ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - **[refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)** — Desktop app to manage markdown knowledge bases
