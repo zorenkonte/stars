@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-08-28 — 10 repositories_
+_2026-08-29 — 10 repositories_
 
-- **[filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)** — File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
-- **[fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)** — The most advanced free and open-source browser fingerprinting library
-- **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** — The context API to search, scrape, and interact with the web at scale. 🔥
-- **[firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)** — Firefly III: a personal finances manager
-- **[firezone/firezone](https://github.com/firezone/firezone)** — Enterprise-ready zero-trust access platform built on WireGuard®.
-- **[firmai/financial-machine-learning](https://github.com/firmai/financial-machine-learning)** — A curated list of practical financial machine learning tools and applications.
-- **[fish-shell/fish-shell](https://github.com/fish-shell/fish-shell)** — The user-friendly command line shell.
-- **[flipt-io/flipt](https://github.com/flipt-io/flipt)** — Enterprise-ready, Git native feature management solution
-- **[floating-ui/floating-ui](https://github.com/floating-ui/floating-ui)** — A JavaScript library to position floating elements and create interactions for them.
-- **[florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)** — A Collection of application ideas which can be used to improve your coding skills.
+- **[fluent/fluent-bit](https://github.com/fluent/fluent-bit)** — Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows
+- **[flutter/flutter](https://github.com/flutter/flutter)** — Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+- **[flyway/flyway](https://github.com/flyway/flyway)** — Flyway by Redgate • Database Migrations Made Easy.
+- **[fmhy/edit](https://github.com/fmhy/edit)** — Make changes to FMHY
+- **[focus-trap/focus-trap](https://github.com/focus-trap/focus-trap)** — Trap focus within a DOM node.
+- **[folio-org/okapi](https://github.com/folio-org/okapi)** — Okapi core and modules
+- **[folke/lazy.nvim](https://github.com/folke/lazy.nvim)** — 💤 A modern plugin manager for Neovim
+- **[fork-handles/forkhandles](https://github.com/fork-handles/forkhandles)** — Foundational libraries for Kotlin
+- **[formbricks/formbricks](https://github.com/formbricks/formbricks)** — Open Source Qualtrics Alternative
+- **[formkit/auto-animate](https://github.com/formkit/auto-animate)** — A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 
