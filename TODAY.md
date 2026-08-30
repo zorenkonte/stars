@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-08-29 — 10 repositories_
+_2026-08-30 — 10 repositories_
 
-- **[fluent/fluent-bit](https://github.com/fluent/fluent-bit)** — Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows
-- **[flutter/flutter](https://github.com/flutter/flutter)** — Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- **[flyway/flyway](https://github.com/flyway/flyway)** — Flyway by Redgate • Database Migrations Made Easy.
-- **[fmhy/edit](https://github.com/fmhy/edit)** — Make changes to FMHY
-- **[focus-trap/focus-trap](https://github.com/focus-trap/focus-trap)** — Trap focus within a DOM node.
-- **[folio-org/okapi](https://github.com/folio-org/okapi)** — Okapi core and modules
-- **[folke/lazy.nvim](https://github.com/folke/lazy.nvim)** — 💤 A modern plugin manager for Neovim
-- **[fork-handles/forkhandles](https://github.com/fork-handles/forkhandles)** — Foundational libraries for Kotlin
-- **[formbricks/formbricks](https://github.com/formbricks/formbricks)** — Open Source Qualtrics Alternative
-- **[formkit/auto-animate](https://github.com/formkit/auto-animate)** — A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
+- **[framework7io/framework7](https://github.com/framework7io/framework7)** — Full featured HTML framework for building iOS & Android apps
+- **[frappe/erpnext](https://github.com/frappe/erpnext)** — Free and Open Source Enterprise Resource Planning (ERP)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** — freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+- **[friuns2/Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs)** — Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.
+- **[gabime/spdlog](https://github.com/gabime/spdlog)** — Fast C++ logging library.
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+- **[getfider/fider](https://github.com/getfider/fider)** — Open platform to collect and prioritize feedback
+- **[getsentry/sentry](https://github.com/getsentry/sentry)** — Developer-first error tracking and performance monitoring
+- **[getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)** — A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
+- **[getumbrel/umbrel](https://github.com/getumbrel/umbrel)** — An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 
