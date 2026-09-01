@@ -1,6 +1,6 @@
 # ⭐ Starred Repositories Archive
 
-_Last updated 2026-08-31 — 1462 active · 12 archived._
+_Last updated 2026-09-01 — 1462 active · 13 archived._
 
 > Append-only archive. Repositories that leave GitHub (deleted, made private, renamed, or unstarred) are kept below under **Archived**, never removed.
 
@@ -95,8 +95,8 @@ _Last updated 2026-08-31 — 1462 active · 12 archived._
 - **[withastro/astro](https://github.com/withastro/astro)** — The web framework for content-driven websites. ⭐️ Star to support our work!
 - **[nuxt/nuxt](https://github.com/nuxt/nuxt)** — the full-stack Vue framework
 - **[makeplane/plane](https://github.com/makeplane/plane)** — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-- **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** — 🎥 Make videos programmatically with React
 - **[stablyai/orca](https://github.com/stablyai/orca)** — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+- **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** — 🎥 Make videos programmatically with React
 - **[appwrite/appwrite](https://github.com/appwrite/appwrite)** — Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - **[laurent22/joplin](https://github.com/laurent22/joplin)** — Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - **[twentyhq/twenty](https://github.com/twentyhq/twenty)** — The open alternative to Salesforce, designed for AI.
@@ -335,8 +335,8 @@ _Last updated 2026-08-31 — 1462 active · 12 archived._
 - **[master-co/css](https://github.com/master-co/css)** — The markup-driven CSS language and framework — readable by humans, reliable for agents.
 - **[tableflowhq/csv-import](https://github.com/tableflowhq/csv-import)** — The open-source CSV importer, maintained by @tableflowhq
 - **[Novage/p2p-media-loader](https://github.com/Novage/p2p-media-loader)** — An open-source engine for P2P streaming of live and on demand video directly in a web browser HTML page
-- **[hristo2612/SQLNoir](https://github.com/hristo2612/SQLNoir)** — Solve mysteries through SQL.
 - **[basementstudio/scrollytelling](https://github.com/basementstudio/scrollytelling)** — A library for creating Scrollytelling animations, powered by React & GSAP.
+- **[hristo2612/SQLNoir](https://github.com/hristo2612/SQLNoir)** — Solve mysteries through SQL.
 - **[rohanprasadofficial/localflare](https://github.com/rohanprasadofficial/localflare)** — local cloudflare
 - **[Tameyer41/liftoff](https://github.com/Tameyer41/liftoff)** — Mock Interview Simulator with AI-Powered Feedback
 - **[shikijs/shiki-magic-move](https://github.com/shikijs/shiki-magic-move)** — Smoothly animated code blocks with Shiki
@@ -423,8 +423,8 @@ _Last updated 2026-08-31 — 1462 active · 12 archived._
 - **[RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)** — 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - **[ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)** — Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - **[CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)** — Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- **[meta-llama/llama](https://github.com/meta-llama/llama)** — Inference code for Llama models
 - **[usestrix/strix](https://github.com/usestrix/strix)** — Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+- **[meta-llama/llama](https://github.com/meta-llama/llama)** — Inference code for Llama models
 - **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - **[deepfakes/faceswap](https://github.com/deepfakes/faceswap)** — Deepfakes Software For All
 - **[zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt)** — Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
@@ -447,7 +447,7 @@ _Last updated 2026-08-31 — 1462 active · 12 archived._
 - **[666ghj/BettaFish](https://github.com/666ghj/BettaFish)** — 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 - **[hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI)** — Making large AI models cheaper, faster and more accessible
 - **[PostHog/posthog](https://github.com/PostHog/posthog)** — :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
-- **[QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)** — Opiniated RAG for integrating GenAI in your apps 🧠 Focus on your product rather than the RAG. Easy integration in existing products with customisation! Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.
+- **[The-Vibe-Company/Quivr](https://github.com/The-Vibe-Company/Quivr)** — Opiniated RAG for integrating GenAI in your apps 🧠 Focus on your product rather than the RAG. Easy integration in existing products with customisation! Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.
 - **[frappe/erpnext](https://github.com/frappe/erpnext)** — Free and Open Source Enterprise Resource Planning (ERP)
 - **[httpie/cli](https://github.com/httpie/cli)** — 🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - **[stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)** — DSPy: The framework for programming—not prompting—language models
@@ -464,8 +464,8 @@ _Last updated 2026-08-31 — 1462 active · 12 archived._
 - **[FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)** — Automate the process of making money online.
 - **[stanford-oval/storm](https://github.com/stanford-oval/storm)** — An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
-- **[iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive)** — Real-time face swap for PC streaming or video calls
 - **[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+- **[iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive)** — Real-time face swap for PC streaming or video calls
 - **[feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk)** — Open source AI job application bot in Python: browser automation and web scraping to read job postings, then auto-apply with a tailored resume and cover letter for each posting.
 - **[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** — Python scraper based on AI
 - **[facefusion/facefusion](https://github.com/facefusion/facefusion)** — Industry leading face manipulation platform
@@ -475,9 +475,9 @@ _Last updated 2026-08-31 — 1462 active · 12 archived._
 - **[Stability-AI/generative-models](https://github.com/Stability-AI/generative-models)** — Generative Models by Stability AI
 - **[huggingface/lerobot](https://github.com/huggingface/lerobot)** — 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
 - **[emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)** — A list of developer portfolios for your inspiration
+- **[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)** — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - **[Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui)** — GUI for a Vocal Remover that uses Deep Neural Networks.
 - **[kovidgoyal/calibre](https://github.com/kovidgoyal/calibre)** — The official source code repository for the calibre ebook manager
-- **[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)** — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - **[Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)** — An open-source RAG-based tool for chatting with your documents.
 - **[goauthentik/authentik](https://github.com/goauthentik/authentik)** — The authentication glue you need.
 - **[karpathy/llm-council](https://github.com/karpathy/llm-council)** — LLM Council works together to answer your hardest questions
@@ -541,8 +541,8 @@ _Last updated 2026-08-31 — 1462 active · 12 archived._
 - **[linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic)** — Copy playlists and liked music from Spotify to YTMusic
 - **[swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs)** — A collection of IPA files from many different sources, for TrollStore!
 - **[shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)** — 👾 Open source implementation of the ChatGPT Code Interpreter
-- **[llSourcell/Doctor-Dignity](https://github.com/llSourcell/Doctor-Dignity)** — Doctor Dignity is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
 - **[calibrain/shelfmark](https://github.com/calibrain/shelfmark)** — 
+- **[llSourcell/Doctor-Dignity](https://github.com/llSourcell/Doctor-Dignity)** — Doctor Dignity is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
 - **[jarun/ddgr](https://github.com/jarun/ddgr)** — :duck: DuckDuckGo from the terminal
 - **[music-assistant/server](https://github.com/music-assistant/server)** — Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
 - **[Soju06/codex-lb](https://github.com/Soju06/codex-lb)** — Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
@@ -634,8 +634,8 @@ _Last updated 2026-08-31 — 1462 active · 12 archived._
 - **[flyway/flyway](https://github.com/flyway/flyway)** — Flyway by Redgate • Database Migrations Made Easy.
 - **[perwendel/spark](https://github.com/perwendel/spark)** — A simple expressive web framework for java. Spark has a kotlin DSL https://github.com/perwendel/spark-kotlin
 - **[spring-projects/spring-security](https://github.com/spring-projects/spring-security)** — Spring Security
-- **[spring-projects/spring-ai](https://github.com/spring-projects/spring-ai)** — An Application Framework for AI Engineering
 - **[checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)** — Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
+- **[spring-projects/spring-ai](https://github.com/spring-projects/spring-ai)** — An Application Framework for AI Engineering
 - **[testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java)** — Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - **[mapstruct/mapstruct](https://github.com/mapstruct/mapstruct)** — An annotation processor for generating type-safe bean mappers
 - **[Col-E/Recaf](https://github.com/Col-E/Recaf)** — The modern Java bytecode editor
@@ -781,8 +781,8 @@ _Last updated 2026-08-31 — 1462 active · 12 archived._
 - **[showdownjs/showdown](https://github.com/showdownjs/showdown)** — A bidirectional Markdown to HTML to Markdown converter written in Javascript
 - **[webrtc/samples](https://github.com/webrtc/samples)** — WebRTC Web demos and samples
 - **[myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet)** — The project has been migrated to @wolf-table/table https://github.com/wolf-table/table
-- **[bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)** — MOVED to https://github.com/bootstrap-vue-next/bootstrap-vue-next
 - **[citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)** — The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+- **[bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)** — MOVED to https://github.com/bootstrap-vue-next/bootstrap-vue-next
 - **[advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)** — Self-hosted audiobook and podcast server
 - **[http-party/node-http-proxy](https://github.com/http-party/node-http-proxy)** — A full-featured http proxy for node.js
 - **[shipshapecode/shepherd](https://github.com/shipshapecode/shepherd)** — Guide your users through a tour of your app
@@ -875,8 +875,8 @@ _Last updated 2026-08-31 — 1462 active · 12 archived._
 - **[coil-kt/coil](https://github.com/coil-kt/coil)** — Image loading for Android and Compose Multiplatform.
 - **[ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)** — AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 - **[Heapy/awesome-kotlin](https://github.com/Heapy/awesome-kotlin)** — A curated list of awesome Kotlin related stuff Inspired by awesome-java.
-- **[Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)** — Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - **[breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather)** — A feature-rich weather app with good visualizations and more than 50 sources.
+- **[Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)** — Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - **[recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)** — Android app for streaming and downloading media.
 - **[JetBrains/ideavim](https://github.com/JetBrains/ideavim)** — IdeaVim – A Vim engine for JetBrains IDEs
 - **[InsertKoinIO/koin](https://github.com/InsertKoinIO/koin)** — Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
@@ -1176,8 +1176,8 @@ _Last updated 2026-08-31 — 1462 active · 12 archived._
 - **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** — Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - **[SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)** — 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - **[kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)** — A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-- **[waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)** — Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)** — A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
+- **[waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)** — Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - **[cursor/cursor](https://github.com/cursor/cursor)** — 
 - **[linexjlin/GPTs](https://github.com/linexjlin/GPTs)** — leaked prompts of GPTs
 - **[ipfs/ipfs](https://github.com/ipfs/ipfs)** — Peer-to-peer hypermedia protocol
@@ -1318,8 +1318,8 @@ _Last updated 2026-08-31 — 1462 active · 12 archived._
 
 ## C++
 
-- **[react/react-native](https://github.com/react/react-native)** — A framework for building native applications using React
 - **[ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)** — LLM inference in C/C++
+- **[react/react-native](https://github.com/react/react-native)** — A framework for building native applications using React
 - **[electron/electron](https://github.com/electron/electron)** — :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - **[godotengine/godot](https://github.com/godotengine/godot)** — Godot Engine – Multi-platform 2D and 3D game engine
 - **[bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)** — Bitcoin Core integration/staging tree
@@ -1671,6 +1671,7 @@ _Last updated 2026-08-31 — 1462 active · 12 archived._
 
 ## Archived (no longer on GitHub)
 
+- **QuivrHQ/quivr** — Opiniated RAG for integrating GenAI in your apps 🧠 Focus on your product rather than the RAG. Easy integration in existing products with customisation! Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want. _(gone since 2026-09-01, last known 39437★)_
 - **Snoopy1866/LiTiaotiao-Custom-Rules** —  _(gone since 2026-08-18, last known 10250★)_
 - **ant-research/CoDeF** — [CVPR'24 Highlight] Official PyTorch implementation of CoDeF: Content Deformation Fields for Temporally Consistent Video Processing _(gone since 2026-08-29, last known 4845★)_
 - **apernet/hysteria** — Hysteria is a powerful, lightning fast and censorship resistant proxy. _(gone since 2026-08-21, last known 22358★)_
