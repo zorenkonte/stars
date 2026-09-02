@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-09-01 — 10 repositories_
+_2026-09-02 — 10 repositories_
 
-- **[githubnext/monaspace](https://github.com/githubnext/monaspace)** — An innovative superfamily of fonts for code
-- **[gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens)** — Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
-- **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** — 📨 The ultimate agentic social media scheduling tool 🤖
-- **[givebutter/laravel-custom-fields](https://github.com/givebutter/laravel-custom-fields)** — Add custom fields to your Laravel models.
-- **[gka/chroma.js](https://github.com/gka/chroma.js)** — JavaScript library for all kinds of color manipulations
-- **[glanceapp/glance](https://github.com/glanceapp/glance)** — A self-hosted dashboard that puts all your feeds in one place
-- **[globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software)** — GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
-- **[gluonhq/maps](https://github.com/gluonhq/maps)** — 
-- **[gluonhq/scenebuilder](https://github.com/gluonhq/scenebuilder)** — Scene Builder is a visual, drag 'n' drop, layout tool for designing JavaFX application user interfaces.
-- **[goauthentik/authentik](https://github.com/goauthentik/authentik)** — The authentication glue you need.
+- **[godotengine/godot](https://github.com/godotengine/godot)** — Godot Engine – Multi-platform 2D and 3D game engine
+- **[goenning/google-indexing-script](https://github.com/goenning/google-indexing-script)** — Script to get your site indexed on Google in less than 48 hours
+- **[google/ExoPlayer](https://github.com/google/ExoPlayer)** — This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media
+- **[google/accompanist](https://github.com/google/accompanist)** — A collection of extension libraries for Jetpack Compose
+- **[google/auto](https://github.com/google/auto)** — A collection of source code generators for Java.
+- **[google/fonts](https://github.com/google/fonts)** — Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
+- **[google/guava](https://github.com/google/guava)** — Google core libraries for Java
+- **[google/magika](https://github.com/google/magika)** — Fast and accurate AI powered file content types detection
+- **[google/skia](https://github.com/google/skia)** — Skia is a complete 2D graphic library for drawing Text, Geometries, and Images. See documentation for contribution instructions.
+- **[gradio-app/gradio](https://github.com/gradio-app/gradio)** — Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 
