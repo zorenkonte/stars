@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-09-03 — 10 repositories_
+_2026-09-04 — 10 repositories_
 
-- **[gradle/gradle](https://github.com/gradle/gradle)** — Adaptable, fast automation for all
-- **[grafana/loki](https://github.com/grafana/loki)** — Like Prometheus, but for logs.
-- **[greensock/GSAP](https://github.com/greensock/GSAP)** — GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
-- **[grocy/grocy](https://github.com/grocy/grocy)** — ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
-- **[grokability/snipe-it](https://github.com/grokability/snipe-it)** — A free open source IT asset/license management system
-- **[grpc/grpc](https://github.com/grpc/grpc)** — C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-- **[grpc/grpc-java](https://github.com/grpc/grpc-java)** — The Java gRPC implementation. HTTP/2 based RPC
-- **[guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff)** — Official implementation of AnimateDiff.
-- **[hackmdio/codimd](https://github.com/hackmdio/codimd)** — CodiMD - Realtime collaborative markdown notes on all platforms.
-- **[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** — real time face swap and one-click video deepfake with only a single image
+- **[haifengl/smile](https://github.com/haifengl/smile)** — Statistical Machine Intelligence & Learning Engine
+- **[hakimel/reveal.js](https://github.com/hakimel/reveal.js)** — The HTML Presentation Framework
+- **[harness/harness](https://github.com/harness/harness)** — Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
+- **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+- **[hashcat/hashcat](https://github.com/hashcat/hashcat)** — World's fastest and most advanced password recovery utility
+- **[hashicorp/terraform](https://github.com/hashicorp/terraform)** — Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- **[hasinhayder/tailwind-cards](https://github.com/hasinhayder/tailwind-cards)** — A growing collection of text/image cards you can use/copy-paste in your tailwind css projects
+- **[hasura/graphql-engine](https://github.com/hasura/graphql-engine)** — Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
+- **[hathach/tinyusb](https://github.com/hathach/tinyusb)** — An open source cross-platform USB stack for embedded system
+- **[haxzie/krata](https://github.com/haxzie/krata)** — Krata is an in-browser GeoJSON editor and map maker
 
