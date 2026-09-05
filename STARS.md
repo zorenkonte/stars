@@ -1,12 +1,12 @@
 # ⭐ Starred Repositories Archive
 
-_Last updated 2026-09-04 — 1462 active · 15 archived._
+_Last updated 2026-09-05 — 1463 active · 15 archived._
 
 > Append-only archive. Repositories that leave GitHub (deleted, made private, renamed, or unstarred) are kept below under **Archived**, never removed.
 
 ## Languages
 
-- [TypeScript](#typescript) (313)
+- [TypeScript](#typescript) (314)
 - [Python](#python) (187)
 - [Java](#java) (149)
 - [JavaScript](#javascript) (136)
@@ -79,9 +79,9 @@ _Last updated 2026-09-04 — 1462 active · 15 archived._
 - **[tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)** — A utility-first CSS framework for rapid UI development.
 - **[microsoft/playwright](https://github.com/microsoft/playwright)** — Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - **[storybookjs/storybook](https://github.com/storybookjs/storybook)** — Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
-- **[mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)** — Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** — Model Context Protocol Servers
-- **[ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)** — ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows
+- **[mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)** — Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+- **[ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)** — ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.
 - **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)** — 🙌 OpenHands: AI-Driven Development
 - **[vitejs/vite](https://github.com/vitejs/vite)** — Next generation frontend tooling. It's fast!
 - **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
@@ -98,13 +98,13 @@ _Last updated 2026-09-04 — 1462 active · 15 archived._
 - **[makeplane/plane](https://github.com/makeplane/plane)** — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** — 🎥 Make videos programmatically with React
 - **[appwrite/appwrite](https://github.com/appwrite/appwrite)** — Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
-- **[laurent22/joplin](https://github.com/laurent22/joplin)** — Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - **[twentyhq/twenty](https://github.com/twentyhq/twenty)** — The open alternative to Salesforce, designed for AI.
+- **[laurent22/joplin](https://github.com/laurent22/joplin)** — Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - **[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)** — Build AI Agents, Visually
 - **[vuejs/core](https://github.com/vuejs/core)** — 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - **[ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework)** — A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-- **[DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)** — The repository for high quality TypeScript type definitions.
 - **[CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)** — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
+- **[DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)** — The repository for high quality TypeScript type definitions.
 - **[TanStack/query](https://github.com/TanStack/query)** — 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - **[tldraw/tldraw](https://github.com/tldraw/tldraw)** — Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
 - **[upscayl/upscayl](https://github.com/upscayl/upscayl)** — 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
@@ -216,8 +216,8 @@ _Last updated 2026-09-04 — 1462 active · 15 archived._
 - **[vercel/satori](https://github.com/vercel/satori)** — Enlightened library to convert HTML and CSS to SVG
 - **[ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)** — A markdown version emoji cheat sheet
 - **[shikijs/shiki](https://github.com/shikijs/shiki)** — A beautiful yet powerful syntax highlighter
-- **[ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock)** — Skip YouTube video sponsors (browser extension)
 - **[rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA)** — Free, Open Source, Self-Hosted WhatsApp API Gateway
+- **[ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock)** — Skip YouTube video sponsors (browser extension)
 - **[anomalyco/opentui](https://github.com/anomalyco/opentui)** — OpenTUI is a library to build terminal user interfaces (TUI)
 - **[jackyzha0/quartz](https://github.com/jackyzha0/quartz)** — 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - **[stenciljs/core](https://github.com/stenciljs/core)** — A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, (+ more) and traditional web applications from a single, framework-agnostic codebase.
@@ -326,6 +326,7 @@ _Last updated 2026-09-04 — 1462 active · 15 archived._
 - **[jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash)** — A code snippet storage solution written in React & node.js
 - **[vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui)** — A frontend library for React and Vue that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.
 - **[blakeembrey/change-case](https://github.com/blakeembrey/change-case)** — Convert strings between camelCase, PascalCase, Capital Case, snake_case and more
+- **[guillermolg00/morphicons](https://github.com/guillermolg00/morphicons)** — Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.
 - **[vuex-orm/vuex-orm](https://github.com/vuex-orm/vuex-orm)** — The Vuex plugin to enable Object-Relational Mapping access to the Vuex Store.
 - **[yeojz/otplib](https://github.com/yeojz/otplib)** — One Time Password (OTP) / 2FA for Node.js and Browser - Supports HOTP, TOTP and Google Authenticator
 - **[Mokshit06/typewind](https://github.com/Mokshit06/typewind)** — The safety of Typescript with the magic of Tailwind.
@@ -452,8 +453,8 @@ _Last updated 2026-09-04 — 1462 active · 15 archived._
 - **[httpie/cli](https://github.com/httpie/cli)** — 🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - **[stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)** — DSPy: The framework for programming—not prompting—language models
 - **[soxoj/maigret](https://github.com/soxoj/maigret)** — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
-- **[satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)** — What the f*ck Python? 😱
 - **[khoj-ai/khoj](https://github.com/khoj-ai/khoj)** — Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
+- **[satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)** — What the f*ck Python? 😱
 - **[XingangPan/DragGAN](https://github.com/XingangPan/DragGAN)** — Official Code for DragGAN (SIGGRAPH 2023)
 - **[python-poetry/poetry](https://github.com/python-poetry/poetry)** — Python packaging and dependency management made easy
 - **[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)** — ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
@@ -467,7 +468,7 @@ _Last updated 2026-09-04 — 1462 active · 15 archived._
 - **[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - **[iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive)** — Real-time face swap for PC streaming or video calls
 - **[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** — Python scraper based on AI
-- **[feder-cr/AIHawk](https://github.com/feder-cr/AIHawk)** — Born as an AI web agent that applied to jobs in bulk. Becoming a general one: an agent you point at the web and tell what to do.
+- **[feder-cr/AIHawk](https://github.com/feder-cr/AIHawk)** — Open-source AI browser agent: a web browsing agent in plain English, with a browser MCP for Claude Code, Codex and Gemini CLI. A computer-use agent for the web: it browses, clicks, types and reads real sites to do the tasks you describe. Standalone UI included.
 - **[facefusion/facefusion](https://github.com/facefusion/facefusion)** — Industry leading face manipulation platform
 - **[python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)** — We have made you a wrapper you can't refuse
 - **[assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)** — An autonomous agent that conducts deep research on any data using any LLM providers
@@ -668,8 +669,8 @@ _Last updated 2026-09-04 — 1462 active · 15 archived._
 - **[assertj/assertj](https://github.com/assertj/assertj)** — Fluent testing assertions for Java and the JVM
 - **[manifold-systems/manifold](https://github.com/manifold-systems/manifold)** — Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more.
 - **[spring-attic/spring-native](https://github.com/spring-attic/spring-native)** — Spring Native is now superseded by Spring Boot 3 official native support
-- **[JetBrains/skija](https://github.com/JetBrains/skija)** — Java bindings for Skia
 - **[apache/casbin-jcasbin](https://github.com/apache/casbin-jcasbin)** — An authorization library that supports access control models like ACL, RBAC, ABAC in Java
+- **[JetBrains/skija](https://github.com/JetBrains/skija)** — Java bindings for Skia
 - **[rsocket/rsocket-java](https://github.com/rsocket/rsocket-java)** — Java implementation of RSocket
 - **[spring-petclinic/spring-petclinic-microservices](https://github.com/spring-petclinic/spring-petclinic-microservices)** — Distributed version of Spring Petclinic built with Spring Cloud
 - **[jonashackt/spring-boot-vuejs](https://github.com/jonashackt/spring-boot-vuejs)** — Example project showing how to build a Spring Boot App providing a GUI with Vue.js
@@ -1087,8 +1088,8 @@ _Last updated 2026-09-04 — 1462 active · 15 archived._
 - **[traefik/traefik](https://github.com/traefik/traefik)** — The Cloud Native Application Proxy
 - **[usememos/memos](https://github.com/usememos/memos)** — Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - **[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)** — Open Source realtime backend in 1 file
-- **[FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)** — A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - **[rclone/rclone](https://github.com/rclone/rclone)** — "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+- **[FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)** — A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - **[jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)** — The lazier way to manage everything docker
 - **[AlistGo/alist](https://github.com/AlistGo/alist)** — 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - **[hashicorp/terraform](https://github.com/hashicorp/terraform)** — Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -1514,7 +1515,7 @@ _Last updated 2026-09-04 — 1462 active · 15 archived._
 - **[apple/container](https://github.com/apple/container)** — A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - **[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** — Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - **[nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)** — AeroSpace is an i3-like tiling window manager for macOS
-- **[vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils)** — Free and open-source macOS menu bar toolkit.
+- **[vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)** — Free and open-source macOS menu bar toolkit.
 - **[PlayCover/PlayCover](https://github.com/PlayCover/PlayCover)** — Community fork of PlayCover
 - **[altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)** — Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp
 - **[Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk)** — The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
@@ -1684,6 +1685,6 @@ _Last updated 2026-09-04 — 1462 active · 15 archived._
 - **square/okhttp** — Square’s meticulous HTTP client for the JVM, Android, and GraalVM. _(gone since 2026-07-17, last known 46999★)_
 - **square/retrofit** — A type-safe HTTP client for Android and the JVM _(gone since 2026-07-17, last known 43912★)_
 - **tigerzoren/BackUpAndRestore** — Basic Java BackUp and Restore MySQL Database _(gone since 2026-08-24, last known 2★)_
-- **vorssaint/vorssaint-utils** — Free and open-source macOS menu bar toolkit. _(gone since 2026-08-25, last known 9308★)_
+- **vorssaintapp/vorssaint-utils** — Free and open-source macOS menu bar toolkit. _(gone since 2026-09-05, last known 15025★)_
 - **zorenkonte/dotfiles** — @zorenkonte personal dotfiles _(gone since 2026-07-07, last known 1★)_
 
