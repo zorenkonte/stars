@@ -1,15 +1,15 @@
 # ⭐ Starred Repositories Archive
 
-_Last updated 2026-09-06 — 1463 active · 16 archived._
+_Last updated 2026-09-07 — 1463 active · 16 archived._
 
 > Append-only archive. Repositories that leave GitHub (deleted, made private, renamed, or unstarred) are kept below under **Archived**, never removed.
 
 ## Languages
 
-- [TypeScript](#typescript) (315)
-- [Python](#python) (187)
+- [TypeScript](#typescript) (314)
+- [Python](#python) (188)
 - [Java](#java) (149)
-- [JavaScript](#javascript) (136)
+- [JavaScript](#javascript) (137)
 - [Kotlin](#kotlin) (132)
 - [PHP](#php) (78)
 - [Go](#go) (76)
@@ -18,7 +18,7 @@ _Last updated 2026-09-06 — 1463 active · 16 archived._
 - [C](#c) (40)
 - [C++](#c) (35)
 - [Shell](#shell) (31)
-- [Vue](#vue) (28)
+- [Vue](#vue) (27)
 - [HTML](#html) (25)
 - [C#](#c) (11)
 - [Jupyter Notebook](#jupyter-notebook) (11)
@@ -79,8 +79,8 @@ _Last updated 2026-09-06 — 1463 active · 16 archived._
 - **[tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)** — A utility-first CSS framework for rapid UI development.
 - **[microsoft/playwright](https://github.com/microsoft/playwright)** — Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - **[storybookjs/storybook](https://github.com/storybookjs/storybook)** — Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
-- **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** — Model Context Protocol Servers
 - **[mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)** — Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+- **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** — Model Context Protocol Servers
 - **[ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)** — ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.
 - **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)** — 🙌 OpenHands: AI-Driven Development
 - **[vitejs/vite](https://github.com/vitejs/vite)** — Next generation frontend tooling. It's fast!
@@ -92,8 +92,8 @@ _Last updated 2026-09-06 — 1463 active · 16 archived._
 - **[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)** — There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - **[apache/echarts](https://github.com/apache/echarts)** — Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - **[nocodb/nocodb](https://github.com/nocodb/nocodb)** — 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
-- **[withastro/astro](https://github.com/withastro/astro)** — The web framework for content-driven websites. ⭐️ Star to support our work!
 - **[stablyai/orca](https://github.com/stablyai/orca)** — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+- **[withastro/astro](https://github.com/withastro/astro)** — The web framework for content-driven websites. ⭐️ Star to support our work!
 - **[nuxt/nuxt](https://github.com/nuxt/nuxt)** — the full-stack Vue framework
 - **[makeplane/plane](https://github.com/makeplane/plane)** — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** — 🎥 Make videos programmatically with React
@@ -159,7 +159,6 @@ _Last updated 2026-09-06 — 1463 active · 16 archived._
 - **[tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)** — Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - **[actualbudget/actual](https://github.com/actualbudget/actual)** — A local-first personal finance app
 - **[fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)** — The most advanced free and open-source browser fingerprinting library
-- **[srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)** — The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.
 - **[HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)** — Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - **[hcengineering/platform](https://github.com/hcengineering/platform)** — Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - **[wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)** — The easiest way to run WireGuard VPN + Web-based Admin UI.
@@ -212,10 +211,10 @@ _Last updated 2026-09-06 — 1463 active · 16 archived._
 - **[documenso/documenso](https://github.com/documenso/documenso)** — The Open Source DocuSign Alternative.
 - **[vuejs/pinia](https://github.com/vuejs/pinia)** — 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
 - **[dexie/Dexie.js](https://github.com/dexie/Dexie.js)** — A Minimalistic Wrapper for IndexedDB
-- **[formkit/auto-animate](https://github.com/formkit/auto-animate)** — A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - **[vercel/satori](https://github.com/vercel/satori)** — Enlightened library to convert HTML and CSS to SVG
-- **[ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)** — A markdown version emoji cheat sheet
+- **[formkit/auto-animate](https://github.com/formkit/auto-animate)** — A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - **[rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA)** — Free, Open Source, Self-Hosted WhatsApp API Gateway
+- **[ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)** — A markdown version emoji cheat sheet
 - **[shikijs/shiki](https://github.com/shikijs/shiki)** — A beautiful yet powerful syntax highlighter
 - **[ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock)** — Skip YouTube video sponsors (browser extension)
 - **[anomalyco/opentui](https://github.com/anomalyco/opentui)** — OpenTUI is a library to build terminal user interfaces (TUI)
@@ -248,13 +247,13 @@ _Last updated 2026-09-06 — 1463 active · 16 archived._
 - **[antfu-collective/vitesse](https://github.com/antfu-collective/vitesse)** — 🏕 Opinionated Vite + Vue Starter Template
 - **[missive/emoji-mart](https://github.com/missive/emoji-mart)** — 🏪 One component to pick them all
 - **[telegraf/telegraf](https://github.com/telegraf/telegraf)** — Modern Telegram Bot Framework for Node.js
+- **[papermark/papermark](https://github.com/papermark/papermark)** — Papermark is the open-source DocSend alternative and secure data rooms with built-in analytics and custom domains.
 - **[Nutlope/aicommits](https://github.com/Nutlope/aicommits)** — A CLI that writes your git commit messages for you with AI
 - **[yiminghe/async-validator](https://github.com/yiminghe/async-validator)** — validate form asynchronous
 - **[openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus)** — 🫖 Status page with uptime monitoring & API monitoring as code 🫖
-- **[papermark/papermark](https://github.com/papermark/papermark)** — Papermark is the open-source DocSend alternative and secure data rooms with built-in analytics and custom domains.
 - **[anyproto/anytype-ts](https://github.com/anyproto/anytype-ts)** — Official Anytype client for MacOS, Linux, and Windows
-- **[microsoft/TypeChat](https://github.com/microsoft/TypeChat)** — TypeChat is a library that makes it easy to build natural language interfaces using types.
 - **[homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)** — Your definitive source for dashboard icons.
+- **[microsoft/TypeChat](https://github.com/microsoft/TypeChat)** — TypeChat is a library that makes it easy to build natural language interfaces using types.
 - **[markdoc/markdoc](https://github.com/markdoc/markdoc)** — A powerful, flexible, Markdown-based authoring framework.
 - **[mockoon/mockoon](https://github.com/mockoon/mockoon)** — Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - **[antfu-collective/ni](https://github.com/antfu-collective/ni)** — 💡 Use the right package manager
@@ -306,8 +305,8 @@ _Last updated 2026-09-06 — 1463 active · 16 archived._
 - **[alovajs/alova](https://github.com/alovajs/alova)** — The request strategy layer for JavaScript. 20+ ready-made strategies cut your request code by up to 70%
 - **[release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)** — Drafts your next release notes as pull requests are merged into master.
 - **[unplugin/unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import)** — Auto import APIs on-demand for Vite, Webpack and Rollup
-- **[pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder)** — The simplest way to create progressive web apps across platforms and devices. Start here. This repo is home to several projects in the PWABuilder family of tools.
 - **[remvze/moodist](https://github.com/remvze/moodist)** — Ambient sounds for focus and calm.
+- **[pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder)** — The simplest way to create progressive web apps across platforms and devices. Start here. This repo is home to several projects in the PWABuilder family of tools.
 - **[vidstack/player](https://github.com/vidstack/player)** — UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
 - **[nuxt/content](https://github.com/nuxt/content)** — The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
 - **[paper-design/shaders](https://github.com/paper-design/shaders)** — Zero-dependency canvas shaders that can be installed from npm or designed in Paper
@@ -473,10 +472,11 @@ _Last updated 2026-09-06 — 1463 active · 16 archived._
 - **[facefusion/facefusion](https://github.com/facefusion/facefusion)** — Industry leading face manipulation platform
 - **[python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)** — We have made you a wrapper you can't refuse
 - **[assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)** — An autonomous agent that conducts deep research on any data using any LLM providers
+- **[srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)** — The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.
 - **[invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)** — Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
+- **[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)** — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - **[Stability-AI/generative-models](https://github.com/Stability-AI/generative-models)** — Generative Models by Stability AI
 - **[huggingface/lerobot](https://github.com/huggingface/lerobot)** — 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
-- **[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)** — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - **[emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)** — A list of developer portfolios for your inspiration
 - **[Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui)** — GUI for a Vocal Remover that uses Deep Neural Networks.
 - **[kovidgoyal/calibre](https://github.com/kovidgoyal/calibre)** — The official source code repository for the calibre ebook manager
@@ -488,8 +488,8 @@ _Last updated 2026-09-06 — 1463 active · 16 archived._
 - **[PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)** — Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - **[airbytehq/airbyte](https://github.com/airbytehq/airbyte)** — Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 - **[smicallef/spiderfoot](https://github.com/smicallef/spiderfoot)** — SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
-- **[Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)** — ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - **[netbox-community/netbox](https://github.com/netbox-community/netbox)** — The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
+- **[Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)** — ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - **[datalab-to/surya](https://github.com/datalab-to/surya)** — OCR, layout analysis, reading order, table recognition in 90+ languages
 - **[openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)** — The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - **[eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)** — open-source agentic AI data assistant for the next generation of AI + Data products.
@@ -734,7 +734,7 @@ _Last updated 2026-09-06 — 1463 active · 16 archived._
 - **[hakimel/reveal.js](https://github.com/hakimel/reveal.js)** — The HTML Presentation Framework
 - **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** — The design language that makes your AI harness better at design.
 - **[Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)** — Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
-- **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** — Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+- **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** — Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
 - **[lodash/lodash](https://github.com/lodash/lodash)** — A modern JavaScript utility library delivering modularity, performance, & extras.
 - **[adam-p/markdown-here](https://github.com/adam-p/markdown-here)** — Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - **[jquery/jquery](https://github.com/jquery/jquery)** — jQuery JavaScript Library
@@ -831,6 +831,7 @@ _Last updated 2026-09-06 — 1463 active · 16 archived._
 - **[obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas)** — An open file format for infinite canvas data.
 - **[vueuse/vue-demi](https://github.com/vueuse/vue-demi)** — 🎩 Creates Universal Library for Vue 2 & 3
 - **[calebjacob/tooltipster](https://github.com/calebjacob/tooltipster)** — A jQuery tooltip plugin
+- **[lian-yue/vue-upload-component](https://github.com/lian-yue/vue-upload-component)** — Vue.js file upload component, Multi-file upload, Upload directory, Drag upload, Drag the directory, Upload multiple files at the same time, html4 (IE 9), `PUT` method, Customize the filter
 - **[jwplayer/jwplayer](https://github.com/jwplayer/jwplayer)** — No Longer Maintained
 - **[tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit)** — The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants
 - **[tailwindlabs/tailwindcss-jit](https://github.com/tailwindlabs/tailwindcss-jit)** — 
@@ -1401,7 +1402,6 @@ _Last updated 2026-09-06 — 1463 active · 16 archived._
 - **[unovue/inspira-ui](https://github.com/unovue/inspira-ui)** — Build beautiful website using Vue & Nuxt.
 - **[Alfred-Skyblue/vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus)** — Universal Drag-and-Drop Component Supporting both Vue 3 and Vue 2
 - **[Dashibase/lotion](https://github.com/Dashibase/lotion)** — An open-source Notion UI built with Vue 3
-- **[lian-yue/vue-upload-component](https://github.com/lian-yue/vue-upload-component)** — Vue.js file upload component, Multi-file upload, Upload directory, Drag upload, Drag the directory, Upload multiple files at the same time, html4 (IE 9), `PUT` method, Customize the filter
 - **[pulsardev/vue-tour](https://github.com/pulsardev/vue-tour)** — Vue Tour is a lightweight, simple and customizable guided tour plugin for use with Vue.js. It provides a quick and easy way to guide your users through your application.
 - **[xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)** — 🔔 An opinionated toast component for Vue & Nuxt.
 - **[antoniandre/vue-cal-v4](https://github.com/antoniandre/vue-cal-v4)** — A Vue.js full calendar, no dependency, no BS. :metal:
