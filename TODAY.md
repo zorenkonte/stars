@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-09-08 — 10 repositories_
+_2026-09-09 — 10 repositories_
 
-- **[iconify/iconify](https://github.com/iconify/iconify)** — Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 200 icon sets and ~300k icons). SVG framework, React, Vue and Svelte components!
-- **[igorescodro/alkaa](https://github.com/igorescodro/alkaa)** — Kotlin multiplatform app to manage your tasks
-- **[ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)** — A markdown version emoji cheat sheet
-- **[illacloud/illa-builder](https://github.com/illacloud/illa-builder)** — Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL, MongoDB, MSSQL, Rest API, Hugging Face, Redis, etc. Automate workflows with schedule or webhook. Open source Retool.
-- **[iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)** — Design patterns implemented in Java
-- **[imanghafoori1/laravel-MasterPass](https://github.com/imanghafoori1/laravel-MasterPass)** — Helps you securely setup a master password and login into user accounts with it.
-- **[immich-app/immich](https://github.com/immich-app/immich)** — High performance self-hosted photo and video management solution.
-- **[imputnet/cobalt](https://github.com/imputnet/cobalt)** — best way to save what you love
-- **[incentius-foss/WhatTheDuck](https://github.com/incentius-foss/WhatTheDuck)** — WhatTheDuck is an open-source web application built on DuckDB. It allows users to upload CSV and Parquet files, store them in tables, and perform SQL queries on the data.
-- **[inertiajs/inertia-laravel](https://github.com/inertiajs/inertia-laravel)** — The Laravel adapter for Inertia.js.
+- **[initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim)** — Visually simulate Git operations in your own repos with a single terminal command.
+- **[instaloader/instaloader](https://github.com/instaloader/instaloader)** — Download pictures (or videos) along with their captions and other metadata from Instagram.
+- **[instantdb/instant](https://github.com/instantdb/instant)** — Instant is the best backend for AI-coded apps. You get auth, permissions, storage, presence, and streams — everything you need to ship apps your users will love.
+- **[invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja)** — A source-available invoice, quote, project and time-tracking app built with Laravel
+- **[invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)** — Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
+- **[ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework)** — A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- **[iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab)** — DeepFaceLab is the leading software for creating deepfakes.
+- **[iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive)** — Real-time face swap for PC streaming or video calls
+- **[ipfs/ipfs](https://github.com/ipfs/ipfs)** — Peer-to-peer hypermedia protocol
+- **[ipfs/kubo](https://github.com/ipfs/kubo)** — IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 

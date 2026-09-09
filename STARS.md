@@ -1,20 +1,20 @@
 # ⭐ Starred Repositories Archive
 
-_Last updated 2026-09-08 — 1463 active · 16 archived._
+_Last updated 2026-09-09 — 1463 active · 16 archived._
 
 > Append-only archive. Repositories that leave GitHub (deleted, made private, renamed, or unstarred) are kept below under **Archived**, never removed.
 
 ## Languages
 
 - [TypeScript](#typescript) (314)
-- [Python](#python) (188)
+- [Python](#python) (187)
 - [Java](#java) (149)
 - [JavaScript](#javascript) (137)
 - [Kotlin](#kotlin) (132)
 - [PHP](#php) (78)
 - [Go](#go) (76)
 - [Other](#other) (69)
-- [Rust](#rust) (48)
+- [Rust](#rust) (49)
 - [C](#c) (40)
 - [C++](#c) (35)
 - [Shell](#shell) (31)
@@ -85,8 +85,8 @@ _Last updated 2026-09-08 — 1463 active · 16 archived._
 - **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)** — 🙌 OpenHands: AI-Driven Development
 - **[vitejs/vite](https://github.com/vitejs/vite)** — Next generation frontend tooling. It's fast!
 - **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
-- **[hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)** — Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** — The open-source app everyone uses to manage agents at work
+- **[hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)** — Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - **[coder/code-server](https://github.com/coder/code-server)** — VS Code in the browser
 - **[nestjs/nest](https://github.com/nestjs/nest)** — A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - **[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)** — There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
@@ -151,8 +151,8 @@ _Last updated 2026-09-08 — 1463 active · 16 archived._
 - **[fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)** — Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - **[sequelize/sequelize](https://github.com/sequelize/sequelize)** — Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.
 - **[jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)** — Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- **[nrwl/nx](https://github.com/nrwl/nx)** — The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - **[supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)** — Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
+- **[nrwl/nx](https://github.com/nrwl/nx)** — The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - **[GitbookIO/gitbook](https://github.com/GitbookIO/gitbook)** — The open source frontend for GitBook doc sites
 - **[postcss/postcss](https://github.com/postcss/postcss)** — Transforming styles with JS plugins
 - **[karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)** — A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
@@ -166,8 +166,8 @@ _Last updated 2026-09-08 — 1463 active · 16 archived._
 - **[anomalyco/sst](https://github.com/anomalyco/sst)** — Build full-stack apps on your own infrastructure.
 - **[NativeScript/NativeScript](https://github.com/NativeScript/NativeScript)** — ⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you name it compatible.
 - **[responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)** — A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
-- **[vuejs/devtools-v6](https://github.com/vuejs/devtools-v6)** — ⚙️ Browser devtools extension for debugging Vue.js applications.
 - **[dubinc/dub](https://github.com/dubinc/dub)** — The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
+- **[vuejs/devtools-v6](https://github.com/vuejs/devtools-v6)** — ⚙️ Browser devtools extension for debugging Vue.js applications.
 - **[youzan/vant](https://github.com/youzan/vant)** — A lightweight, customizable Vue UI library for mobile web apps.
 - **[nocobase/nocobase](https://github.com/nocobase/nocobase)** — NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.
 - **[facebook/lexical](https://github.com/facebook/lexical)** — Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
@@ -211,9 +211,9 @@ _Last updated 2026-09-08 — 1463 active · 16 archived._
 - **[documenso/documenso](https://github.com/documenso/documenso)** — The Open Source DocuSign Alternative.
 - **[vuejs/pinia](https://github.com/vuejs/pinia)** — 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
 - **[dexie/Dexie.js](https://github.com/dexie/Dexie.js)** — A Minimalistic Wrapper for IndexedDB
+- **[rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA)** — Free, Open Source, Self-Hosted WhatsApp API Gateway
 - **[vercel/satori](https://github.com/vercel/satori)** — Enlightened library to convert HTML and CSS to SVG
 - **[formkit/auto-animate](https://github.com/formkit/auto-animate)** — A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
-- **[rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA)** — Free, Open Source, Self-Hosted WhatsApp API Gateway
 - **[ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)** — A markdown version emoji cheat sheet
 - **[shikijs/shiki](https://github.com/shikijs/shiki)** — A beautiful yet powerful syntax highlighter
 - **[ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock)** — Skip YouTube video sponsors (browser extension)
@@ -249,8 +249,8 @@ _Last updated 2026-09-08 — 1463 active · 16 archived._
 - **[telegraf/telegraf](https://github.com/telegraf/telegraf)** — Modern Telegram Bot Framework for Node.js
 - **[papermark/papermark](https://github.com/papermark/papermark)** — Papermark is the open-source DocSend alternative and secure data rooms with built-in analytics and custom domains.
 - **[Nutlope/aicommits](https://github.com/Nutlope/aicommits)** — A CLI that writes your git commit messages for you with AI
-- **[yiminghe/async-validator](https://github.com/yiminghe/async-validator)** — validate form asynchronous
 - **[openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus)** — 🫖 Status page with uptime monitoring & API monitoring as code 🫖
+- **[yiminghe/async-validator](https://github.com/yiminghe/async-validator)** — validate form asynchronous
 - **[anyproto/anytype-ts](https://github.com/anyproto/anytype-ts)** — Official Anytype client for MacOS, Linux, and Windows
 - **[homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)** — Your definitive source for dashboard icons.
 - **[microsoft/TypeChat](https://github.com/microsoft/TypeChat)** — TypeChat is a library that makes it easy to build natural language interfaces using types.
@@ -325,8 +325,8 @@ _Last updated 2026-09-08 — 1463 active · 16 archived._
 - **[abi/secret-llama](https://github.com/abi/secret-llama)** — Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
 - **[jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash)** — A code snippet storage solution written in React & node.js
 - **[vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui)** — A frontend library for React and Vue that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.
-- **[blakeembrey/change-case](https://github.com/blakeembrey/change-case)** — Convert strings between camelCase, PascalCase, Capital Case, snake_case and more
 - **[guillermolg00/morphicons](https://github.com/guillermolg00/morphicons)** — Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.
+- **[blakeembrey/change-case](https://github.com/blakeembrey/change-case)** — Convert strings between camelCase, PascalCase, Capital Case, snake_case and more
 - **[vuex-orm/vuex-orm](https://github.com/vuex-orm/vuex-orm)** — The Vuex plugin to enable Object-Relational Mapping access to the Vuex Store.
 - **[yeojz/otplib](https://github.com/yeojz/otplib)** — One Time Password (OTP) / 2FA for Node.js and Browser - Supports HOTP, TOTP and Google Authenticator
 - **[Mokshit06/typewind](https://github.com/Mokshit06/typewind)** — The safety of Typescript with the magic of Tailwind.
@@ -392,7 +392,7 @@ _Last updated 2026-09-08 — 1463 active · 16 archived._
 - **[Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 - **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
-- **[browser-use/browser-use](https://github.com/browser-use/browser-use)** — 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- **[browser-use/browser-use](https://github.com/browser-use/browser-use)** — Agents that use the browser.
 - **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — TradingAgents: Multi-Agents LLM Financial Trading Framework
 - **[nvbn/thefuck](https://github.com/nvbn/thefuck)** — Magnificent app which corrects your previous console command.
 - **[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** — real time face swap and one-click video deepfake with only a single image
@@ -405,12 +405,12 @@ _Last updated 2026-09-08 — 1463 active · 16 archived._
 - **[swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)** — A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - **[d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh)** — 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 - **[opendatalab/MinerU](https://github.com/opendatalab/MinerU)** — Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
-- **[Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)** — ALL IN ONE Hacking Tool For Hackers
 - **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)** — 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+- **[Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)** — ALL IN ONE Hacking Tool For Hackers
 - **[abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)** — Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - **[unslothai/unsloth](https://github.com/unslothai/unsloth)** — Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
-- **[apache/superset](https://github.com/apache/superset)** — Apache Superset is a Data Visualization and Data Exploration Platform
 - **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** — A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+- **[apache/superset](https://github.com/apache/superset)** — Apache Superset is a Data Visualization and Data Exploration Platform
 - **[OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)** — Open Data Platform for analysts, quants and AI agents.
 - **[binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)** — 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
 - **[ansible/ansible](https://github.com/ansible/ansible)** — Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
@@ -464,17 +464,17 @@ _Last updated 2026-09-08 — 1463 active · 16 archived._
 - **[OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)** — The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - **[FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)** — Automate the process of making money online.
 - **[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-- **[stanford-oval/storm](https://github.com/stanford-oval/storm)** — An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+- **[stanford-oval/storm](https://github.com/stanford-oval/storm)** — An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - **[iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive)** — Real-time face swap for PC streaming or video calls
 - **[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** — Python scraper based on AI
+- **[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)** — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - **[feder-cr/AIHawk](https://github.com/feder-cr/AIHawk)** — Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser MCP for Claude Code and Gemini CLI.
 - **[facefusion/facefusion](https://github.com/facefusion/facefusion)** — Industry leading face manipulation platform
 - **[python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)** — We have made you a wrapper you can't refuse
 - **[assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)** — An autonomous agent that conducts deep research on any data using any LLM providers
 - **[srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)** — The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.
 - **[invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)** — Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
-- **[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)** — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - **[huggingface/lerobot](https://github.com/huggingface/lerobot)** — 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
 - **[Stability-AI/generative-models](https://github.com/Stability-AI/generative-models)** — Generative Models by Stability AI
 - **[emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)** — A list of developer portfolios for your inspiration
@@ -500,7 +500,6 @@ _Last updated 2026-09-08 — 1463 active · 16 archived._
 - **[fail2ban/fail2ban](https://github.com/fail2ban/fail2ban)** — Daemon to ban hosts that cause multiple authentication errors
 - **[Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)** — Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
 - **[MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)** — Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
-- **[google/magika](https://github.com/google/magika)** — Fast and accurate AI powered file content types detection
 - **[TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI)** — <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - **[rendercv/rendercv](https://github.com/rendercv/rendercv)** — Resume builder for academics and engineers
 - **[MemoriLabs/Memori](https://github.com/MemoriLabs/Memori)** — Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. Built for enterprise, Memori works with the data infrastructure you already run, no rip-and-replace, and deploys across managed cloud, single-tenant cloud, VPC, and on-premises.
@@ -792,8 +791,8 @@ _Last updated 2026-09-08 — 1463 active · 16 archived._
 - **[catdad/canvas-confetti](https://github.com/catdad/canvas-confetti)** — 🎉 performant confetti animation in the browser
 - **[atomiks/tippyjs](https://github.com/atomiks/tippyjs)** — Tooltip, popover, dropdown, and menu library
 - **[lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework)** — OSINT Framework
-- **[PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)** — Connect APIs, remarkably fast. Free for developers.
 - **[fmhy/edit](https://github.com/fmhy/edit)** — Make changes to FMHY
+- **[PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)** — Connect APIs, remarkably fast. Free for developers.
 - **[schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop)** — PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - **[Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines)** — Programming style, best practices, and coding conventions.
 - **[yokoffing/Betterfox](https://github.com/yokoffing/Betterfox)** — Firefox user.js for optimal privacy and security. Your favorite browser, but better.
@@ -1256,6 +1255,7 @@ _Last updated 2026-09-08 — 1463 active · 16 archived._
 - **[neondatabase/neon](https://github.com/neondatabase/neon)** — Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - **[ratatui/ratatui](https://github.com/ratatui/ratatui)** — A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - **[0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)** — Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+- **[google/magika](https://github.com/google/magika)** — Fast and accurate AI powered file content types detection
 - **[windmill-labs/windmill](https://github.com/windmill-labs/windmill)** — Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - **[asciinema/asciinema](https://github.com/asciinema/asciinema)** — Terminal session recorder, streamer and player 📹
 - **[denisidoro/navi](https://github.com/denisidoro/navi)** — An interactive cheatsheet tool for the command-line
