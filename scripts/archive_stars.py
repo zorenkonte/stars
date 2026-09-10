@@ -153,21 +153,16 @@ def fetch_stars(config):
     return results
 
 
-# GraphQL is the ONLY way to read star lists (there is no REST endpoint). Lists
-# are fetched with their first page of items inline; longer lists are paged
-# through ``node(id:)`` so we never depend on a by-slug lookup.
+# GraphQL is the ONLY way to read star lists (there is no REST endpoint). The
+# lists query is kept deliberately light (no nested items): nesting 100 items
+# inside each of 100 lists was a 10,000-node request and GitHub answered it
+# with a 502. Items are paged per list through ``node(id:)`` instead.
 _LISTS_QUERY = """
 query($login: String!, $after: String) {
   user(login: $login) {
     lists(first: 100, after: $after) {
       pageInfo { hasNextPage endCursor }
-      nodes {
-        id name slug description isPrivate
-        items(first: 100) {
-          pageInfo { hasNextPage endCursor }
-          nodes { ... on Repository { nameWithOwner } }
-        }
-      }
+      nodes { id name slug description isPrivate items { totalCount } }
     }
   }
 }
@@ -190,28 +185,43 @@ query($id: ID!, $after: String) {
 """
 
 
+GRAPHQL_RETRIES = 3  # attempts for 5xx / network errors (2s, 4s backoff)
+
+
 def _graphql(query, variables, token):
-    """POST one GraphQL query and return its ``data``. Raises on any error."""
+    """POST one GraphQL query and return its ``data``. Raises on any error.
+
+    5xx responses and network errors are retried a couple of times with a
+    short backoff; GitHub's GraphQL gateway does return the odd 502.
+    """
     payload = json.dumps({"query": query, "variables": variables}).encode("utf-8")
-    req = urllib.request.Request(GRAPHQL_URL, data=payload, method="POST")
-    req.add_header("Content-Type", "application/json")
-    req.add_header("User-Agent", USER_AGENT)
-    req.add_header("Authorization", f"Bearer {token}")
-    try:
-        with urllib.request.urlopen(req) as resp:
-            body = json.loads(resp.read().decode("utf-8"))
-    except urllib.error.HTTPError as exc:
-        detail = ""
+    last_error = None
+    for attempt in range(1, GRAPHQL_RETRIES + 1):
+        req = urllib.request.Request(GRAPHQL_URL, data=payload, method="POST")
+        req.add_header("Content-Type", "application/json")
+        req.add_header("User-Agent", USER_AGENT)
+        req.add_header("Authorization", f"Bearer {token}")
         try:
-            detail = exc.read().decode("utf-8", "replace")
-        except Exception:  # pragma: no cover - best-effort error detail
-            pass
-        raise RuntimeError(f"GraphQL HTTP {exc.code}: {detail[:500]}")
-    except urllib.error.URLError as exc:
-        raise RuntimeError(f"GraphQL network error: {exc.reason}")
-    if body.get("errors"):
-        raise RuntimeError(f"GraphQL errors: {json.dumps(body['errors'])[:500]}")
-    return body.get("data") or {}
+            with urllib.request.urlopen(req) as resp:
+                body = json.loads(resp.read().decode("utf-8"))
+        except urllib.error.HTTPError as exc:
+            detail = ""
+            try:
+                detail = exc.read().decode("utf-8", "replace")
+            except Exception:  # pragma: no cover - best-effort error detail
+                pass
+            last_error = RuntimeError(f"GraphQL HTTP {exc.code}: {detail[:300]}")
+            if exc.code < 500:
+                raise last_error
+        except urllib.error.URLError as exc:
+            last_error = RuntimeError(f"GraphQL network error: {exc.reason}")
+        else:
+            if body.get("errors"):
+                raise RuntimeError(f"GraphQL errors: {json.dumps(body['errors'])[:500]}")
+            return body.get("data") or {}
+        if attempt < GRAPHQL_RETRIES:
+            time.sleep(2 ** attempt)
+    raise last_error
 
 
 def _item_names(conn):
@@ -251,18 +261,21 @@ def fetch_lists(config):
             for node in conn.get("nodes") or []:
                 if not node or not node.get("slug"):
                     continue
-                repos = _item_names(node.get("items") or {})
-                # Page through lists longer than 100 items.
-                items_page = (node.get("items") or {}).get("pageInfo") or {}
-                while items_page.get("hasNextPage"):
+                # Items are paged per list (100 at a time) in separate, small
+                # requests; an empty list costs no request at all.
+                repos = []
+                total = ((node.get("items") or {}).get("totalCount"))
+                items_after = None
+                while total is None or total > 0:
                     more = _graphql(
-                        _LIST_ITEMS_QUERY,
-                        {"id": node["id"], "after": items_page.get("endCursor")},
-                        token,
+                        _LIST_ITEMS_QUERY, {"id": node["id"], "after": items_after}, token
                     )
                     items = ((more.get("node") or {}).get("items")) or {}
                     repos.extend(_item_names(items))
                     items_page = items.get("pageInfo") or {}
+                    if not items_page.get("hasNextPage"):
+                        break
+                    items_after = items_page.get("endCursor")
                     time.sleep(0.2)
                 lists[node["slug"]] = {
                     "slug": node["slug"],
