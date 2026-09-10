@@ -107,6 +107,15 @@
 
   /* ---- Repo list -------------------------------------------------------- */
   ul.repos { list-style: none; margin: 16px 0 0; padding: 0; }
+  li.group {
+    position: sticky; top: var(--controls-h, 0px); z-index: 4;
+    display: flex; align-items: baseline; gap: 8px;
+    margin: 20px 0 0; padding: 8px 4px;
+    background: var(--bg); border-bottom: 2px solid var(--border);
+    font-size: 1.05rem; font-weight: 600;
+  }
+  li.group:first-child { margin-top: 4px; }
+  li.group .group-count { color: var(--muted); font-size: 0.85rem; font-weight: 500; font-variant-numeric: tabular-nums; }
   li.repo {
     padding: 14px 4px; border-bottom: 1px solid var(--border);
   }
@@ -167,6 +176,13 @@
             <option value="starred" selected>Recently starred</option>
             <option value="added">Recently added</option>
             <option value="name">Name (A–Z)</option>
+          </select>
+        </label>
+        <label class="field">Group
+          <select id="group" aria-label="Group repositories">
+            <option value="" selected>None</option>
+            <option value="language">Language</option>
+            <option value="status">Status</option>
           </select>
         </label>
       </div>
@@ -233,10 +249,12 @@
   var $ = function (id) { return document.getElementById(id); };
   var elApp = $("app"), elEmpty = $("empty"), elStats = $("stats");
   var elSearch = $("search"), elLang = $("lang"), elSort = $("sort"), elStatus = $("status");
+  var elGroup = $("group"), elControls = document.querySelector(".controls");
   var elList = $("list"), elCount = $("count");
 
   var RECORDS = [];   // normalized, with precomputed search haystack
-  var state = { q: "", lang: "", status: "all", sort: "starred" };
+  var LANG_COUNTS = Object.create(null); // language -> total count, for group ordering
+  var state = { q: "", lang: "", status: "all", sort: "starred", group: "" };
 
   // ---- Load -------------------------------------------------------------
   fetch("./stars.json", { cache: "no-cache" })
@@ -261,7 +279,7 @@
   // ---- Init -------------------------------------------------------------
   function init(repos, keys) {
     var active = 0, gone = 0, lastSeen = "";
-    var langCounts = Object.create(null);
+    var langCounts = LANG_COUNTS;
 
     RECORDS = keys.map(function (k) {
       var r = repos[k];
@@ -320,6 +338,14 @@
     }, 150));
     elLang.addEventListener("change", function () { state.lang = elLang.value; apply(); });
     elSort.addEventListener("change", function () { state.sort = elSort.value; apply(); });
+    elGroup.addEventListener("change", function () { state.group = elGroup.value; apply(); });
+
+    // Keep sticky group headings tucked under the sticky controls bar.
+    function measureControls() {
+      document.documentElement.style.setProperty("--controls-h", elControls.offsetHeight + "px");
+    }
+    window.addEventListener("resize", debounce(measureControls, 100));
+    measureControls();
     elStatus.addEventListener("change", function (e) {
       if (e.target && e.target.name === "status") { state.status = e.target.value; apply(); }
     });
@@ -348,14 +374,59 @@
       out.push(r);
     }
     out.sort(SORTERS[state.sort] || SORTERS.starred);
-    render(out);
+    render(out, groupRows(out, state.group));
     elCount.textContent = "showing " + out.length.toLocaleString() +
       " of " + RECORDS.length.toLocaleString();
   }
 
-  function render(rows) {
-    var html = new Array(rows.length);
+  // Returns null (flat list) or an ordered array of { label, start, end }
+  // spans over `rows`, which is stably re-ordered in place so that each
+  // group's repos are contiguous while keeping the active sort within it.
+  function groupRows(rows, mode) {
+    if (!mode) return null;
+    var keyOf = mode === "status"
+      ? function (r) { return r.status; }
+      : function (r) { return r.langKey; };
+    var buckets = Object.create(null), keys = [];
     for (var i = 0; i < rows.length; i++) {
+      var k = keyOf(rows[i]);
+      if (!buckets[k]) { buckets[k] = []; keys.push(k); }
+      buckets[k].push(rows[i]);
+    }
+    if (mode === "status") {
+      keys.sort(function (a, b) { return (a === "active" ? 0 : 1) - (b === "active" ? 0 : 1); });
+    } else {
+      // Same order as STARS.md: most repos first, then name.
+      keys.sort(function (a, b) {
+        return (LANG_COUNTS[b] || 0) - (LANG_COUNTS[a] || 0) || a.localeCompare(b);
+      });
+    }
+    var groups = [], pos = 0;
+    for (var g = 0; g < keys.length; g++) {
+      var b = buckets[keys[g]];
+      for (var j = 0; j < b.length; j++) rows[pos + j] = b[j];
+      groups.push({
+        label: mode === "status" ? (keys[g] === "gone" ? "Gone" : "Active") : keys[g],
+        start: pos, end: pos + b.length
+      });
+      pos += b.length;
+    }
+    return groups;
+  }
+
+  function render(rows, groups) {
+    var html = [];
+    var g = 0, nextGroupAt = groups && groups.length ? groups[0].start : -1;
+    for (var i = 0; i < rows.length; i++) {
+      if (i === nextGroupAt) {
+        var grp = groups[g++];
+        html.push(
+          '<li class="group" role="presentation">' +
+            '<span class="group-label">' + esc(grp.label) + "</span>" +
+            '<span class="group-count">' + (grp.end - grp.start).toLocaleString() + "</span>" +
+          "</li>");
+        nextGroupAt = g < groups.length ? groups[g].start : -1;
+      }
       var r = rows[i];
       var gone = r.status === "gone";
       var nameHTML = SAFE_URL.test(r.html_url)
@@ -374,7 +445,7 @@
         ? '<span class="topics">' + esc(r.topics.slice(0, 6).join(" · ")) + "</span>"
         : "";
 
-      html[i] =
+      html.push(
         '<li class="repo' + (gone ? " gone" : "") + '">' +
           '<div class="repo-head">' + nameHTML + badge + "</div>" +
           desc +
@@ -384,7 +455,7 @@
             starredMeta +
             topics +
           "</div>" +
-        "</li>";
+        "</li>");
     }
     elList.innerHTML = html.join("");
   }

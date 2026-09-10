@@ -21,8 +21,10 @@ A static, browsable view of the archive is published to GitHub Pages:
 It's a single self-contained page (`docs/index.html` — vanilla HTML/CSS/JS, no
 build step, no frameworks, no CDNs) that reads `stars.json` in your browser and
 gives you live search (across name, description, topics, language), a language
-filter with counts, an active/gone/all toggle, and sorting by most recently
-starred (the default), stars, most recently added, or name. Gone repos are shown
+filter with counts, an active/gone/all toggle, sorting by most recently
+starred (the default), stars, most recently added, or name, and an optional
+grouping of the list by language (same order as `STARS.md`) or by
+active/gone status, with sticky group headings and per-group counts. Gone repos are shown
 muted with a "gone since" badge. It follows your system light/dark preference.
 
 The [`pages.yml`](.github/workflows/pages.yml) workflow redeploys the site as
