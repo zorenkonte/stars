@@ -183,30 +183,36 @@ def main():
 
 
 def _test_fetch_lists_pagination():
-    """Drive fetch_lists through two list pages and a >100-item list."""
+    """Drive fetch_lists through two list pages and a >100-item list.
+
+    The lists query must stay light (no nested items -- that 502'd for real);
+    items are paged per list via node(id:). An empty list costs no request.
+    """
     calls = []
 
     def fake_graphql(query, variables, token):
         calls.append((query.strip().splitlines()[0], dict(variables)))
         if "node(id: $id)" in query:
-            # Second (and last) page of items for the big list.
-            assert variables == {"id": "L1", "after": "items-cursor-1"}, variables
+            assert variables["id"] == "L1", "the empty list L2 must not be queried for items"
+            if variables["after"] is None:
+                return {"node": {"items": {
+                    "pageInfo": {"hasNextPage": True, "endCursor": "items-cursor-1"},
+                    "nodes": [{"nameWithOwner": "octocat/b"}, {"nameWithOwner": "octocat/a"}, None],
+                }}}
+            assert variables["after"] == "items-cursor-1", variables
             return {"node": {"items": {
                 "pageInfo": {"hasNextPage": False, "endCursor": None},
                 "nodes": [{"nameWithOwner": "octocat/c"}, {"nameWithOwner": "octocat/a"}],
             }}}
         assert "user(login: $login)" in query, "public mode must query user(login:)"
+        assert "nodes { ... on Repository" not in query, "lists query must not nest items (502)"
         assert variables["login"] == "zorenkonte"
         if variables["after"] is None:
             return {"user": {"lists": {
                 "pageInfo": {"hasNextPage": True, "endCursor": "lists-cursor-1"},
                 "nodes": [{
                     "id": "L1", "name": "Selfhost", "slug": "selfhost",
-                    "description": "Home lab", "isPrivate": False,
-                    "items": {
-                        "pageInfo": {"hasNextPage": True, "endCursor": "items-cursor-1"},
-                        "nodes": [{"nameWithOwner": "octocat/b"}, {"nameWithOwner": "octocat/a"}, None],
-                    },
+                    "description": "Home lab", "isPrivate": False, "items": {"totalCount": 4},
                 }],
             }}}
         assert variables["after"] == "lists-cursor-1", variables
@@ -214,7 +220,7 @@ def _test_fetch_lists_pagination():
             "pageInfo": {"hasNextPage": False, "endCursor": None},
             "nodes": [{
                 "id": "L2", "name": "Vue", "slug": "vue", "description": None, "isPrivate": False,
-                "items": {"pageInfo": {"hasNextPage": False, "endCursor": None}, "nodes": []},
+                "items": {"totalCount": 0},
             }],
         }}}
 
@@ -229,7 +235,7 @@ def _test_fetch_lists_pagination():
                          "repos": ["octocat/a", "octocat/b", "octocat/c"]},
             "vue": {"slug": "vue", "name": "Vue", "description": None, "repos": []},
         }, got
-        assert len(calls) == 3, calls
+        assert len(calls) == 4, calls  # 2 list pages + 2 item pages for L1, none for L2
 
         # No token -> None (skipped), no request made.
         calls.clear()
