@@ -38,6 +38,11 @@ jobs:
           # The built-in token is enough for PUBLIC starred repos (5,000
           # requests/hour). It is scoped to this repo and can push commits.
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Star lists are only visible to their owner (the built-in token sees
+          # none), so they need a personal access token. Create a classic PAT
+          # with `read:user` and save it as the repository secret STARS_TOKEN.
+          # Empty (unset secret) simply skips lists and keeps previous data.
+          STARS_TOKEN: ${{ secrets.STARS_TOKEN }}
           # DAILY_COUNT: "10"   # how many repos TODAY.md surfaces each run
           #
           # --- To also archive PRIVATE starred repos ---------------------- #

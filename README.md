@@ -107,11 +107,13 @@ top-level `lists` object maps each slug to its display name and description:
 1. **Fetch** every page of the starred API (`per_page=100`, until an empty page)
    using the `application/vnd.github.star+json` media type so it also captures
    `starred_at`.
-2. **Fetch star lists** via the GraphQL API (`user.lists` → `items`, paged
-   100 at a time). Lists have no REST endpoint, so this needs a token; the
-   built-in `GITHUB_TOKEN` is enough for public lists. This step is
-   **non-fatal**: without a token, or on any GraphQL error, it logs a warning
-   and the previous list data is kept.
+2. **Fetch star lists** via the GraphQL API (`viewer.lists` → `items`, paged
+   100 at a time). Lists have no REST endpoint and GitHub only shows them to
+   their **owner**: the built-in `GITHUB_TOKEN` gets `totalCount: 0`, so this
+   step uses the `STARS_TOKEN` personal access token (see
+   [Archiving star lists](#archiving-star-lists)). It is **non-fatal**: without
+   a PAT, or on any GraphQL error, it logs a message and the previous list data
+   is kept.
 3. **Load** the existing `stars.json`.
 4. **Merge** the live list into it (append-only, per the table above), then
    refresh list membership for active repos.
@@ -139,6 +141,21 @@ Nothing to configure for **public** stars — the workflow uses the built-in
 The workflow commits the regenerated files back to the repo only when something
 actually changed (`git diff --cached --quiet` guard).
 
+### Archiving star lists
+
+Star lists are only visible to the account that owns them, so the workflow
+needs a token that *is* you:
+
+1. Create a **classic** personal access token with the `read:user` scope
+   (add `repo` too if you also want private stars, below).
+2. Save it as the repository secret **`STARS_TOKEN`**.
+3. Run *Archive Stars* (Actions → Run workflow). The log line
+   `Archive updated: … N lists` confirms it; the web reader's **List** filter
+   and badges appear on the next Pages deploy.
+
+Without the secret the run logs `Star lists: 0 visible to this token …` and
+keeps whatever list data was archived before.
+
 ### Archiving private starred repos
 
 The public starred endpoint can't see stars on private repos. To include them:
@@ -157,7 +174,8 @@ The public starred endpoint can't see stars on private repos. To include them:
 
    `USE_AUTH_USER=true` makes the script query `/user/starred` (the
    authenticated user's stars, private included) instead of the public
-   `/users/{username}/starred`.
+   `/users/{username}/starred`. (Star lists already use `STARS_TOKEN` on their
+   own; you don't need this switch for them.)
 
 ### Configuration reference
 
@@ -165,6 +183,7 @@ The public starred endpoint can't see stars on private repos. To include them:
 | --- | --- | --- |
 | `STARS_USERNAME` | `zorenkonte` | User whose public stars are archived. |
 | `GH_TOKEN` | *(none)* | Token for auth. `GITHUB_TOKEN` in CI; a PAT for private stars. Falls back to `STARS_TOKEN` if set. |
+| `STARS_TOKEN` | *(none)* | Owner's PAT (`read:user`) used to fetch **star lists** as `viewer`. Unset → lists are skipped and previous list data kept. |
 | `USE_AUTH_USER` | `false` | If `true`, query `/user/starred` (needs a PAT). |
 | `DAILY_COUNT` | `10` | How many repos `TODAY.md` surfaces per run. |
 | `STARS_JSON` / `STARS_MD` / `TODAY_MD` | `stars.json` / `STARS.md` / `TODAY.md` | Output paths. |
@@ -205,8 +224,8 @@ python scripts/test_archive_stars.py
 - **Public rate limits are low.** Unauthenticated requests are capped at 60/hour;
   the workflow always sends a token (5,000/hour), so this only matters for
   ad-hoc local runs without `GH_TOKEN`.
-- **Star lists need a token and only cover what the token can see.** GraphQL
-  refuses unauthenticated requests, so local runs without `GH_TOKEN` skip lists
-  (and keep whatever was archived). Private lists are only visible with a PAT
-  in `USE_AUTH_USER=true` mode. List badges appear on the web reader after the
-  first archive run that fetches lists successfully.
+- **Star lists need the owner's PAT.** GitHub exposes star lists only to their
+  owner (verified: the Actions token sees `totalCount: 0`, and the lists page
+  is a 404 when anonymous), so without `STARS_TOKEN` lists are skipped and
+  whatever was archived before is kept. List badges appear on the web reader
+  after the first archive run that fetches lists successfully.

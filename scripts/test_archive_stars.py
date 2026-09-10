@@ -242,16 +242,29 @@ def _test_fetch_lists_pagination():
         archive_stars._graphql = boom
         assert REAL_FETCH_LISTS(cfg) is None
 
-        # Authenticated mode queries viewer instead of user(login:).
+        # With the Actions token (user(login:) mode) GitHub reports 0 lists for
+        # a user who does have them: must be treated as unknown -> None.
+        def zero_lists(query, variables, token):
+            return {"user": {"lists": {"pageInfo": {"hasNextPage": False}, "nodes": []}}}
+        archive_stars._graphql = zero_lists
+        assert REAL_FETCH_LISTS(cfg) is None, "0 lists via user(login:) must not wipe membership"
+
+        # A PAT (STARS_TOKEN) queries viewer, with that token, and 0 lists is then real.
+        seen = {}
         def viewer_only(query, variables, token):
+            seen["token"] = token
             assert "viewer {" in query and "login" not in variables, (query[:60], variables)
             return {"viewer": {"lists": {"pageInfo": {"hasNextPage": False}, "nodes": []}}}
         archive_stars._graphql = viewer_only
+        assert REAL_FETCH_LISTS({"username": "x", "token": "actions", "lists_token": "pat",
+                                 "lists_as_viewer": True, "use_auth_user": False}) == {}
+        assert seen["token"] == "pat", "lists must be fetched with STARS_TOKEN, not GH_TOKEN"
         assert REAL_FETCH_LISTS({"username": "x", "token": "t", "use_auth_user": True}) == {}
     finally:
         archive_stars._graphql, archive_stars.time.sleep = real_graphql, real_sleep
     print("[ok] fetch_lists: paginates lists and >100-item lists, skips without token, "
-          "survives GraphQL errors, uses viewer in USE_AUTH_USER mode")
+          "survives GraphQL errors, treats 0 lists via user(login:) as unknown, "
+          "uses viewer + STARS_TOKEN for a PAT")
 
 
 if __name__ == "__main__":
