@@ -7,7 +7,9 @@ starred repositories, rendered to Markdown by a scheduled GitHub Action.
   `Archived` section for repos that have left GitHub.
 - **[`TODAY.md`](TODAY.md)** — a small daily rotation of repos to (re)review.
 - **`stars.json`** — the machine-readable **source of truth**. Everything else
-  is rendered *from* this file.
+  is rendered *from* this file. It also carries your GitHub **star lists**
+  (the curated groups at `github.com/stars/<user>/lists`) and which lists each
+  repo belongs to.
 
 > These three files are generated on the first workflow run — don't hand-author
 > them.
@@ -20,12 +22,14 @@ A static, browsable view of the archive is published to GitHub Pages:
 
 It's a single self-contained page (`docs/index.html` — vanilla HTML/CSS/JS, no
 build step, no frameworks, no CDNs) that reads `stars.json` in your browser and
-gives you live search (across name, description, topics, language), a language
-filter with counts, an active/gone/all toggle, sorting by most recently
+gives you live search (across name, description, topics, language, list names),
+a language filter with counts, a **star-list filter** with counts (plus a "not in
+any list" option), an active/gone/all toggle, sorting by most recently
 starred (the default), stars, most recently added, or name, and an optional
 grouping of the list by language (same order as `STARS.md`) or by
-active/gone status, with sticky group headings and per-group counts. Gone repos are shown
-muted with a "gone since" badge. It follows your system light/dark preference.
+active/gone status, with sticky group headings and per-group counts. Each repo
+shows the star lists it belongs to as badges. Gone repos are shown muted with a
+"gone since" badge. It follows your system light/dark preference.
 
 The [`pages.yml`](.github/workflows/pages.yml) workflow redeploys the site as
 soon as the *Archive Stars* run completes, so it refreshes right after each daily
@@ -57,6 +61,8 @@ This project instead treats `stars.json` as a durable ledger:
 | A repo still in the live list | Mutable fields (`description`, `language`, `stars`, `topics`, `html_url`) are refreshed; `last_seen` updated. `first_seen`, `starred_at`, and `reviewed_at` are **preserved**. |
 | A repo that vanished from the live list | Flagged `status: "gone"` with a `gone_since` date. **Its entry — and last-known metadata — is never deleted.** |
 | A "gone" repo that reappears | Re-activated (`status: "active"`, `gone_since: null`). |
+| Star lists fetched OK | Every active repo's `lists` is replaced with its live membership; gone repos keep their last-known `lists`. The top-level `lists` catalog is refreshed (a deleted list is kept only while a gone repo still references it). |
+| Star lists could **not** be fetched | Nothing list-related changes. A failed fetch is "unknown", never "no lists". |
 
 The Markdown is always rendered from this JSON, so nothing that was ever
 captured can be lost by a later API response.
@@ -78,7 +84,18 @@ Each entry in `stars.json` (keyed by `full_name`) looks like:
   "last_seen":  "2026-07-06T06:17:00Z",
   "status": "active",
   "gone_since": null,
-  "reviewed_at": null
+  "reviewed_at": null,
+  "lists": ["selfhost", "shell"]
+}
+```
+
+`lists` holds the **slugs** of the star lists the repo is in (sorted). The
+top-level `lists` object maps each slug to its display name and description:
+
+```json
+"lists": {
+  "selfhost": { "slug": "selfhost", "name": "Selfhost", "description": null },
+  "shell":    { "slug": "shell",    "name": "Shell",    "description": "CLI tools" }
 }
 ```
 
@@ -90,11 +107,17 @@ Each entry in `stars.json` (keyed by `full_name`) looks like:
 1. **Fetch** every page of the starred API (`per_page=100`, until an empty page)
    using the `application/vnd.github.star+json` media type so it also captures
    `starred_at`.
-2. **Load** the existing `stars.json`.
-3. **Merge** the live list into it (append-only, per the table above).
-4. **Render** `STARS.md`.
-5. **Render** `TODAY.md` (this stamps `reviewed_at` on the repos it surfaces).
-6. **Save** `stars.json` — *after* step 5, so the daily rotation persists.
+2. **Fetch star lists** via the GraphQL API (`user.lists` → `items`, paged
+   100 at a time). Lists have no REST endpoint, so this needs a token; the
+   built-in `GITHUB_TOKEN` is enough for public lists. This step is
+   **non-fatal**: without a token, or on any GraphQL error, it logs a warning
+   and the previous list data is kept.
+3. **Load** the existing `stars.json`.
+4. **Merge** the live list into it (append-only, per the table above), then
+   refresh list membership for active repos.
+5. **Render** `STARS.md`.
+6. **Render** `TODAY.md` (this stamps `reviewed_at` on the repos it surfaces).
+7. **Save** `stars.json` — *after* step 6, so the daily rotation persists.
 
 `TODAY.md` picks `DAILY_COUNT` (default **10**) active repos: unreviewed ones
 first (oldest `first_seen` first), then — if there aren't enough — the
@@ -182,3 +205,8 @@ python scripts/test_archive_stars.py
 - **Public rate limits are low.** Unauthenticated requests are capped at 60/hour;
   the workflow always sends a token (5,000/hour), so this only matters for
   ad-hoc local runs without `GH_TOKEN`.
+- **Star lists need a token and only cover what the token can see.** GraphQL
+  refuses unauthenticated requests, so local runs without `GH_TOKEN` skip lists
+  (and keep whatever was archived). Private lists are only visible with a PAT
+  in `USE_AUTH_USER=true` mode. List badges appear on the web reader after the
+  first archive run that fetches lists successfully.
