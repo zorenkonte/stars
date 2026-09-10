@@ -1,0 +1,17 @@
+name: Lists Debug (temporary)
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Probe GraphQL and HTML for star lists (read-only, no commit)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          STARS_USERNAME: zorenkonte
+        run: python scripts/_lists_probe.py
