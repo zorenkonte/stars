@@ -10,10 +10,13 @@ rebuilt from the live API. The human-readable Markdown (``STARS.md`` and
 ``TODAY.md``) is rendered FROM that JSON, not from GitHub directly.
 
 Star **lists** (the user-curated groups on github.com/stars/<user>/lists) are
-archived too. They are only exposed through the GraphQL API, so that part needs
-a token (the built-in ``GITHUB_TOKEN`` is enough for public lists). List
-membership is a *mutable* per-repo field: it is refreshed on every successful
-run, and frozen at its last-known value for repos that have gone.
+archived too. They are only exposed through the GraphQL API and -- verified
+from a runner -- only to their OWNER: the built-in ``GITHUB_TOKEN`` (viewer
+``github-actions[bot]``) sees ``totalCount: 0``, and the lists page is a 404
+when anonymous. So lists need a personal access token of the list owner in
+``STARS_TOKEN`` and are queried as ``viewer``. List membership is a *mutable*
+per-repo field: refreshed on every successful run, frozen at its last-known
+value for repos that have gone.
 
 Python standard library only (urllib, json, os, datetime, time) so the workflow
 needs no ``pip install`` step.
@@ -63,6 +66,11 @@ def config_from_env():
         "token": os.environ.get("GH_TOKEN") or os.environ.get("STARS_TOKEN") or "",
         "use_auth_user": os.environ.get("USE_AUTH_USER", "").strip().lower() == "true",
         "daily_count": int(os.environ.get("DAILY_COUNT", "10")),
+        # Star lists are only visible to their owner, so they need the owner's
+        # PAT (STARS_TOKEN). With a PAT we query `viewer`; with only the
+        # Actions token we fall back to `user(login:)`, which yields 0 lists.
+        "lists_token": os.environ.get("STARS_TOKEN") or os.environ.get("GH_TOKEN") or "",
+        "lists_as_viewer": bool(os.environ.get("STARS_TOKEN")),
     }
 
 
@@ -218,17 +226,22 @@ def fetch_lists(config):
     or ``None`` when lists could not be fetched (no token, API error). ``None``
     means "unknown" and leaves the archived list data untouched; the archive
     never treats a failed fetch as "no lists". Monkeypatched in the self-test.
+
+    Uses ``lists_token`` (STARS_TOKEN, else GH_TOKEN). Lists are only visible
+    to their owner, so with a PAT (``lists_as_viewer``/``use_auth_user``) the
+    query goes through ``viewer``; otherwise ``user(login:)``.
     """
-    token = config.get("token") or ""
+    token = config.get("lists_token") or config.get("token") or ""
     if not token:
-        print("Skipping star lists: GraphQL needs a token (set GH_TOKEN).")
+        print("Skipping star lists: GraphQL needs a token (set STARS_TOKEN).")
         return None
+    as_viewer = bool(config.get("lists_as_viewer") or config.get("use_auth_user"))
 
     lists = {}
     try:
         after = None
         while True:
-            if config.get("use_auth_user"):
+            if as_viewer:
                 data = _graphql(_VIEWER_LISTS_QUERY, {"after": after}, token)
                 root = data.get("viewer") or {}
             else:
@@ -266,6 +279,15 @@ def fetch_lists(config):
         # Lists are a nice-to-have on top of the star archive: never let a
         # GraphQL hiccup take down the daily run. Previous list data is kept.
         print(f"WARNING: could not fetch star lists, keeping previous data: {exc}")
+        return None
+    if not lists and not as_viewer:
+        # The Actions token can query fine but sees none of the owner's lists.
+        # Treat this as "unknown" rather than wiping membership everywhere.
+        print(
+            "Star lists: 0 visible to this token. GitHub only shows star lists to "
+            "their owner -- add a PAT as the STARS_TOKEN secret to archive them. "
+            "Keeping previous list data."
+        )
         return None
     return lists
 
