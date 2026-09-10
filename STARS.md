@@ -182,8 +182,8 @@ _Last updated 2026-09-10 — 1465 active · 16 archived._
 - **[QwikDev/qwik](https://github.com/QwikDev/qwik)** — Instant-loading web apps, without effort
 - **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** — Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - **[desktop/desktop](https://github.com/desktop/desktop)** — Focus on what matters instead of fighting with Git.
-- **[lit/lit](https://github.com/lit/lit)** — Lit is a simple library for building fast, lightweight web components.
 - **[mksglu/context-mode](https://github.com/mksglu/context-mode)** — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+- **[lit/lit](https://github.com/lit/lit)** — Lit is a simple library for building fast, lightweight web components.
 - **[teableio/teable](https://github.com/teableio/teable)** — ✨ AI Spreadsheet for Business
 - **[eclipse-theia/theia](https://github.com/eclipse-theia/theia)** — Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - **[docmost/docmost](https://github.com/docmost/docmost)** — Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.

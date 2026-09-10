@@ -2,14 +2,14 @@
 
 _2026-09-10 — 10 repositories_
 
-- **[jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)** — Jenkins automation server
-- **[jeremykenedy/laravel-spa](https://github.com/jeremykenedy/laravel-spa)** — A Laravel + Socialite + Vite + Vue 3 + TailwindCSS SPA Boilerplate with user authentication, registration, email verification, social media authentication, password recovery, user management, and roles/permissions management. Uses TailwindCSS. While the front end is part of this repository it is a completely separated Vue 3 front end.
-- **[jeroennoten/Laravel-AdminLTE](https://github.com/jeroennoten/Laravel-AdminLTE)** — Easy AdminLTE integration with Laravel
-- **[jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)** — The lazier way to manage everything docker
-- **[jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)** — simple terminal UI for git commands
-- **[jflex-de/jflex](https://github.com/jflex-de/jflex)** — The fast scanner generator for Java™ with full Unicode support
-- **[jgm/pandoc](https://github.com/jgm/pandoc)** — Universal markup converter
-- **[jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster)** — JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
-- **[jhy/jsoup](https://github.com/jhy/jsoup)** — jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.
-- **[jidesoft/jidefx-oss](https://github.com/jidesoft/jidefx-oss)** — JideFX Common Layer
+- **[jina-ai/reader](https://github.com/jina-ai/reader)** — Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
+- **[jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)** — Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- **[jlesage/docker-firefox](https://github.com/jlesage/docker-firefox)** — Docker container for Firefox
+- **[jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)** — Master the command line, in one page
+- **[joe-bell/cva](https://github.com/joe-bell/cva)** — Class Variance Authority
+- **[joeattardi/picmo](https://github.com/joeattardi/picmo)** — JavaScript emoji picker. Any app, any framework.
+- **[jonashackt/spring-boot-vuejs](https://github.com/jonashackt/spring-boot-vuejs)** — Example project showing how to build a Spring Boot App providing a GUI with Vue.js
+- **[jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash)** — A code snippet storage solution written in React & node.js
+- **[jordond/MaterialKolor](https://github.com/jordond/MaterialKolor)** — 🎨 Generate a dynamic Material3 color scheme from a seed color
+- **[jordond/drag-select-compose](https://github.com/jordond/drag-select-compose)** — ⚡ Google Photos style drag-to-select multi-selection to a LazyGrid for Compose multiplatform
 
