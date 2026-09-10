@@ -128,6 +128,13 @@
     background: var(--chip-bg); color: var(--chip-text);
     border-radius: 999px; padding: 2px 10px; font-size: 0.8rem; font-weight: 500;
   }
+  .list-badge {
+    display: inline-flex; align-items: center; gap: 4px;
+    border: 1px solid var(--border); background: var(--surface);
+    color: var(--text); border-radius: 999px; padding: 1px 9px;
+    font-size: 0.78rem; font-weight: 500; white-space: nowrap;
+  }
+  .list-badge .ico { color: var(--muted); font-size: 0.7rem; }
   .stars { color: var(--muted); font-variant-numeric: tabular-nums; }
   .stars .ico { color: var(--star); }
   .topics { color: var(--muted); font-size: 0.82rem; }
@@ -165,10 +172,13 @@
   <section id="app" class="hidden" aria-label="Starred repositories">
     <div class="controls">
       <div class="row">
-        <input type="search" id="search" placeholder="Search name, description, topics, language…"
+        <input type="search" id="search" placeholder="Search name, description, topics, language, list…"
                aria-label="Search repositories" autocomplete="off" spellcheck="false">
         <label class="field">Language
           <select id="lang" aria-label="Filter by language"></select>
+        </label>
+        <label class="field hidden" id="listField">List
+          <select id="listsel" aria-label="Filter by star list"></select>
         </label>
         <label class="field">Sort
           <select id="sort" aria-label="Sort repositories">
@@ -250,11 +260,13 @@
   var elApp = $("app"), elEmpty = $("empty"), elStats = $("stats");
   var elSearch = $("search"), elLang = $("lang"), elSort = $("sort"), elStatus = $("status");
   var elGroup = $("group"), elControls = document.querySelector(".controls");
+  var elListSel = $("listsel"), elListField = $("listField");
   var elList = $("list"), elCount = $("count");
 
   var RECORDS = [];   // normalized, with precomputed search haystack
   var LANG_COUNTS = Object.create(null); // language -> total count, for group ordering
-  var state = { q: "", lang: "", status: "all", sort: "starred", group: "" };
+  var LISTS = Object.create(null);       // slug -> { name, description } (star lists)
+  var state = { q: "", lang: "", status: "all", sort: "starred", group: "", list: "" };
 
   // ---- Load -------------------------------------------------------------
   fetch("./stars.json", { cache: "no-cache" })
@@ -266,7 +278,7 @@
       var repos = (data && data.repos) || {};
       var keys = Object.keys(repos);
       if (!keys.length) { showEmpty(); return; }
-      init(repos, keys);
+      init(repos, keys, (data && data.lists) || {});
     })
     .catch(function () { showEmpty(); });
 
@@ -277,9 +289,16 @@
   }
 
   // ---- Init -------------------------------------------------------------
-  function init(repos, keys) {
+  function init(repos, keys, lists) {
     var active = 0, gone = 0, lastSeen = "";
     var langCounts = LANG_COUNTS;
+    var listCounts = Object.create(null);
+
+    Object.keys(lists).forEach(function (slug) {
+      var l = lists[slug] || {};
+      LISTS[slug] = { name: l.name || slug, description: l.description || "" };
+    });
+    function listName(slug) { return LISTS[slug] ? LISTS[slug].name : slug; }
 
     RECORDS = keys.map(function (k) {
       var r = repos[k];
@@ -289,11 +308,14 @@
       langCounts[lang] = (langCounts[lang] || 0) + 1;
 
       var topics = Array.isArray(r.topics) ? r.topics : [];
+      var slugs = Array.isArray(r.lists) ? r.lists.filter(function (x) { return typeof x === "string" && x; }) : [];
+      slugs.forEach(function (sl) { listCounts[sl] = (listCounts[sl] || 0) + 1; });
       var hay = (
         (r.full_name || "") + " " +
         (r.description || "") + " " +
         topics.join(" ") + " " +
-        (r.language || "")
+        (r.language || "") + " " +
+        slugs.map(listName).join(" ")
       ).toLowerCase();
 
       return {
@@ -304,6 +326,7 @@
         langKey: lang,
         stars: Number(r.stars) || 0,
         topics: topics,
+        lists: slugs,
         starred_at: r.starred_at || null,
         first_seen: r.first_seen || null,
         gone_since: r.gone_since || null,
@@ -331,12 +354,32 @@
     });
     elLang.innerHTML = opts.join("");
 
+    // List selector: shown only once the archive carries star lists. Ordered
+    // by member count desc then name, like the language selector.
+    var listSlugs = Object.keys(listCounts);
+    Object.keys(LISTS).forEach(function (sl) { if (!(sl in listCounts)) listSlugs.push(sl); });
+    if (listSlugs.length) {
+      listSlugs.sort(function (a, b) {
+        return (listCounts[b] || 0) - (listCounts[a] || 0) || listName(a).localeCompare(listName(b));
+      });
+      var inAny = 0;
+      for (var li = 0; li < RECORDS.length; li++) if (RECORDS[li].lists.length) inAny++;
+      var lopts = ['<option value="">All lists (' + RECORDS.length + ")</option>",
+                   '<option value="__none__">Not in any list (' + (RECORDS.length - inAny) + ")</option>"];
+      listSlugs.forEach(function (sl) {
+        lopts.push('<option value="' + esc(sl) + '">' + esc(listName(sl)) + " (" + (listCounts[sl] || 0) + ")</option>");
+      });
+      elListSel.innerHTML = lopts.join("");
+      elListField.classList.remove("hidden");
+    }
+
     // Wire events.
     elSearch.addEventListener("input", debounce(function () {
       state.q = elSearch.value.trim().toLowerCase();
       apply();
     }, 150));
     elLang.addEventListener("change", function () { state.lang = elLang.value; apply(); });
+    elListSel.addEventListener("change", function () { state.list = elListSel.value; apply(); });
     elSort.addEventListener("change", function () { state.sort = elSort.value; apply(); });
     elGroup.addEventListener("change", function () { state.group = elGroup.value; apply(); });
 
@@ -364,12 +407,14 @@
   };
 
   function apply() {
-    var q = state.q, lang = state.lang, status = state.status;
+    var q = state.q, lang = state.lang, status = state.status, list = state.list;
     var out = [];
     for (var i = 0; i < RECORDS.length; i++) {
       var r = RECORDS[i];
       if (status !== "all" && r.status !== status) continue;
       if (lang && r.langKey !== lang) continue;
+      if (list === "__none__") { if (r.lists.length) continue; }
+      else if (list && r.lists.indexOf(list) === -1) continue;
       if (q && r.hay.indexOf(q) === -1) continue;
       out.push(r);
     }
@@ -444,6 +489,13 @@
       var topics = r.topics.length
         ? '<span class="topics">' + esc(r.topics.slice(0, 6).join(" · ")) + "</span>"
         : "";
+      var listBadges = "";
+      for (var b = 0; b < r.lists.length; b++) {
+        var slug = r.lists[b];
+        var lname = LISTS[slug] ? LISTS[slug].name : slug;
+        listBadges += '<span class="list-badge" title="' + esc("In list: " + lname) + '">' +
+          '<span class="ico" aria-hidden="true">☰</span>' + esc(lname) + "</span>";
+      }
 
       html.push(
         '<li class="repo' + (gone ? " gone" : "") + '">' +
@@ -454,6 +506,7 @@
             '<span class="stars"><span class="ico">★</span> ' + fmtStars(r.stars) + "</span>" +
             starredMeta +
             topics +
+            listBadges +
           "</div>" +
         "</li>");
     }

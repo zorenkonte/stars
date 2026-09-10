@@ -9,6 +9,12 @@ JSON file (``stars.json``) that is only ever ADDED to and FLAGGED -- never
 rebuilt from the live API. The human-readable Markdown (``STARS.md`` and
 ``TODAY.md``) is rendered FROM that JSON, not from GitHub directly.
 
+Star **lists** (the user-curated groups on github.com/stars/<user>/lists) are
+archived too. They are only exposed through the GraphQL API, so that part needs
+a token (the built-in ``GITHUB_TOKEN`` is enough for public lists). List
+membership is a *mutable* per-repo field: it is refreshed on every successful
+run, and frozen at its last-known value for repos that have gone.
+
 Python standard library only (urllib, json, os, datetime, time) so the workflow
 needs no ``pip install`` step.
 """
@@ -21,6 +27,7 @@ import urllib.error
 import urllib.request
 
 API_ROOT = "https://api.github.com"
+GRAPHQL_URL = f"{API_ROOT}/graphql"
 USER_AGENT = "zorenkonte-stars-archiver"
 
 # File locations (relative to the working directory / repo root).
@@ -138,6 +145,131 @@ def fetch_stars(config):
     return results
 
 
+# GraphQL is the ONLY way to read star lists (there is no REST endpoint). Lists
+# are fetched with their first page of items inline; longer lists are paged
+# through ``node(id:)`` so we never depend on a by-slug lookup.
+_LISTS_QUERY = """
+query($login: String!, $after: String) {
+  user(login: $login) {
+    lists(first: 100, after: $after) {
+      pageInfo { hasNextPage endCursor }
+      nodes {
+        id name slug description isPrivate
+        items(first: 100) {
+          pageInfo { hasNextPage endCursor }
+          nodes { ... on Repository { nameWithOwner } }
+        }
+      }
+    }
+  }
+}
+"""
+_VIEWER_LISTS_QUERY = _LISTS_QUERY.replace(
+    "query($login: String!, $after: String) {\n  user(login: $login) {",
+    "query($after: String) {\n  viewer {",
+)
+_LIST_ITEMS_QUERY = """
+query($id: ID!, $after: String) {
+  node(id: $id) {
+    ... on UserList {
+      items(first: 100, after: $after) {
+        pageInfo { hasNextPage endCursor }
+        nodes { ... on Repository { nameWithOwner } }
+      }
+    }
+  }
+}
+"""
+
+
+def _graphql(query, variables, token):
+    """POST one GraphQL query and return its ``data``. Raises on any error."""
+    payload = json.dumps({"query": query, "variables": variables}).encode("utf-8")
+    req = urllib.request.Request(GRAPHQL_URL, data=payload, method="POST")
+    req.add_header("Content-Type", "application/json")
+    req.add_header("User-Agent", USER_AGENT)
+    req.add_header("Authorization", f"Bearer {token}")
+    try:
+        with urllib.request.urlopen(req) as resp:
+            body = json.loads(resp.read().decode("utf-8"))
+    except urllib.error.HTTPError as exc:
+        detail = ""
+        try:
+            detail = exc.read().decode("utf-8", "replace")
+        except Exception:  # pragma: no cover - best-effort error detail
+            pass
+        raise RuntimeError(f"GraphQL HTTP {exc.code}: {detail[:500]}")
+    except urllib.error.URLError as exc:
+        raise RuntimeError(f"GraphQL network error: {exc.reason}")
+    if body.get("errors"):
+        raise RuntimeError(f"GraphQL errors: {json.dumps(body['errors'])[:500]}")
+    return body.get("data") or {}
+
+
+def _item_names(conn):
+    """Repo full_names out of a ``UserListItemsConnection`` page."""
+    return [n["nameWithOwner"] for n in (conn.get("nodes") or []) if n and n.get("nameWithOwner")]
+
+
+def fetch_lists(config):
+    """Fetch the user's star lists and their members via GraphQL.
+
+    Returns ``{slug: {"name", "slug", "description", "repos": [full_name, ..]}}``
+    or ``None`` when lists could not be fetched (no token, API error). ``None``
+    means "unknown" and leaves the archived list data untouched; the archive
+    never treats a failed fetch as "no lists". Monkeypatched in the self-test.
+    """
+    token = config.get("token") or ""
+    if not token:
+        print("Skipping star lists: GraphQL needs a token (set GH_TOKEN).")
+        return None
+
+    lists = {}
+    try:
+        after = None
+        while True:
+            if config.get("use_auth_user"):
+                data = _graphql(_VIEWER_LISTS_QUERY, {"after": after}, token)
+                root = data.get("viewer") or {}
+            else:
+                data = _graphql(_LISTS_QUERY, {"login": config["username"], "after": after}, token)
+                root = data.get("user") or {}
+            conn = root.get("lists") or {}
+            for node in conn.get("nodes") or []:
+                if not node or not node.get("slug"):
+                    continue
+                repos = _item_names(node.get("items") or {})
+                # Page through lists longer than 100 items.
+                items_page = (node.get("items") or {}).get("pageInfo") or {}
+                while items_page.get("hasNextPage"):
+                    more = _graphql(
+                        _LIST_ITEMS_QUERY,
+                        {"id": node["id"], "after": items_page.get("endCursor")},
+                        token,
+                    )
+                    items = ((more.get("node") or {}).get("items")) or {}
+                    repos.extend(_item_names(items))
+                    items_page = items.get("pageInfo") or {}
+                    time.sleep(0.2)
+                lists[node["slug"]] = {
+                    "slug": node["slug"],
+                    "name": node.get("name") or node["slug"],
+                    "description": node.get("description") or None,
+                    "repos": sorted(set(repos)),
+                }
+            page_info = conn.get("pageInfo") or {}
+            if not page_info.get("hasNextPage"):
+                break
+            after = page_info.get("endCursor")
+            time.sleep(0.2)
+    except RuntimeError as exc:
+        # Lists are a nice-to-have on top of the star archive: never let a
+        # GraphQL hiccup take down the daily run. Previous list data is kept.
+        print(f"WARNING: could not fetch star lists, keeping previous data: {exc}")
+        return None
+    return lists
+
+
 # --------------------------------------------------------------------------- #
 # Persistence
 # --------------------------------------------------------------------------- #
@@ -150,8 +282,10 @@ def load_archive(path=STARS_JSON):
             data = {"repos": {}}
         if not isinstance(data.get("repos"), dict):
             data["repos"] = {}
+        if not isinstance(data.get("lists"), dict):
+            data["lists"] = {}
         return data
-    return {"repos": {}}
+    return {"repos": {}, "lists": {}}
 
 
 def save_archive(archive, path=STARS_JSON):
@@ -204,6 +338,7 @@ def merge_stars(archive, live, now):
                 "status": "active",
                 "gone_since": None,
                 "reviewed_at": None,
+                "lists": [],
             }
 
     # Anything currently active but absent from the live list has vanished.
@@ -212,6 +347,52 @@ def merge_stars(archive, live, now):
             existing["status"] = "gone"
             existing["gone_since"] = now
 
+    return archive
+
+
+def merge_lists(archive, lists):
+    """Merge fetched star lists into the archive (append-only for gone repos).
+
+    * ``lists is None`` (fetch skipped/failed) -> archive untouched.
+    * Active repo  -> ``lists`` replaced with its live membership (sorted slugs;
+                      ``[]`` when it is in no list).
+    * Gone repo    -> ``lists`` frozen at its last-known value.
+    * ``archive["lists"]`` (slug -> name/description) is refreshed from the live
+      lists; a list that no longer exists is kept only while a gone repo still
+      references it, so its badge keeps rendering with the right name.
+    """
+    if lists is None:
+        return archive
+
+    repos = archive["repos"]
+    catalog = archive.setdefault("lists", {})
+
+    membership = {}
+    for slug, info in lists.items():
+        for name in info.get("repos") or []:
+            membership.setdefault(name, set()).add(slug)
+
+    for name, repo in repos.items():
+        if repo.get("status") == "gone":
+            repo.setdefault("lists", [])
+            continue
+        repo["lists"] = sorted(membership.get(name, ()))
+
+    still_referenced = set()
+    for repo in repos.values():
+        still_referenced.update(repo.get("lists") or [])
+
+    new_catalog = {}
+    for slug, info in lists.items():
+        new_catalog[slug] = {
+            "slug": slug,
+            "name": info.get("name") or slug,
+            "description": info.get("description") or None,
+        }
+    for slug, info in catalog.items():
+        if slug not in new_catalog and slug in still_referenced:
+            new_catalog[slug] = info  # last-known name for a deleted list
+    archive["lists"] = new_catalog
     return archive
 
 
@@ -367,8 +548,10 @@ def run(config, now=None, paths=None):
     today_md = paths.get("today_md", TODAY_MD)
 
     live = fetch_stars(config)          # 1. fetch (fails loudly on error)
+    lists = fetch_lists(config)         #    star lists (None = unknown, non-fatal)
     archive = load_archive(stars_json)  # 2. load persistent state
     merge_stars(archive, live, now)     # 3. append-only merge
+    merge_lists(archive, lists)         #    refresh list membership (active repos only)
 
     _write(stars_md, render_stars_md(archive, now))                 # 4. STARS.md
     _write(today_md, render_today_md(archive, now, config["daily_count"]))  # 5. TODAY.md
@@ -377,7 +560,10 @@ def run(config, now=None, paths=None):
 
     active = sum(1 for r in archive["repos"].values() if r.get("status") == "active")
     gone = sum(1 for r in archive["repos"].values() if r.get("status") == "gone")
-    print(f"Archive updated: {active} active, {gone} archived (fetched {len(live)} live).")
+    print(
+        f"Archive updated: {active} active, {gone} archived "
+        f"(fetched {len(live)} live, {len(archive.get('lists') or {})} lists)."
+    )
     return archive
 
 
