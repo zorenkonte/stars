@@ -1,6 +1,9 @@
 name: Lists Debug (temporary)
 on:
   workflow_dispatch:
+  push:
+    branches: [claude/optimistic-hamilton-p64ppd]
+    paths: ['.github/workflows/lists-debug.yml', 'scripts/_lists_probe.py']
 permissions:
   contents: read
 jobs:
