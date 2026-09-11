@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-09-10 — 10 repositories_
+_2026-09-11 — 10 repositories_
 
-- **[joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace)** — Kotlin Multiplatform sample with SwiftUI, Jetpack Compose, Compose for Wear, Compose for Desktop, and Compose for Web clients along with Ktor backend.
-- **[josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files)** — 
-- **[jqlang/jq](https://github.com/jqlang/jq)** — Command-line JSON processor
-- **[jquery/jquery](https://github.com/jquery/jquery)** — jQuery JavaScript Library
-- **[jreleaser/jreleaser](https://github.com/jreleaser/jreleaser)** — :rocket: Release projects quickly and easily with JReleaser
-- **[juanfont/headscale](https://github.com/juanfont/headscale)** — An open source, self-hosted implementation of the Tailscale control server
-- **[juliangarnier/anime](https://github.com/juliangarnier/anime)** — JavaScript animation engine
-- **[junit-team/junit-framework](https://github.com/junit-team/junit-framework)** — ✅ The programmer-friendly testing framework for Java and the JVM
-- **[jurialmunkey/plugin.video.themoviedb.helper](https://github.com/jurialmunkey/plugin.video.themoviedb.helper)** — 
-- **[juspay/hyperswitch](https://github.com/juspay/hyperswitch)** — Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation
+- **[justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder)** — A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
+- **[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)** — A complete computer science study plan to become a software engineer.
+- **[jwplayer/jwplayer](https://github.com/jwplayer/jwplayer)** — No Longer Maintained
+- **[jwstegemann/fritz2](https://github.com/jwstegemann/fritz2)** — Easily build reactive web-apps in Kotlin based on flows and coroutines.
+- **[jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama)** — The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
+- **[kaangiray26/geddit-app](https://github.com/kaangiray26/geddit-app)** — An open-source Reddit client for Android using the public JSON feed
+- **[kanbn/kan](https://github.com/kanbn/kan)** — The open source Trello alternative.
+- **[karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)** — A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+- **[karpathy/llama2.c](https://github.com/karpathy/llama2.c)** — Inference Llama 2 in one file of pure C
+- **[karpathy/llm-council](https://github.com/karpathy/llm-council)** — LLM Council works together to answer your hardest questions
 
