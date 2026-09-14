@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-09-13 — 10 repositories_
+_2026-09-14 — 10 repositories_
 
-- **[keras-team/keras](https://github.com/keras-team/keras)** — Deep Learning for humans
-- **[kestra-io/kestra](https://github.com/kestra-io/kestra)** — Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
-- **[keycloak/keycloak](https://github.com/keycloak/keycloak)** — Open Source Identity and Access Management For Modern Applications and Services
-- **[khoj-ai/khoj](https://github.com/khoj-ai/khoj)** — Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
-- **[kibotu/geofencer](https://github.com/kibotu/geofencer)** — Location tracking & geofencing the easy way. Supports background, killed app, rebooted device different update intervals.
-- **[kickstarter/android-oss](https://github.com/kickstarter/android-oss)** — Kickstarter for Android. Bring new ideas to life, anywhere.
-- **[klpod221/kerminal](https://github.com/klpod221/kerminal)** — // Modern Terminal Emulator & SSH Manager
-- **[knuckleswtf/scribe](https://github.com/knuckleswtf/scribe)** — Generate API documentation for humans from your Laravel codebase.✍
-- **[konstaui/konsta](https://github.com/konstaui/konsta)** — Mobile UI components made with Tailwind CSS
-- **[kordlib/codegen-kt](https://github.com/kordlib/codegen-kt)** — A code generator for writing code generators
+- **[korlibs/korge](https://github.com/korlibs/korge)** — Korge is a Multiplatform Game Engine written in Kotlin for JVM, Web, Android and iOS.
+- **[kortix-ai/suna](https://github.com/kortix-ai/suna)** — The open-source AI Management System
+- **[kosi-libs/Kodein](https://github.com/kosi-libs/Kodein)** — Painless Kotlin Dependency Injection
+- **[kotest/kotest](https://github.com/kotest/kotest)** — Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
+- **[kovidgoyal/calibre](https://github.com/kovidgoyal/calibre)** — The official source code repository for the calibre ebook manager
+- **[kpdecker/jsdiff](https://github.com/kpdecker/jsdiff)** — A javascript text differencing implementation.
+- **[krahets/hello-algo](https://github.com/krahets/hello-algo)** — 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
+- **[krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise)** — Contains Company Wise Questions sorted based on Frequency and all time
+- **[krisk/Fuse](https://github.com/krisk/Fuse)** — Lightweight fuzzy-search, in JavaScript
+- **[krzdabrowski/android-starter-2022](https://github.com/krzdabrowski/android-starter-2022)** — Clean Android multi-module offline-first scalable app in 2022. Including Jetpack Compose (with tests), MVI, Material 3, Kotlin coroutines/Flow, Kotlin serialization, Hilt, Room, JUnit5, Turbine, MockK, GitHub Actions, Renovate, KtLint and Detekt.
 
