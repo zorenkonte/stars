@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-09-14 — 10 repositories_
+_2026-09-15 — 10 repositories_
 
-- **[korlibs/korge](https://github.com/korlibs/korge)** — Korge is a Multiplatform Game Engine written in Kotlin for JVM, Web, Android and iOS.
-- **[kortix-ai/suna](https://github.com/kortix-ai/suna)** — The open-source AI Management System
-- **[kosi-libs/Kodein](https://github.com/kosi-libs/Kodein)** — Painless Kotlin Dependency Injection
-- **[kotest/kotest](https://github.com/kotest/kotest)** — Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
-- **[kovidgoyal/calibre](https://github.com/kovidgoyal/calibre)** — The official source code repository for the calibre ebook manager
-- **[kpdecker/jsdiff](https://github.com/kpdecker/jsdiff)** — A javascript text differencing implementation.
-- **[krahets/hello-algo](https://github.com/krahets/hello-algo)** — 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
-- **[krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise)** — Contains Company Wise Questions sorted based on Frequency and all time
-- **[krisk/Fuse](https://github.com/krisk/Fuse)** — Lightweight fuzzy-search, in JavaScript
-- **[krzdabrowski/android-starter-2022](https://github.com/krzdabrowski/android-starter-2022)** — Clean Android multi-module offline-first scalable app in 2022. Including Jetpack Compose (with tests), MVI, Material 3, Kotlin coroutines/Flow, Kotlin serialization, Hilt, Room, JUnit5, Turbine, MockK, GitHub Actions, Renovate, KtLint and Detekt.
+- **[kscripting/kscript](https://github.com/kscripting/kscript)** — Scripting enhancements for Kotlin
+- **[ktorio/ktor](https://github.com/ktorio/ktor)** — Framework for quickly creating connected applications in Kotlin with minimal effort
+- **[kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)** — Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code.
+- **[kubernetes/minikube](https://github.com/kubernetes/minikube)** — Run Kubernetes locally
+- **[kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)** — A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+- **[kwebio/kweb-core](https://github.com/kwebio/kweb-core)** — A Kotlin web framework
+- **[kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)** — Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
+- **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** — The agent engineering platform.
+- **[langgenius/dify](https://github.com/langgenius/dify)** — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
+- **[languagetool-org/languagetool](https://github.com/languagetool-org/languagetool)** — Style and Grammar Checker for 25+ Languages
 
