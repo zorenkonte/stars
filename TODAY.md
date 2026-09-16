@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-09-15 — 10 repositories_
+_2026-09-16 — 10 repositories_
 
-- **[kscripting/kscript](https://github.com/kscripting/kscript)** — Scripting enhancements for Kotlin
-- **[ktorio/ktor](https://github.com/ktorio/ktor)** — Framework for quickly creating connected applications in Kotlin with minimal effort
-- **[kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)** — Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code.
-- **[kubernetes/minikube](https://github.com/kubernetes/minikube)** — Run Kubernetes locally
-- **[kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)** — A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-- **[kwebio/kweb-core](https://github.com/kwebio/kweb-core)** — A Kotlin web framework
-- **[kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)** — Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
-- **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** — The agent engineering platform.
-- **[langgenius/dify](https://github.com/langgenius/dify)** — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
-- **[languagetool-org/languagetool](https://github.com/languagetool-org/languagetool)** — Style and Grammar Checker for 25+ Languages
+- **[lapce/lapce](https://github.com/lapce/lapce)** — Lightning-fast and Powerful Code Editor written in Rust
+- **[laracraft-tech/laravel-date-scopes](https://github.com/laracraft-tech/laravel-date-scopes)** — Some useful date scopes for your Laravel Eloquent models!
+- **[laravel-json-api/laravel](https://github.com/laravel-json-api/laravel)** — JSON:API for Laravel applications
+- **[laravel/framework](https://github.com/laravel/framework)** — Laravel is a web application framework with expressive, elegant syntax.
+- **[laravel/laravel](https://github.com/laravel/laravel)** — Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
+- **[laravelista/comments](https://github.com/laravelista/comments)** — Native comments for your Laravel application.
+- **[laurent22/joplin](https://github.com/laurent22/joplin)** — Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
+- **[leaningtech/webvm](https://github.com/leaningtech/webvm)** — Virtual Machine for the Web
+- **[lian-yue/vue-upload-component](https://github.com/lian-yue/vue-upload-component)** — Vue.js file upload component, Multi-file upload, Upload directory, Drag upload, Drag the directory, Upload multiple files at the same time, html4 (IE 9), `PUT` method, Customize the filter
+- **[linexjlin/GPTs](https://github.com/linexjlin/GPTs)** — leaked prompts of GPTs
 
