@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-09-16 — 10 repositories_
+_2026-09-17 — 10 repositories_
 
-- **[lapce/lapce](https://github.com/lapce/lapce)** — Lightning-fast and Powerful Code Editor written in Rust
-- **[laracraft-tech/laravel-date-scopes](https://github.com/laracraft-tech/laravel-date-scopes)** — Some useful date scopes for your Laravel Eloquent models!
-- **[laravel-json-api/laravel](https://github.com/laravel-json-api/laravel)** — JSON:API for Laravel applications
-- **[laravel/framework](https://github.com/laravel/framework)** — Laravel is a web application framework with expressive, elegant syntax.
-- **[laravel/laravel](https://github.com/laravel/laravel)** — Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
-- **[laravelista/comments](https://github.com/laravelista/comments)** — Native comments for your Laravel application.
-- **[laurent22/joplin](https://github.com/laurent22/joplin)** — Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-- **[leaningtech/webvm](https://github.com/leaningtech/webvm)** — Virtual Machine for the Web
-- **[lian-yue/vue-upload-component](https://github.com/lian-yue/vue-upload-component)** — Vue.js file upload component, Multi-file upload, Upload directory, Drag upload, Drag the directory, Upload multiple files at the same time, html4 (IE 9), `PUT` method, Customize the filter
-- **[linexjlin/GPTs](https://github.com/linexjlin/GPTs)** — leaked prompts of GPTs
+- **[linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)** — ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
+- **[linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic)** — Copy playlists and liked music from Spotify to YTMusic
+- **[liquibase/liquibase](https://github.com/liquibase/liquibase)** — Main Liquibase Source
+- **[lissy93/dashy](https://github.com/lissy93/dashy)** — 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- **[lissy93/web-check](https://github.com/lissy93/web-check)** — 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- **[lit/lit](https://github.com/lit/lit)** — Lit is a simple library for building fast, lightweight web components.
+- **[llSourcell/Doctor-Dignity](https://github.com/llSourcell/Doctor-Dignity)** — Doctor Dignity is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
+- **[lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)** — Focus on prompting and generating
+- **[llmware-ai/llmware](https://github.com/llmware-ai/llmware)** — Unified framework for building enterprise RAG pipelines with small, specialized models
+- **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 
