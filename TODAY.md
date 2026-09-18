@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-09-17 — 10 repositories_
+_2026-09-18 — 10 repositories_
 
-- **[linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)** — ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
-- **[linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic)** — Copy playlists and liked music from Spotify to YTMusic
-- **[liquibase/liquibase](https://github.com/liquibase/liquibase)** — Main Liquibase Source
-- **[lissy93/dashy](https://github.com/lissy93/dashy)** — 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-- **[lissy93/web-check](https://github.com/lissy93/web-check)** — 🕵️‍♂️ All-in-one OSINT tool for analysing any website
-- **[lit/lit](https://github.com/lit/lit)** — Lit is a simple library for building fast, lightweight web components.
-- **[llSourcell/Doctor-Dignity](https://github.com/llSourcell/Doctor-Dignity)** — Doctor Dignity is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
-- **[lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)** — Focus on prompting and generating
-- **[llmware-ai/llmware](https://github.com/llmware-ai/llmware)** — Unified framework for building enterprise RAG pipelines with small, specialized models
-- **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+- **[localsend/localsend](https://github.com/localsend/localsend)** — An open-source cross-platform alternative to AirDrop
+- **[localstack/localstack](https://github.com/localstack/localstack)** — 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+- **[localtunnel/localtunnel](https://github.com/localtunnel/localtunnel)** — expose yourself
+- **[lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework)** — OSINT Framework
+- **[lodash/lodash](https://github.com/lodash/lodash)** — A modern JavaScript utility library delivering modularity, performance, & extras.
+- **[logaretm/vee-validate](https://github.com/logaretm/vee-validate)** — ✅ Painless Vue forms
+- **[logseq/logseq](https://github.com/logseq/logseq)** — A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
+- **[lokesh/lightbox2](https://github.com/lokesh/lightbox2)** — THE original Lightbox script (v2).
+- **[lowlighter/metrics](https://github.com/lowlighter/metrics)** — 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+- **[luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials)** — Curated tutorials and resources for Large Language Models, AI Painting, and more.
 
