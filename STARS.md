@@ -1,12 +1,12 @@
 # ⭐ Starred Repositories Archive
 
-_Last updated 2026-09-19 — 1468 active · 18 archived._
+_Last updated 2026-09-20 — 1471 active · 18 archived._
 
 > Append-only archive. Repositories that leave GitHub (deleted, made private, renamed, or unstarred) are kept below under **Archived**, never removed.
 
 ## Languages
 
-- [TypeScript](#typescript) (315)
+- [TypeScript](#typescript) (316)
 - [Python](#python) (186)
 - [Java](#java) (148)
 - [JavaScript](#javascript) (137)
@@ -20,7 +20,7 @@ _Last updated 2026-09-19 — 1468 active · 18 archived._
 - [Shell](#shell) (30)
 - [Vue](#vue) (27)
 - [HTML](#html) (25)
-- [C#](#c) (11)
+- [C#](#c) (12)
 - [Jupyter Notebook](#jupyter-notebook) (11)
 - [CSS](#css) (10)
 - [Lua](#lua) (8)
@@ -40,6 +40,7 @@ _Last updated 2026-09-19 — 1468 active · 18 archived._
 - [Svelte](#svelte) (2)
 - [Vim Script](#vim-script) (2)
 - [Zig](#zig) (2)
+- [AutoIt](#autoit) (1)
 - [Batchfile](#batchfile) (1)
 - [Common Lisp](#common-lisp) (1)
 - [Crystal](#crystal) (1)
@@ -149,8 +150,8 @@ _Last updated 2026-09-19 — 1468 active · 18 archived._
 - **[codex-team/editor.js](https://github.com/codex-team/editor.js)** — A block-style editor with clean JSON output
 - **[ianstormtaylor/slate](https://github.com/ianstormtaylor/slate)** — A completely customizable framework for building rich text editors. (Currently in beta.)
 - **[fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)** — Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
-- **[sequelize/sequelize](https://github.com/sequelize/sequelize)** — Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.
 - **[supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)** — Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
+- **[sequelize/sequelize](https://github.com/sequelize/sequelize)** — Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.
 - **[jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)** — Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - **[nrwl/nx](https://github.com/nrwl/nx)** — The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - **[karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)** — A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
@@ -171,8 +172,8 @@ _Last updated 2026-09-19 — 1468 active · 18 archived._
 - **[youzan/vant](https://github.com/youzan/vant)** — A lightweight, customizable Vue UI library for mobile web apps.
 - **[nocobase/nocobase](https://github.com/nocobase/nocobase)** — NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.
 - **[facebook/lexical](https://github.com/facebook/lexical)** — Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
-- **[beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)** — Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - **[mksglu/context-mode](https://github.com/mksglu/context-mode)** — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+- **[beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)** — Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - **[usablica/intro.js](https://github.com/usablica/intro.js)** — Lightweight, user-friendly onboarding tour library
 - **[pubkey/rxdb](https://github.com/pubkey/rxdb)** — The local-first database that runs on every JS runtime and replicates with your existing backend - no vendor, no lock-in - https://rxdb.info/
 - **[RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner)** — 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
@@ -207,6 +208,7 @@ _Last updated 2026-09-19 — 1468 active · 18 archived._
 - **[tinymce/tinymce](https://github.com/tinymce/tinymce)** — The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 - **[electric-sql/pglite](https://github.com/electric-sql/pglite)** — Embeddable Postgres with real-time, reactive bindings.
 - **[apitable/apitable](https://github.com/apitable/apitable)** — 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
+- **[lidge-jun/opencodex](https://github.com/lidge-jun/opencodex)** — Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
 - **[Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)** — Self-hosted SSH and remote desktop management.
 - **[documenso/documenso](https://github.com/documenso/documenso)** — The Open Source DocuSign Alternative.
 - **[midday-ai/midday](https://github.com/midday-ai/midday)** — Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
@@ -215,8 +217,8 @@ _Last updated 2026-09-19 — 1468 active · 18 archived._
 - **[rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA)** — Free, Open Source, Self-Hosted WhatsApp API Gateway
 - **[vercel/satori](https://github.com/vercel/satori)** — Enlightened library to convert HTML and CSS to SVG
 - **[formkit/auto-animate](https://github.com/formkit/auto-animate)** — A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
-- **[ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)** — A markdown version emoji cheat sheet
 - **[shikijs/shiki](https://github.com/shikijs/shiki)** — A beautiful yet powerful syntax highlighter
+- **[ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)** — A markdown version emoji cheat sheet
 - **[ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock)** — Skip YouTube video sponsors (browser extension)
 - **[anomalyco/opentui](https://github.com/anomalyco/opentui)** — OpenTUI is a library to build terminal user interfaces (TUI)
 - **[jackyzha0/quartz](https://github.com/jackyzha0/quartz)** — 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
@@ -284,8 +286,8 @@ _Last updated 2026-09-19 — 1468 active · 18 archived._
 - **[dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge)** — Merge Tailwind CSS classes without style conflicts
 - **[antiwork/shortest](https://github.com/antiwork/shortest)** — QA via natural language AI tests
 - **[kanbn/kan](https://github.com/kanbn/kan)** — The open source Trello alternative.
-- **[HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web)** — A remote debugging platform you'll definitely find useful. Lightweight, cross-platform, out-of-box debugging tool
 - **[soketi/soketi](https://github.com/soketi/soketi)** — Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
+- **[HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web)** — A remote debugging platform you'll definitely find useful. Lightweight, cross-platform, out-of-box debugging tool
 - **[meltylabs/melty](https://github.com/meltylabs/melty)** — Chat first code editor. To download the packaged app:
 - **[code-hike/codehike](https://github.com/code-hike/codehike)** — Build rich content websites with Markdown and React
 - **[hustcc/timeago.js](https://github.com/hustcc/timeago.js)** — :clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.
@@ -424,8 +426,8 @@ _Last updated 2026-09-19 — 1468 active · 18 archived._
 - **[karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)** — The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - **[RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)** — 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - **[ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)** — Ultralytics YOLO27, YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
-- **[CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)** — Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+- **[CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)** — Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - **[meta-llama/llama](https://github.com/meta-llama/llama)** — Inference code for Llama models
 - **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - **[deepfakes/faceswap](https://github.com/deepfakes/faceswap)** — Deepfakes Software For All
@@ -453,7 +455,7 @@ _Last updated 2026-09-19 — 1468 active · 18 archived._
 - **[frappe/erpnext](https://github.com/frappe/erpnext)** — Free and Open Source Enterprise Resource Planning (ERP)
 - **[httpie/cli](https://github.com/httpie/cli)** — 🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - **[stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)** — DSPy: The framework for programming—not prompting—language models
-- **[soxoj/maigret](https://github.com/soxoj/maigret)** — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+- **[soxoj/maigret](https://github.com/soxoj/maigret)** — 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - **[khoj-ai/khoj](https://github.com/khoj-ai/khoj)** — Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 - **[satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)** — What the f*ck Python? 😱
 - **[XingangPan/DragGAN](https://github.com/XingangPan/DragGAN)** — Official Code for DragGAN (SIGGRAPH 2023)
@@ -933,8 +935,8 @@ _Last updated 2026-09-19 — 1468 active · 18 archived._
 - **[igorescodro/alkaa](https://github.com/igorescodro/alkaa)** — Kotlin multiplatform app to manage your tasks
 - **[saket/telephoto](https://github.com/saket/telephoto)** — Building blocks for designing media experiences in Compose UI
 - **[nsh07/Tomato](https://github.com/nsh07/Tomato)** — Minimalist, data-oriented pomodoro timer for Android and Desktop based on Material 3 Expressive
-- **[rickclephas/KMP-NativeCoroutines](https://github.com/rickclephas/KMP-NativeCoroutines)** — Library to use Kotlin Coroutines from Swift code in KMP apps
 - **[touchlab/SKIE](https://github.com/touchlab/SKIE)** — SKIE - Swift Kotlin Interface Enhancer
+- **[rickclephas/KMP-NativeCoroutines](https://github.com/rickclephas/KMP-NativeCoroutines)** — Library to use Kotlin Coroutines from Swift code in KMP apps
 - **[bumble-tech/appyx](https://github.com/bumble-tech/appyx)** — Model-driven navigation + UI components with gesture control for Compose Multiplatform
 - **[kwebio/kweb-core](https://github.com/kwebio/kweb-core)** — A Kotlin web framework
 - **[respawn-llc/FlowMVI](https://github.com/respawn-llc/FlowMVI)** — Architecture Framework for Kotlin. Reuse every line of code. Handle all errors automatically. No boilerplate. Build features in minutes. Analytics, metrics, debugging in 3 lines of code. Make all code thread-safe. 50+ features.
@@ -1266,8 +1268,8 @@ _Last updated 2026-09-19 — 1468 active · 18 archived._
 - **[run-llama/liteparse](https://github.com/run-llama/liteparse)** — A fast, helpful, and open-source document parser
 - **[Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)** — A spotify daemon
 - **[BloopAI/bloop](https://github.com/BloopAI/bloop)** — bloop is a fast code search engine written in Rust.
-- **[BoundaryML/baml](https://github.com/BoundaryML/baml)** — The programming language for agents
 - **[Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)** — Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
+- **[BoundaryML/baml](https://github.com/BoundaryML/baml)** — The programming language for agents
 - **[wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio)** — A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
 - **[warp-tech/warpgate](https://github.com/warp-tech/warpgate)** — Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn't need additional client-side software
 - **[makepad/makepad](https://github.com/makepad/makepad)** — Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
@@ -1458,6 +1460,7 @@ _Last updated 2026-09-19 — 1468 active · 18 archived._
 - **[microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel)** — Integrate cutting-edge LLM technology quickly and easily into your apps
 - **[bitwarden/server](https://github.com/bitwarden/server)** — Bitwarden infrastructure/backend (API, database, Docker, etc).
 - **[OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)** — Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
+- **[Sonarr/Sonarr](https://github.com/Sonarr/Sonarr)** — Smart PVR for newsgroup and bittorrent users.
 - **[winsw/winsw](https://github.com/winsw/winsw)** — A wrapper executable that can run any executable as a Windows service, in a permissive license.
 - **[QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF)** — QuestPDF is a modern library for PDF document generation. Its fluent C# API lets you design complex layouts with clean, readable code. Create documents using a flexible, component-based approach.
 - **[Live-Charts/LiveCharts2](https://github.com/Live-Charts/LiveCharts2)** — Beautiful, interactive charts, maps, and gauges. One API for every .NET UI framework.
@@ -1471,8 +1474,8 @@ _Last updated 2026-09-19 — 1468 active · 18 archived._
 - **[microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)** — 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - **[facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft)** — Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
 - **[GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)** — Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform
-- **[facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication)** — Foundational Models for State-of-the-Art Speech and Text Translation
 - **[NVIDIA/cosmos](https://github.com/NVIDIA/cosmos)** — NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
+- **[facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication)** — Foundational Models for State-of-the-Art Speech and Text Translation
 - **[mistralai/mistral-inference](https://github.com/mistralai/mistral-inference)** — Official inference library for Mistral models
 - **[TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)** — PhotoMaker [CVPR 2024]
 - **[microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe)** — LLM-powered multiagent persona simulation for imagination enhancement and business insights.
@@ -1610,6 +1613,10 @@ _Last updated 2026-09-19 — 1468 active · 18 archived._
 
 - **[ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)** — 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - **[tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)** — The financial transactions database designed for mission critical safety and performance.
+
+## AutoIt
+
+- **[TheMythologist/GenP](https://github.com/TheMythologist/GenP)** — Automatically builds GenP executables from source
 
 ## Batchfile
 
