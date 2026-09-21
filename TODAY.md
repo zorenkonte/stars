@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-09-20 — 10 repositories_
+_2026-09-21 — 10 repositories_
 
-- **[maize-genetics/BioKotlin](https://github.com/maize-genetics/BioKotlin)** — High performance bioinformatics library for Kotlin
-- **[makepad/makepad](https://github.com/makepad/makepad)** — Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
-- **[makeplane/plane](https://github.com/makeplane/plane)** — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-- **[manifold-systems/manifold](https://github.com/manifold-systems/manifold)** — Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more.
-- **[mapstruct/mapstruct](https://github.com/mapstruct/mapstruct)** — An annotation processor for generating type-safe bean mappers
-- **[marceloprates/prettymaps](https://github.com/marceloprates/prettymaps)** — Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
-- **[marcushellberg/hilla-vue](https://github.com/marcushellberg/hilla-vue)** — 
-- **[markdoc/markdoc](https://github.com/markdoc/markdoc)** — A powerful, flexible, Markdown-based authoring framework.
-- **[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)** — Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
-- **[markedjs/marked](https://github.com/markedjs/marked)** — A markdown parser and compiler. Built for speed.
+- **[massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)** — Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
+- **[master-co/css](https://github.com/master-co/css)** — The markup-driven CSS language and framework — readable by humans, reliable for agents.
+- **[material-components/material-components-android](https://github.com/material-components/material-components-android)** — [MAINTENANCE MODE] Modular and customizable Material Design UI components for Android
+- **[matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui)** — A TUI application for managing systemd services.
+- **[matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs)** — Pointers to useful, well-written, and otherwise beautiful documentation.
+- **[matomo-org/matomo](https://github.com/matomo-org/matomo)** — Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!
+- **[mattermost/mattermost](https://github.com/mattermost/mattermost)** — Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+- **[mattiverse/Laravel-Userstamps](https://github.com/mattiverse/Laravel-Userstamps)** — Laravel Userstamps provides an Eloquent trait which automatically maintains created_by and updated_by columns on your model, populated by the currently authenticated user in your application.
+- **[mattpocock/skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
+- **[maybe-finance/maybe](https://github.com/maybe-finance/maybe)** — The personal finance app for everyone
 

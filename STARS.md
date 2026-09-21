@@ -1,6 +1,6 @@
 # ⭐ Starred Repositories Archive
 
-_Last updated 2026-09-20 — 1471 active · 18 archived._
+_Last updated 2026-09-21 — 1473 active · 18 archived._
 
 > Append-only archive. Repositories that leave GitHub (deleted, made private, renamed, or unstarred) are kept below under **Archived**, never removed.
 
@@ -10,7 +10,7 @@ _Last updated 2026-09-20 — 1471 active · 18 archived._
 - [Python](#python) (186)
 - [Java](#java) (148)
 - [JavaScript](#javascript) (137)
-- [Kotlin](#kotlin) (132)
+- [Kotlin](#kotlin) (133)
 - [PHP](#php) (79)
 - [Go](#go) (77)
 - [Other](#other) (69)
@@ -50,6 +50,7 @@ _Last updated 2026-09-20 — 1471 active · 18 archived._
 - [Erlang](#erlang) (1)
 - [FreeMarker](#freemarker) (1)
 - [Jinja](#jinja) (1)
+- [LLVM](#llvm) (1)
 - [Makefile](#makefile) (1)
 - [Objective-C](#objective-c) (1)
 - [PLpgSQL](#plpgsql) (1)
@@ -91,8 +92,8 @@ _Last updated 2026-09-20 — 1471 active · 18 archived._
 - **[hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)** — Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - **[coder/code-server](https://github.com/coder/code-server)** — VS Code in the browser
 - **[nestjs/nest](https://github.com/nestjs/nest)** — A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
-- **[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)** — There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - **[stablyai/orca](https://github.com/stablyai/orca)** — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+- **[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)** — There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - **[apache/echarts](https://github.com/apache/echarts)** — Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - **[nocodb/nocodb](https://github.com/nocodb/nocodb)** — 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - **[withastro/astro](https://github.com/withastro/astro)** — The web framework for content-driven websites. ⭐️ Star to support our work!
@@ -131,9 +132,9 @@ _Last updated 2026-09-20 — 1471 active · 18 archived._
 - **[umami-software/umami](https://github.com/umami-software/umami)** — Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
 - **[ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)** — The headless rich text editor framework for web artisans.
 - **[directus/directus](https://github.com/directus/directus)** — The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+- **[Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)** — Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
 - **[Dokploy/dokploy](https://github.com/Dokploy/dokploy)** — Open Source Alternative to Vercel, Netlify and Heroku.
 - **[musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)** — One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
-- **[Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)** — Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
 - **[AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)** — Network-wide ads & trackers blocking DNS server
 - **[ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane)** — Vane is an AI-powered answering engine.
 - **[medusajs/medusa](https://github.com/medusajs/medusa)** — The world's most flexible commerce platform for agents and developers
@@ -155,8 +156,8 @@ _Last updated 2026-09-20 — 1471 active · 18 archived._
 - **[jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)** — Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - **[nrwl/nx](https://github.com/nrwl/nx)** — The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - **[karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)** — A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- **[GitbookIO/gitbook](https://github.com/GitbookIO/gitbook)** — The open source frontend for GitBook doc sites
 - **[actualbudget/actual](https://github.com/actualbudget/actual)** — A local-first personal finance app
+- **[GitbookIO/gitbook](https://github.com/GitbookIO/gitbook)** — The open source frontend for GitBook doc sites
 - **[postcss/postcss](https://github.com/postcss/postcss)** — Transforming styles with JS plugins
 - **[tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)** — Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - **[fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)** — The most advanced free and open-source browser fingerprinting library
@@ -207,8 +208,8 @@ _Last updated 2026-09-20 — 1471 active · 18 archived._
 - **[tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm)** — React components to build charts and dashboards
 - **[tinymce/tinymce](https://github.com/tinymce/tinymce)** — The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 - **[electric-sql/pglite](https://github.com/electric-sql/pglite)** — Embeddable Postgres with real-time, reactive bindings.
-- **[apitable/apitable](https://github.com/apitable/apitable)** — 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - **[lidge-jun/opencodex](https://github.com/lidge-jun/opencodex)** — Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
+- **[apitable/apitable](https://github.com/apitable/apitable)** — 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - **[Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)** — Self-hosted SSH and remote desktop management.
 - **[documenso/documenso](https://github.com/documenso/documenso)** — The Open Source DocuSign Alternative.
 - **[midday-ai/midday](https://github.com/midday-ai/midday)** — Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
@@ -230,8 +231,8 @@ _Last updated 2026-09-20 — 1471 active · 18 archived._
 - **[keplergl/kepler.gl](https://github.com/keplergl/kepler.gl)** — Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - **[Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git)** — Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - **[getumbrel/umbrel](https://github.com/getumbrel/umbrel)** — An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.
-- **[developit/mitt](https://github.com/developit/mitt)** — 🥊 Tiny 200 byte functional event emitter / pubsub.
 - **[krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)** — Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place.
+- **[developit/mitt](https://github.com/developit/mitt)** — 🥊 Tiny 200 byte functional event emitter / pubsub.
 - **[toss/es-toolkit](https://github.com/toss/es-toolkit)** — A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller, a major upgrade to lodash.
 - **[logaretm/vee-validate](https://github.com/logaretm/vee-validate)** — ✅ Painless Vue forms
 - **[blinkospace/blinko](https://github.com/blinkospace/blinko)** — An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
@@ -292,9 +293,9 @@ _Last updated 2026-09-20 — 1471 active · 18 archived._
 - **[code-hike/codehike](https://github.com/code-hike/codehike)** — Build rich content websites with Markdown and React
 - **[hustcc/timeago.js](https://github.com/hustcc/timeago.js)** — :clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.
 - **[benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch)** — Diff & patch JavaScript objects
-- **[KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars)** — A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.
 - **[drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper)** — TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
 - **[streamyfin/streamyfin](https://github.com/streamyfin/streamyfin)** — A modern Jellyfin client built with Expo
+- **[KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars)** — A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.
 - **[microsoft/poml](https://github.com/microsoft/poml)** — Prompt Orchestration Markup Language
 - **[zidoro/pomatez](https://github.com/zidoro/pomatez)** — Stay Focused. Take a Break.
 - **[Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator)** — Authenticator generates 2-Step Verification codes in your browser.
@@ -331,9 +332,9 @@ _Last updated 2026-09-20 — 1471 active · 18 archived._
 - **[vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui)** — A frontend library for React and Vue that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.
 - **[blakeembrey/change-case](https://github.com/blakeembrey/change-case)** — Convert strings between camelCase, PascalCase, Capital Case, snake_case and more
 - **[vuex-orm/vuex-orm](https://github.com/vuex-orm/vuex-orm)** — The Vuex plugin to enable Object-Relational Mapping access to the Vuex Store.
+- **[ajayyy/DeArrow](https://github.com/ajayyy/DeArrow)** — Crowdsourcing better titles and thumbnails on YouTube
 - **[yeojz/otplib](https://github.com/yeojz/otplib)** — One Time Password (OTP) / 2FA for Node.js and Browser - Supports HOTP, TOTP and Google Authenticator
 - **[Mokshit06/typewind](https://github.com/Mokshit06/typewind)** — The safety of Typescript with the magic of Tailwind.
-- **[ajayyy/DeArrow](https://github.com/ajayyy/DeArrow)** — Crowdsourcing better titles and thumbnails on YouTube
 - **[tinymce/tinymce-vue](https://github.com/tinymce/tinymce-vue)** — Official TinyMCE Vue component
 - **[vue-macros/vue-macros](https://github.com/vue-macros/vue-macros)** — Explore and extend more macros and syntax sugar to Vue.
 - **[master-co/css](https://github.com/master-co/css)** — The markup-driven CSS language and framework — readable by humans, reliable for agents.
@@ -398,8 +399,8 @@ _Last updated 2026-09-20 — 1471 active · 18 archived._
 - **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — TradingAgents: Multi-Agents LLM Financial Trading Framework
 - **[nvbn/thefuck](https://github.com/nvbn/thefuck)** — Magnificent app which corrects your previous console command.
 - **[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** — real time face swap and one-click video deepfake with only a single image
-- **[vllm-project/vllm](https://github.com/vllm-project/vllm)** — A high-throughput and memory-efficient inference and serving engine for LLMs
 - **[sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)** — Hunt down social media accounts by username across social networks
+- **[vllm-project/vllm](https://github.com/vllm-project/vllm)** — A high-throughput and memory-efficient inference and serving engine for LLMs
 - **[home-assistant/core](https://github.com/home-assistant/core)** — :house_with_garden: Open source home automation that puts local control and privacy first.
 - **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** — Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - **[bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)** — Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -439,8 +440,8 @@ _Last updated 2026-09-20 — 1471 active · 18 archived._
 - **[lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)** — Focus on prompting and generating
 - **[run-llama/llama_index](https://github.com/run-llama/llama_index)** — LlamaIndex is the document processing platform for AI
 - **[roboflow/supervision](https://github.com/roboflow/supervision)** — We write your reusable computer vision tools. 💜
-- **[Aider-AI/aider](https://github.com/Aider-AI/aider)** — aider is AI pair programming in your terminal
 - **[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)** — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+- **[Aider-AI/aider](https://github.com/Aider-AI/aider)** — aider is AI pair programming in your terminal
 - **[oobabooga/textgen](https://github.com/oobabooga/textgen)** — Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.
 - **[exo-explore/exo](https://github.com/exo-explore/exo)** — Run frontier AI locally.
 - **[coqui-ai/TTS](https://github.com/coqui-ai/TTS)** — 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
@@ -537,8 +538,8 @@ _Last updated 2026-09-20 — 1471 active · 18 archived._
 - **[crestalnetwork/intentkit](https://github.com/crestalnetwork/intentkit)** — IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.
 - **[ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024)** — 👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀
 - **[WeblateOrg/weblate](https://github.com/WeblateOrg/weblate)** — Web based localization tool with tight version control integration.
-- **[robbyant-research/CoDeF](https://github.com/robbyant-research/CoDeF)** — [CVPR'24 Highlight] Official PyTorch implementation of CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
 - **[Maxteabag/sqlit](https://github.com/Maxteabag/sqlit)** — A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
+- **[robbyant-research/CoDeF](https://github.com/robbyant-research/CoDeF)** — [CVPR'24 Highlight] Official PyTorch implementation of CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
 - **[cvg/LightGlue](https://github.com/cvg/LightGlue)** — LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
 - **[initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim)** — Visually simulate Git operations in your own repos with a single terminal command.
 - **[linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic)** — Copy playlists and liked music from Spotify to YTMusic
@@ -573,8 +574,8 @@ _Last updated 2026-09-20 — 1471 active · 18 archived._
 - **[Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)** — #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - **[macrozheng/mall](https://github.com/macrozheng/mall)** — mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - **[spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)** — Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
-- **[doocs/advanced-java](https://github.com/doocs/advanced-java)** — 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 - **[NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)** — Ghidra is a software reverse engineering (SRE) framework
+- **[doocs/advanced-java](https://github.com/doocs/advanced-java)** — 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 - **[elastic/elasticsearch](https://github.com/elastic/elasticsearch)** — Free and Open Source, Distributed, RESTful Search Engine
 - **[TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)** — All Algorithms implemented in Java
 - **[kdn251/interviews](https://github.com/kdn251/interviews)** — Everything you need to know to get the job.
@@ -660,8 +661,8 @@ _Last updated 2026-09-20 — 1471 active · 18 archived._
 - **[JodaOrg/joda-time](https://github.com/JodaOrg/joda-time)** — Joda-Time is the widely used replacement for the Java date and time classes prior to Java SE 8.
 - **[JFormDesigner/FlatLaf](https://github.com/JFormDesigner/FlatLaf)** — FlatLaf - Swing Look and Feel (with Darcula/IntelliJ themes support)
 - **[helidon-io/helidon](https://github.com/helidon-io/helidon)** — Java libraries for writing microservices
-- **[springdoc/springdoc-openapi](https://github.com/springdoc/springdoc-openapi)** — Library for OpenAPI 3 with spring-boot
 - **[openrewrite/rewrite](https://github.com/openrewrite/rewrite)** — Automated mass refactoring of source code.
+- **[springdoc/springdoc-openapi](https://github.com/springdoc/springdoc-openapi)** — Library for OpenAPI 3 with spring-boot
 - **[spring-io/initializr](https://github.com/spring-io/initializr)** — A quickstart generator for Spring projects
 - **[apache/lucene](https://github.com/apache/lucene)** — Apache Lucene open-source search software
 - **[ukanth/afwall](https://github.com/ukanth/afwall)** — AFWall+ (Android Firewall +) - iptables based firewall for Android
@@ -757,8 +758,8 @@ _Last updated 2026-09-20 — 1471 active · 18 archived._
 - **[zloirock/core-js](https://github.com/zloirock/core-js)** — Standard Library
 - **[highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)** — JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - **[spicetify/cli](https://github.com/spicetify/cli)** — Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
-- **[ramda/ramda](https://github.com/ramda/ramda)** — :ram: Practical functional Javascript
 - **[semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)** — 📦🚀 Fully automated version management and package publishing
+- **[ramda/ramda](https://github.com/ramda/ramda)** — :ram: Practical functional Javascript
 - **[benweet/stackedit](https://github.com/benweet/stackedit)** — In-browser Markdown editor
 - **[yjs/yjs](https://github.com/yjs/yjs)** — Shared data types for building collaborative software
 - **[wwebjs/whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js)** — A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
@@ -779,8 +780,8 @@ _Last updated 2026-09-20 — 1471 active · 18 archived._
 - **[lowlighter/metrics](https://github.com/lowlighter/metrics)** — 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - **[ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL)** — Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - **[pqina/filepond](https://github.com/pqina/filepond)** — 🌊 A flexible and fun JavaScript file upload library
-- **[omnivore-app/omnivore](https://github.com/omnivore-app/omnivore)** — Omnivore is a complete, open source read-it-later solution for people who like reading.
 - **[citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)** — The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+- **[omnivore-app/omnivore](https://github.com/omnivore-app/omnivore)** — Omnivore is a complete, open source read-it-later solution for people who like reading.
 - **[showdownjs/showdown](https://github.com/showdownjs/showdown)** — A bidirectional Markdown to HTML to Markdown converter written in Javascript
 - **[webrtc/samples](https://github.com/webrtc/samples)** — WebRTC Web demos and samples
 - **[myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet)** — The project has been migrated to @wolf-table/table https://github.com/wolf-table/table
@@ -970,6 +971,7 @@ _Last updated 2026-09-20 — 1471 active · 18 archived._
 - **[fork-handles/forkhandles](https://github.com/fork-handles/forkhandles)** — Foundational libraries for Kotlin
 - **[isaacsa51/Minus](https://github.com/isaacsa51/Minus)** — Register, calculate and make reminders for your recurring expenses alongside credit card due dates.
 - **[jordond/drag-select-compose](https://github.com/jordond/drag-select-compose)** — ⚡ Google Photos style drag-to-select multi-selection to a LazyGrid for Compose multiplatform
+- **[google/adk-kotlin](https://github.com/google/adk-kotlin)** — 
 - **[timusus/Shuttle2](https://github.com/timusus/Shuttle2)** — Shuttle Music Player 2.0
 - **[MayakaApps/ComposeWindowStyler](https://github.com/MayakaApps/ComposeWindowStyler)** — Compose Window Styler is a library that lets you style your Compose for Desktop window to have more native and modern UI. This includes styling the window to use acrylic, mica ...etc.
 - **[Chaintech-Network/compose_multiplatform_date_time_picker](https://github.com/Chaintech-Network/compose_multiplatform_date_time_picker)** — 
@@ -1126,8 +1128,8 @@ _Last updated 2026-09-20 — 1471 active · 18 archived._
 - **[bettercap/bettercap](https://github.com/bettercap/bettercap)** — The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - **[ipfs/kubo](https://github.com/ipfs/kubo)** — IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 - **[dagger/dagger](https://github.com/dagger/dagger)** — Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
-- **[apache/answer](https://github.com/apache/answer)** — A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - **[coder/coder](https://github.com/coder/coder)** — Secure environments for developers and their agents
+- **[apache/answer](https://github.com/apache/answer)** — A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - **[mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)** — :file_folder: Universal File Storage Client
 - **[bytebase/bytebase](https://github.com/bytebase/bytebase)** — Database governance built for humans and agents — controlling changes and access across every major database.
 - **[amir20/dozzle](https://github.com/amir20/dozzle)** — Realtime log viewer for containers. Supports Docker, Swarm and K8s.
@@ -1309,8 +1311,8 @@ _Last updated 2026-09-20 — 1471 active · 18 archived._
 - **[bol-van/zapret](https://github.com/bol-van/zapret)** — DPI bypass multi platform
 - **[duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar)** — 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
 - **[nmap/nmap](https://github.com/nmap/nmap)** — Nmap - the Network Mapper. Github mirror of official SVN repository.
-- **[FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar)** — A highly customizable macOS status bar replacement
 - **[tsl0922/ttyd](https://github.com/tsl0922/ttyd)** — Share your terminal over the web
+- **[FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar)** — A highly customizable macOS status bar replacement
 - **[vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra)** — hydra
 - **[sqlite/sqlite](https://github.com/sqlite/sqlite)** — Official Git mirror of the SQLite source tree
 - **[AdAway/AdAway](https://github.com/AdAway/AdAway)** — AdAway is a free and open source ad blocker for Android.
@@ -1653,6 +1655,10 @@ _Last updated 2026-09-20 — 1471 active · 18 archived._
 ## Jinja
 
 - **[davestephens/ansible-nas](https://github.com/davestephens/ansible-nas)** — Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
+
+## LLVM
+
+- **[llvm/llvm-project](https://github.com/llvm/llvm-project)** — The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
 ## Makefile
 
