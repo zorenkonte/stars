@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-09-21 — 10 repositories_
+_2026-09-22 — 10 repositories_
 
-- **[massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)** — Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
-- **[master-co/css](https://github.com/master-co/css)** — The markup-driven CSS language and framework — readable by humans, reliable for agents.
-- **[material-components/material-components-android](https://github.com/material-components/material-components-android)** — [MAINTENANCE MODE] Modular and customizable Material Design UI components for Android
-- **[matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui)** — A TUI application for managing systemd services.
-- **[matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs)** — Pointers to useful, well-written, and otherwise beautiful documentation.
-- **[matomo-org/matomo](https://github.com/matomo-org/matomo)** — Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!
-- **[mattermost/mattermost](https://github.com/mattermost/mattermost)** — Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
-- **[mattiverse/Laravel-Userstamps](https://github.com/mattiverse/Laravel-Userstamps)** — Laravel Userstamps provides an Eloquent trait which automatically maintains created_by and updated_by columns on your model, populated by the currently authenticated user in your application.
-- **[mattpocock/skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
-- **[maybe-finance/maybe](https://github.com/maybe-finance/maybe)** — The personal finance app for everyone
+- **[mdn/content](https://github.com/mdn/content)** — The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
+- **[mdx-js/mdx](https://github.com/mdx-js/mdx)** — Markdown for the component era
+- **[mealie-recipes/mealie](https://github.com/mealie-recipes/mealie)** — Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
+- **[mediaelement/mediaelement](https://github.com/mediaelement/mediaelement)** — HTML5 <audio> or <video> player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consistent UI in all browsers.
+- **[medusajs/medusa](https://github.com/medusajs/medusa)** — The world's most flexible commerce platform for agents and developers
+- **[meenbeese/Chronos](https://github.com/meenbeese/Chronos)** — A simple alarm clock focused on simplicity, usability and modern design.
+- **[megh-bari/pattern-craft](https://github.com/megh-bari/pattern-craft)** — Professional-grade background patterns and gradients for your websites and apps. Easily copy and paste into your next project. Crafted with modern CSS and Tailwind for seamless integration.
+- **[meltylabs/melty](https://github.com/meltylabs/melty)** — Chat first code editor. To download the packaged app:
+- **[mem0ai/mem0](https://github.com/mem0ai/mem0)** — The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
+- **[mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)** — Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
