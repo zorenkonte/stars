@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-09-22 — 10 repositories_
+_2026-09-23 — 10 repositories_
 
-- **[mdn/content](https://github.com/mdn/content)** — The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
-- **[mdx-js/mdx](https://github.com/mdx-js/mdx)** — Markdown for the component era
-- **[mealie-recipes/mealie](https://github.com/mealie-recipes/mealie)** — Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
-- **[mediaelement/mediaelement](https://github.com/mediaelement/mediaelement)** — HTML5 <audio> or <video> player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consistent UI in all browsers.
-- **[medusajs/medusa](https://github.com/medusajs/medusa)** — The world's most flexible commerce platform for agents and developers
-- **[meenbeese/Chronos](https://github.com/meenbeese/Chronos)** — A simple alarm clock focused on simplicity, usability and modern design.
-- **[megh-bari/pattern-craft](https://github.com/megh-bari/pattern-craft)** — Professional-grade background patterns and gradients for your websites and apps. Easily copy and paste into your next project. Crafted with modern CSS and Tailwind for seamless integration.
-- **[meltylabs/melty](https://github.com/meltylabs/melty)** — Chat first code editor. To download the packaged app:
-- **[mem0ai/mem0](https://github.com/mem0ai/mem0)** — The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
-- **[mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)** — Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+- **[meta-llama/llama](https://github.com/meta-llama/llama)** — Inference code for Llama models
+- **[metabase/metabase](https://github.com/metabase/metabase)** — The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
+- **[mgarin/weblaf](https://github.com/mgarin/weblaf)** — WebLaF is a fully open-source Look & Feel and component library written in pure Java for cross-platform desktop Swing applications.
+- **[mhrimaz/AwesomeJavaFX](https://github.com/mhrimaz/AwesomeJavaFX)** — A curated list of awesome JavaFX libraries, books, frameworks, etc...
+- **[mhss1/MyBrain](https://github.com/mhss1/MyBrain)** — All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.
+- **[mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)** — :file_folder: Universal File Storage Client
+- **[microg/GmsCore](https://github.com/microg/GmsCore)** — Free implementation of Play Services
+- **[micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core)** — Micronaut Application Framework
+- **[microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)** — Bringing Old Photo Back to Life (CVPR 2020 oral)
+- **[microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)** — 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
