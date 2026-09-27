@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-09-26 — 10 repositories_
+_2026-09-27 — 10 repositories_
 
-- **[mistralai/mistral-inference](https://github.com/mistralai/mistral-inference)** — Official inference library for Mistral models
-- **[mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)** — An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-- **[mksglu/context-mode](https://github.com/mksglu/context-mode)** — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-- **[mlocati/powershell-phpmanager](https://github.com/mlocati/powershell-phpmanager)** — A PowerShell module to install/update PHP, PHP extensions and Composer on Windows
-- **[mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro)** — Painless E2E Automation for Mobile and Web
-- **[mockk/mockk](https://github.com/mockk/mockk)** — mocking library for Kotlin
-- **[mockoon/mockoon](https://github.com/mockoon/mockoon)** — Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
-- **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** — Model Context Protocol Servers
-- **[moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex)** — Money Manager Ex is an easy to use, money management application built with wxWidgets
-- **[moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)** — Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
+- **[morrownr/8821au-20210708](https://github.com/morrownr/8821au-20210708)** — Linux Driver for USB WiFi Adapters that are based on the RTL8811AU and RTL8821AU Chipsets - v5.12.5.2
+- **[motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)** — Visualize Your Ideas With Code
+- **[motiondivision/motion](https://github.com/motiondivision/motion)** — A modern animation library for React and JavaScript
+- **[mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile)** — Distribute and run LLMs with a single file.
+- **[mozilla/send](https://github.com/mozilla/send)** — Simple, private file sharing from the makers of Firefox
+- **[mrdoob/three.js](https://github.com/mrdoob/three.js)** — JavaScript 3D Library.
+- **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+- **[mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)** — A collection of (mostly) technical things every software developer should know about
+- **[mudler/LocalAI](https://github.com/mudler/LocalAI)** — LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
+- **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 
