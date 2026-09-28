@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-09-27 — 10 repositories_
+_2026-09-28 — 10 repositories_
 
-- **[morrownr/8821au-20210708](https://github.com/morrownr/8821au-20210708)** — Linux Driver for USB WiFi Adapters that are based on the RTL8811AU and RTL8821AU Chipsets - v5.12.5.2
-- **[motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)** — Visualize Your Ideas With Code
-- **[motiondivision/motion](https://github.com/motiondivision/motion)** — A modern animation library for React and JavaScript
-- **[mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile)** — Distribute and run LLMs with a single file.
-- **[mozilla/send](https://github.com/mozilla/send)** — Simple, private file sharing from the makers of Firefox
-- **[mrdoob/three.js](https://github.com/mrdoob/three.js)** — JavaScript 3D Library.
-- **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-- **[mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)** — A collection of (mostly) technical things every software developer should know about
-- **[mudler/LocalAI](https://github.com/mudler/LocalAI)** — LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
-- **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+- **[murraco/spring-boot-jwt](https://github.com/murraco/spring-boot-jwt)** — JWT auth service using Spring Boot, Spring Security and MySQL
+- **[musable/musable](https://github.com/musable/musable)** — 
+- **[music-assistant/server](https://github.com/music-assistant/server)** — Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
+- **[musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)** — One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
+- **[mvysny/karibu-dsl](https://github.com/mvysny/karibu-dsl)** — Kotlin Vaadin extensions and DSL
+- **[mvysny/vaadin-on-kotlin](https://github.com/mvysny/vaadin-on-kotlin)** — Writing full-stack statically-typed web apps on JVM at its simplest
+- **[mybatis/mybatis-3](https://github.com/mybatis/mybatis-3)** — MyBatis SQL mapper framework for Java
+- **[myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet)** — The project has been migrated to @wolf-table/table https://github.com/wolf-table/table
+- **[n0-computer/iroh](https://github.com/n0-computer/iroh)** — IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
+- **[n8n-io/n8n](https://github.com/n8n-io/n8n)** — Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
