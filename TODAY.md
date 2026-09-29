@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-09-28 — 10 repositories_
+_2026-09-29 — 10 repositories_
 
-- **[murraco/spring-boot-jwt](https://github.com/murraco/spring-boot-jwt)** — JWT auth service using Spring Boot, Spring Security and MySQL
-- **[musable/musable](https://github.com/musable/musable)** — 
-- **[music-assistant/server](https://github.com/music-assistant/server)** — Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
-- **[musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)** — One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
-- **[mvysny/karibu-dsl](https://github.com/mvysny/karibu-dsl)** — Kotlin Vaadin extensions and DSL
-- **[mvysny/vaadin-on-kotlin](https://github.com/mvysny/vaadin-on-kotlin)** — Writing full-stack statically-typed web apps on JVM at its simplest
-- **[mybatis/mybatis-3](https://github.com/mybatis/mybatis-3)** — MyBatis SQL mapper framework for Java
-- **[myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet)** — The project has been migrated to @wolf-table/table https://github.com/wolf-table/table
-- **[n0-computer/iroh](https://github.com/n0-computer/iroh)** — IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
-- **[n8n-io/n8n](https://github.com/n8n-io/n8n)** — Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- **[nacular/doodle](https://github.com/nacular/doodle)** — A pure Kotlin UI framework for the Web and Desktop.
+- **[nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d)** — A real-time 3D digital map of Tokyo's public transport system
+- **[nanovms/nanos](https://github.com/nanovms/nanos)** — A kernel designed to run one and only one application in a virtualized environment
+- **[nari-labs/dia](https://github.com/nari-labs/dia)** — A TTS model capable of generating ultra-realistic dialogue in one pass.
+- **[nasa/fprime](https://github.com/nasa/fprime)** — F´ - A flight software and embedded systems framework
+- **[nat/openplayground](https://github.com/nat/openplayground)** — An LLM playground you can run on your laptop
+- **[nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar)** — An elegant calendar and datepicker plugin for Vue.
+- **[needim/gider.im-pwa](https://github.com/needim/gider.im-pwa)** — gider.im - privacy-focused income and expense tracking app
+- **[needim/noty](https://github.com/needim/noty)** — ⛔️ DEPRECATED - Dependency-free notification library that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog.
+- **[nektos/act](https://github.com/nektos/act)** — Run your GitHub Actions locally 🚀
 
