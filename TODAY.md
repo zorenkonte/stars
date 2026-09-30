@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-09-29 — 10 repositories_
+_2026-09-30 — 10 repositories_
 
-- **[nacular/doodle](https://github.com/nacular/doodle)** — A pure Kotlin UI framework for the Web and Desktop.
-- **[nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d)** — A real-time 3D digital map of Tokyo's public transport system
-- **[nanovms/nanos](https://github.com/nanovms/nanos)** — A kernel designed to run one and only one application in a virtualized environment
-- **[nari-labs/dia](https://github.com/nari-labs/dia)** — A TTS model capable of generating ultra-realistic dialogue in one pass.
-- **[nasa/fprime](https://github.com/nasa/fprime)** — F´ - A flight software and embedded systems framework
-- **[nat/openplayground](https://github.com/nat/openplayground)** — An LLM playground you can run on your laptop
-- **[nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar)** — An elegant calendar and datepicker plugin for Vue.
-- **[needim/gider.im-pwa](https://github.com/needim/gider.im-pwa)** — gider.im - privacy-focused income and expense tracking app
-- **[needim/noty](https://github.com/needim/noty)** — ⛔️ DEPRECATED - Dependency-free notification library that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog.
-- **[nektos/act](https://github.com/nektos/act)** — Run your GitHub Actions locally 🚀
+- **[neo4j/neo4j](https://github.com/neo4j/neo4j)** — Graphs for Everyone
+- **[neondatabase/neon](https://github.com/neondatabase/neon)** — Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+- **[neovim/neovim](https://github.com/neovim/neovim)** — Vim-fork focused on extensibility and usability
+- **[nesk/akkurate](https://github.com/nesk/akkurate)** — The expressive validation library for Kotlin
+- **[nestjs/nest](https://github.com/nestjs/nest)** — A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+- **[netbox-community/netbox](https://github.com/netbox-community/netbox)** — The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
+- **[netdata/netdata](https://github.com/netdata/netdata)** — The fastest path to AI-powered full stack observability, even for lean teams.
+- **[netty/netty](https://github.com/netty/netty)** — Netty project - an event-driven asynchronous network application framework
+- **[nextapps-de/winbox](https://github.com/nextapps-de/winbox)** — WinBox is a modern HTML5 window manager for the Web.
+- **[nextcloud/server](https://github.com/nextcloud/server)** — ☁️ Nextcloud server, a safe home for all your data
 
