@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-09-30 — 10 repositories_
+_2026-10-01 — 10 repositories_
 
-- **[neo4j/neo4j](https://github.com/neo4j/neo4j)** — Graphs for Everyone
-- **[neondatabase/neon](https://github.com/neondatabase/neon)** — Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
-- **[neovim/neovim](https://github.com/neovim/neovim)** — Vim-fork focused on extensibility and usability
-- **[nesk/akkurate](https://github.com/nesk/akkurate)** — The expressive validation library for Kotlin
-- **[nestjs/nest](https://github.com/nestjs/nest)** — A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
-- **[netbox-community/netbox](https://github.com/netbox-community/netbox)** — The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
-- **[netdata/netdata](https://github.com/netdata/netdata)** — The fastest path to AI-powered full stack observability, even for lean teams.
-- **[netty/netty](https://github.com/netty/netty)** — Netty project - an event-driven asynchronous network application framework
-- **[nextapps-de/winbox](https://github.com/nextapps-de/winbox)** — WinBox is a modern HTML5 window manager for the Web.
-- **[nextcloud/server](https://github.com/nextcloud/server)** — ☁️ Nextcloud server, a safe home for all your data
+- **[nfrasser/linkifyjs](https://github.com/nfrasser/linkifyjs)** — JavaScript plugin for finding links in plain-text and converting them to HTML <a> tags.
+- **[nginx/nginx](https://github.com/nginx/nginx)** — The official NGINX Open Source repository.
+- **[nicolargo/glances](https://github.com/nicolargo/glances)** — Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
+- **[nilbuild/design-patterns-for-humans](https://github.com/nilbuild/design-patterns-for-humans)** — An ultra-simplified explanation to design patterns
+- **[nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)** — Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- **[nilbuild/driver.js](https://github.com/nilbuild/driver.js)** — A lightweight, dependency-free JavaScript library for guiding user focus across the page.
+- **[nilbuild/jquery-toast-plugin](https://github.com/nilbuild/jquery-toast-plugin)** — Highly customizable jquery plugin to show toast messages
+- **[nisrulz/app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator)** — Generate a customized Privacy Policy and Terms of Use document for your mobile apps
+- **[nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)** — LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
+- **[nmap/nmap](https://github.com/nmap/nmap)** — Nmap - the Network Mapper. Github mirror of official SVN repository.
 
