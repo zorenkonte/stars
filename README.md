@@ -45,6 +45,49 @@ own directory.
 Actions"**. (Then run the *Deploy Pages* workflow once, or wait for the next
 archive run.)
 
+## Web reader v2 — Nuxt on Cloudflare Workers (`web/`)
+
+A second reader lives in [`web/`](web/): a Nuxt 4 app deployed to Cloudflare
+Workers. It keeps the same archive semantics but moves the heavy lifting to the
+server:
+
+- **Server-side search and filtering** — `GET /api/repos` runs the search
+  (name, description, topics, language, list names), the language / star-list /
+  status filters, all four sort modes and the language/status grouping on the
+  Worker, and returns one page (60 repos) plus the total, the group spans and
+  faceted counts for the sidebar. `GET /api/meta` returns the archive totals.
+- **Virtual scrolling** — the grid renders only the shelves on screen
+  (`@tanstack/vue-virtual`) and fetches pages on demand as you scroll, so the
+  full archive never lands in the DOM at once.
+- **Shopping-style UI** — filters in a sticky left sidebar (a drawer on
+  phones), product tiles with language stickers and star "price tags", sort and
+  group in the toolbar, filter state in the URL.
+- `stars.json` is **bundled into the Worker at build time**. The Worker is
+  connected to this repository through **Workers Builds** (Cloudflare's Git
+  integration), so every push to `main` — including the daily archive commit —
+  rebuilds and redeploys it. No tokens live in GitHub.
+
+**Live:** https://stars-archive.muffintoppings36.workers.dev
+
+**Build settings** (Cloudflare dashboard → Workers & Pages → `stars-archive` →
+Settings → Build): root directory `web`, build command `pnpm build`, deploy
+command `npx wrangler deploy`, branch `main`. Node is pinned by `web/.nvmrc`
+and pnpm by `packageManager` in `web/package.json`.
+
+Locally:
+
+```sh
+cd web
+pnpm install
+pnpm dev        # Nuxt dev server with Cloudflare bindings emulated
+pnpm build      # nuxt build (cloudflare_module preset)
+pnpm preview    # wrangler dev against the built Worker
+pnpm deploy     # build + wrangler deploy by hand
+```
+
+Node 22.19+ is required (Nuxt 4). The original single-file reader in `docs/`
+stays as-is until the Worker is live.
+
 ## Why append-only?
 
 GitHub's "starred" API only ever returns repositories that **currently exist
