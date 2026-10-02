@@ -16,65 +16,36 @@ starred repositories, rendered to Markdown by a scheduled GitHub Action.
 
 ## Web reader
 
-A static, browsable view of the archive is published to GitHub Pages:
+A browsable view of the archive, deployed to Cloudflare Workers:
 
-**➡️ https://zorenkonte.github.io/stars/**
+**➡️ https://stars-archive.muffintoppings36.workers.dev**
 
-It's a single self-contained page (`docs/index.html` — vanilla HTML/CSS/JS, no
-build step, no frameworks, no CDNs) that reads `stars.json` in your browser and
-gives you live search (across name, description, topics, language, list names),
-a language filter with counts, a **star-list filter** with counts (plus a "not in
-any list" option), an active/gone/all toggle, sorting by most recently
-starred (the default), stars, most recently added, or name, and an optional
-grouping of the list by language (same order as `STARS.md`) or by
-active/gone status, with sticky group headings and per-group counts. Each repo
-shows the star lists it belongs to as badges. Gone repos are shown muted with a
-"gone since" badge. It follows your system light/dark preference.
-
-The [`pages.yml`](.github/workflows/pages.yml) workflow redeploys the site as
-soon as the *Archive Stars* run completes, so it refreshes right after each daily
-archive commit. It has to chain off the workflow rather than the commit: the
-archive pushes with the built-in `GITHUB_TOKEN`, and GitHub deliberately does not
-fire `push`-triggered workflows for those commits. A plain `push` trigger is kept
-as well, for hand edits to `docs/**` or `stars.json`. Either way the workflow
-bundles a copy of `stars.json` next to `index.html` at deploy time (Pages can't
-serve a root-level `../stars.json`), and the page fetches `./stars.json` from its
-own directory.
-
-**One-time setup:** in **Settings → Pages → Source**, select **"GitHub
-Actions"**. (Then run the *Deploy Pages* workflow once, or wait for the next
-archive run.)
-
-## Web reader v2 — Nuxt on Cloudflare Workers (`web/`)
-
-A second reader lives in [`web/`](web/): a Nuxt 4 app deployed to Cloudflare
-Workers. It keeps the same archive semantics but moves the heavy lifting to the
-server:
+It lives in [`web/`](web/) as a Nuxt 4 app. The archive is bundled into the
+Worker at build time and the heavy lifting runs on the server:
 
 - **Server-side search and filtering** — `GET /api/repos` runs the search
   (name, description, topics, language, list names), the language / star-list /
-  status filters, all four sort modes and the language/status grouping on the
-  Worker, and returns one page (60 repos) plus the total, the group spans and
-  faceted counts for the sidebar. `GET /api/meta` returns the archive totals.
+  status filters, all four sort modes (most recently starred, stars, most
+  recently added, name) and the language/status grouping on the Worker, and
+  returns one page (60 repos) plus the total, the group spans and faceted counts
+  for the sidebar. `GET /api/meta` returns the archive totals.
 - **Virtual scrolling** — the grid renders only the shelves on screen
   (`@tanstack/vue-virtual`) and fetches pages on demand as you scroll, so the
   full archive never lands in the DOM at once.
 - **Shopping-style UI** — filters in a sticky left sidebar (a drawer on
-  phones), product tiles with language stickers and star "price tags", sort and
-  group in the toolbar, filter state in the URL.
-- `stars.json` is **bundled into the Worker at build time**. The Worker is
-  connected to this repository through **Workers Builds** (Cloudflare's Git
-  integration), so every push to `main` — including the daily archive commit —
-  rebuilds and redeploys it. No tokens live in GitHub.
+  phones), product tiles with language stickers and star "price tags", gone
+  repos greyed with a "gone since" stamp, sort and group in the toolbar, filter
+  state in the URL. Follows your system light/dark preference.
 
-**Live:** https://stars-archive.muffintoppings36.workers.dev
+**Deploys** through Cloudflare **Workers Builds**, which is connected to this
+repository: every push to `main` — including the daily archive commit —
+rebuilds and redeploys the Worker. No tokens live in GitHub. Build settings
+(Cloudflare dashboard → Workers & Pages → `stars-archive` → Settings → Build):
+root directory `web`, build command `pnpm build`, deploy command
+`npx wrangler deploy`, branch `main`. Node is pinned by `web/.nvmrc` and pnpm by
+`packageManager` in `web/package.json`.
 
-**Build settings** (Cloudflare dashboard → Workers & Pages → `stars-archive` →
-Settings → Build): root directory `web`, build command `pnpm build`, deploy
-command `npx wrangler deploy`, branch `main`. Node is pinned by `web/.nvmrc`
-and pnpm by `packageManager` in `web/package.json`.
-
-Locally:
+Locally (Node 22.19+):
 
 ```sh
 cd web
@@ -84,9 +55,6 @@ pnpm build      # nuxt build (cloudflare_module preset)
 pnpm preview    # wrangler dev against the built Worker
 pnpm deploy     # build + wrangler deploy by hand
 ```
-
-Node 22.19+ is required (Nuxt 4). The original single-file reader in `docs/`
-stays as-is until the Worker is live.
 
 ## Why append-only?
 
@@ -194,7 +162,7 @@ needs a token that *is* you:
 2. Save it as the repository secret **`STARS_TOKEN`**.
 3. Run *Archive Stars* (Actions → Run workflow). The log line
    `Archive updated: … N lists` confirms it; the web reader's **List** filter
-   and badges appear on the next Pages deploy.
+   and badges appear on the next deploy.
 
 Without the secret the run logs `Star lists: 0 visible to this token …` and
 keeps whatever list data was archived before.
