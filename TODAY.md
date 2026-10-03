@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-10-02 — 10 repositories_
+_2026-10-03 — 10 repositories_
 
-- **[nuejs/nue](https://github.com/nuejs/nue)** — Fastest way to build modern websites
-- **[nushell/nushell](https://github.com/nushell/nushell)** — A new type of shell
-- **[nuxt-content/nuxt-studio](https://github.com/nuxt-content/nuxt-studio)** — Edit your Markdown website, in production.
-- **[nuxt/awesome](https://github.com/nuxt/awesome)** — A curated list of awesome things related to Nuxt.js
-- **[nuxt/content](https://github.com/nuxt/content)** — The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
-- **[nuxt/framework](https://github.com/nuxt/framework)** — Old repo of Nuxt 3 framework, now on nuxt/nuxt
-- **[nuxt/nuxt](https://github.com/nuxt/nuxt)** — The full-stack Vue framework.
-- **[nvbn/thefuck](https://github.com/nvbn/thefuck)** — Magnificent app which corrects your previous console command.
-- **[nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)** — A launch point for your personal nvim configuration
-- **[nvm-sh/nvm](https://github.com/nvm-sh/nvm)** — Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
+- **[obra/superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+- **[obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas)** — An open file format for infinite canvas data.
+- **[obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)** — Community plugins list, theme list, and releases of Obsidian.
+- **[obsproject/obs-studio](https://github.com/obsproject/obs-studio)** — OBS Studio - Free and open source software for live streaming and screen recording
+- **[odoo/odoo](https://github.com/odoo/odoo)** — Odoo. Open Source Apps To Grow Your Business.
+- **[ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)** — 🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+- **[oijkn/Docker-Raspberry-PI-Monitoring](https://github.com/oijkn/Docker-Raspberry-PI-Monitoring)** — A docker-compose stack solution for monitoring host and containers with Prometheus, Grafana, cAdvisor and NodeExporter.
+- **[olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim)** — ✨ AI Coding, Vim Style
+- **[ollama/ollama](https://github.com/ollama/ollama)** — Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- **[omnivore-app/omnivore](https://github.com/omnivore-app/omnivore)** — Omnivore is a complete, open source read-it-later solution for people who like reading.
 
