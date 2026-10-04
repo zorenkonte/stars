@@ -1,6 +1,6 @@
 # ⭐ Starred Repositories Archive
 
-_Last updated 2026-10-03 — 1499 active · 22 archived._
+_Last updated 2026-10-04 — 1499 active · 22 archived._
 
 > Append-only archive. Repositories that leave GitHub (deleted, made private, renamed, or unstarred) are kept below under **Archived**, never removed.
 
@@ -67,7 +67,7 @@ _Last updated 2026-10-03 — 1499 active · 22 archived._
 - **[anomalyco/opencode](https://github.com/anomalyco/opencode)** — The open source coding agent.
 - **[n8n-io/n8n](https://github.com/n8n-io/n8n)** — Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - **[microsoft/vscode](https://github.com/microsoft/vscode)** — Visual Studio Code
-- **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** — 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
+- **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** — Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - **[langgenius/dify](https://github.com/langgenius/dify)** — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
 - **[anthropics/claude-code](https://github.com/anthropics/claude-code)** — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - **[iptv-org/iptv](https://github.com/iptv-org/iptv)** — Collection of publicly available IPTV channels from all over the world
@@ -140,8 +140,8 @@ _Last updated 2026-10-03 — 1499 active · 22 archived._
 - **[ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane)** — Vane is an AI-powered answering engine.
 - **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** — 📨 The ultimate agentic social media scheduling tool 🤖
 - **[medusajs/medusa](https://github.com/medusajs/medusa)** — The world's most flexible commerce platform for agents and developers
-- **[solidjs/solid](https://github.com/solidjs/solid)** — A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - **[continuedev/continue](https://github.com/continuedev/continue)** — open-source coding agent
+- **[solidjs/solid](https://github.com/solidjs/solid)** — A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - **[drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)** — ORM
 - **[lissy93/web-check](https://github.com/lissy93/web-check)** — 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - **[NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)** — Docker container for managing Nginx proxy hosts with a simple, powerful interface
@@ -169,8 +169,8 @@ _Last updated 2026-10-03 — 1499 active · 22 archived._
 - **[nilbuild/driver.js](https://github.com/nilbuild/driver.js)** — A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - **[anomalyco/sst](https://github.com/anomalyco/sst)** — Build full-stack apps on your own infrastructure.
 - **[NativeScript/NativeScript](https://github.com/NativeScript/NativeScript)** — ⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you name it compatible.
-- **[responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)** — A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - **[mksglu/context-mode](https://github.com/mksglu/context-mode)** — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+- **[responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)** — A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - **[dubinc/dub](https://github.com/dubinc/dub)** — The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - **[vuejs/devtools-v6](https://github.com/vuejs/devtools-v6)** — ⚙️ Browser devtools extension for debugging Vue.js applications.
 - **[nocobase/nocobase](https://github.com/nocobase/nocobase)** — NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.
@@ -443,8 +443,8 @@ _Last updated 2026-10-03 — 1499 active · 22 archived._
 - **[odoo/odoo](https://github.com/odoo/odoo)** — Odoo. Open Source Apps To Grow Your Business.
 - **[lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)** — Focus on prompting and generating
 - **[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)** — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-- **[run-llama/llama_index](https://github.com/run-llama/llama_index)** — LlamaIndex is the document processing platform for AI
 - **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+- **[run-llama/llama_index](https://github.com/run-llama/llama_index)** — LlamaIndex is the document processing platform for AI
 - **[roboflow/supervision](https://github.com/roboflow/supervision)** — We write your reusable computer vision tools. 💜
 - **[Aider-AI/aider](https://github.com/Aider-AI/aider)** — aider is AI pair programming in your terminal
 - **[exo-explore/exo](https://github.com/exo-explore/exo)** — Run frontier AI locally.
@@ -617,8 +617,8 @@ _Last updated 2026-10-03 — 1499 active · 22 archived._
 - **[JetBrains/intellij-community](https://github.com/JetBrains/intellij-community)** — IntelliJ IDEA & IntelliJ Platform
 - **[mybatis/mybatis-3](https://github.com/mybatis/mybatis-3)** — MyBatis SQL mapper framework for Java
 - **[ben-manes/caffeine](https://github.com/ben-manes/caffeine)** — A high performance caching library for Java
-- **[material-components/material-components-android](https://github.com/material-components/material-components-android)** — [MAINTENANCE MODE] Modular and customizable Material Design UI components for Android
 - **[questdb/questdb](https://github.com/questdb/questdb)** — QuestDB is a high performance, open-source, time-series database
+- **[material-components/material-components-android](https://github.com/material-components/material-components-android)** — [MAINTENANCE MODE] Modular and customizable Material Design UI components for Android
 - **[neo4j/neo4j](https://github.com/neo4j/neo4j)** — Graphs for Everyone
 - **[Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter)** — A server software reimplementation for a certain anime game.
 - **[prestodb/presto](https://github.com/prestodb/presto)** — The official home of the Presto distributed SQL query engine for big data
@@ -806,7 +806,7 @@ _Last updated 2026-10-03 — 1499 active · 22 archived._
 - **[Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines)** — Programming style, best practices, and coding conventions.
 - **[yokoffing/Betterfox](https://github.com/yokoffing/Betterfox)** — Firefox user.js for optimal privacy and security. Your favorite browser, but better.
 - **[gka/chroma.js](https://github.com/gka/chroma.js)** — JavaScript library for all kinds of color manipulations
-- **[faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js)** — UAParser.js: The Go-To User-Agent Tool for Teams That Build the Web. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser or Node
+- **[faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js)** — UAParser.js: The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser or Node
 - **[hackmdio/codimd](https://github.com/hackmdio/codimd)** — CodiMD - Realtime collaborative markdown notes on all platforms.
 - **[streamaserver/streama](https://github.com/streamaserver/streama)** — Self hosted streaming media server. https://docs.streama-project.com/
 - **[kpdecker/jsdiff](https://github.com/kpdecker/jsdiff)** — A javascript text differencing implementation.
@@ -872,8 +872,8 @@ _Last updated 2026-10-03 — 1499 active · 22 archived._
 - **[JetBrains/kotlin](https://github.com/JetBrains/kotlin)** — The Kotlin Programming Language.
 - **[lysine-dev/okhttp](https://github.com/lysine-dev/okhttp)** — A meticulous HTTP client for the JVM, Android, and GraalVM.
 - **[ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager)** — 💊 Application to use ReVanced on Android
-- **[signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)** — A private messenger for Android.
 - **[JunkFood02/Seal](https://github.com/JunkFood02/Seal)** — 🦭 Video/Audio Downloader for Android, based on yt-dlp
+- **[signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)** — A private messenger for Android.
 - **[pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder)** — 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 - **[mihonapp/mihon](https://github.com/mihonapp/mihon)** — Free and open source manga reader for Android
 - **[android/compose-samples](https://github.com/android/compose-samples)** — Official Jetpack Compose samples.
@@ -1060,8 +1060,8 @@ _Last updated 2026-10-03 — 1499 active · 22 archived._
 - **[apache/answer](https://github.com/apache/answer)** — A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - **[direnv/direnv](https://github.com/direnv/direnv)** — unclutter your .profile
 - **[mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)** — :file_folder: Universal File Storage Client
-- **[bytebase/bytebase](https://github.com/bytebase/bytebase)** — Database governance built for humans and agents — controlling changes and access across every major database.
 - **[amir20/dozzle](https://github.com/amir20/dozzle)** — Realtime log viewer for containers. Supports Docker, Swarm and K8s.
+- **[bytebase/bytebase](https://github.com/bytebase/bytebase)** — Database governance built for humans and agents — controlling changes and access across every major database.
 - **[heroiclabs/nakama](https://github.com/heroiclabs/nakama)** — Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 - **[stashapp/stash](https://github.com/stashapp/stash)** — An organizer for your porn, written in Go. Documentation: https://docs.stashapp.cc
 - **[php/frankenphp](https://github.com/php/frankenphp)** — 🧟 The modern PHP app server
@@ -1130,8 +1130,8 @@ _Last updated 2026-10-03 — 1499 active · 22 archived._
 - **[BenSampo/laravel-enum](https://github.com/BenSampo/laravel-enum)** — Simple, extensible and powerful enumeration implementation for Laravel.
 - **[antonioribeiro/countries](https://github.com/antonioribeiro/countries)** — Laravel countries and currencies
 - **[spatie/period](https://github.com/spatie/period)** — Complex period comparisons
-- **[tailflow/laravel-orion](https://github.com/tailflow/laravel-orion)** — The simplest way to create REST API with Laravel
 - **[andrii-kryvoviaz/slink](https://github.com/andrii-kryvoviaz/slink)** — Self-hosted image hosting and sharing platform with private links, collections, S3/SMB storage, OIDC SSO and ShareX support.
+- **[tailflow/laravel-orion](https://github.com/tailflow/laravel-orion)** — The simplest way to create REST API with Laravel
 - **[LaravelDaily/laravel-invoices](https://github.com/LaravelDaily/laravel-invoices)** — Laravel package to generate PDF invoices from various customizable parameters
 - **[protonemedia/laravel-splade](https://github.com/protonemedia/laravel-splade)** — 💫 The magic of Inertia.js with the simplicity of Blade 💫 - Splade provides a super easy way to build Single Page Applications (SPA) using standard Laravel Blade templates, and sparkle it to make it interactive. All without ever leaving Blade.
 - **[spatie/laravel-searchable](https://github.com/spatie/laravel-searchable)** — Pragmatically search through models and other sources
@@ -1194,7 +1194,7 @@ _Last updated 2026-10-03 — 1499 active · 22 archived._
 - **[SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)** — 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - **[kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)** — A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)** — A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
-- **[waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)** — Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
+- **[waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)** — Unlock your displays on your Mac. Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. More info - betterdisplay.pro/guide
 - **[cursor/cursor](https://github.com/cursor/cursor)** — 
 - **[linexjlin/GPTs](https://github.com/linexjlin/GPTs)** — leaked prompts of GPTs
 - **[ipfs/ipfs](https://github.com/ipfs/ipfs)** — Peer-to-peer hypermedia protocol
@@ -1245,8 +1245,8 @@ _Last updated 2026-10-03 — 1499 active · 22 archived._
 - **[rust-lang/rust](https://github.com/rust-lang/rust)** — Empowering everyone to build reliable and efficient software.
 - **[tauri-apps/tauri](https://github.com/tauri-apps/tauri)** — Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - **[denoland/deno](https://github.com/denoland/deno)** — A modern runtime for JavaScript and TypeScript.
-- **[oven-sh/bun](https://github.com/oven-sh/bun)** — Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - **[ruvnet/RuView](https://github.com/ruvnet/RuView)** — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+- **[oven-sh/bun](https://github.com/oven-sh/bun)** — Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - **[astral-sh/uv](https://github.com/astral-sh/uv)** — An extremely fast Python package and project manager, written in Rust.
 - **[rtk-ai/rtk](https://github.com/rtk-ai/rtk)** — CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - **[openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)** — A coding agent for open models like Kimi K3 and GLM 5.3

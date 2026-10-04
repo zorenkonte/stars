@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-10-03 — 10 repositories_
+_2026-10-04 — 10 repositories_
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-- **[obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas)** — An open file format for infinite canvas data.
-- **[obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)** — Community plugins list, theme list, and releases of Obsidian.
-- **[obsproject/obs-studio](https://github.com/obsproject/obs-studio)** — OBS Studio - Free and open source software for live streaming and screen recording
-- **[odoo/odoo](https://github.com/odoo/odoo)** — Odoo. Open Source Apps To Grow Your Business.
-- **[ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)** — 🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
-- **[oijkn/Docker-Raspberry-PI-Monitoring](https://github.com/oijkn/Docker-Raspberry-PI-Monitoring)** — A docker-compose stack solution for monitoring host and containers with Prometheus, Grafana, cAdvisor and NodeExporter.
-- **[olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim)** — ✨ AI Coding, Vim Style
-- **[ollama/ollama](https://github.com/ollama/ollama)** — Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-- **[omnivore-app/omnivore](https://github.com/omnivore-app/omnivore)** — Omnivore is a complete, open source read-it-later solution for people who like reading.
+- **[oobabooga/textgen](https://github.com/oobabooga/textgen)** — Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.
+- **[openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)** — The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
+- **[opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud)** — 🌤️ OpenCloud is the open source platform for file management, sharing and collaboration. Simple and sovereign.
+- **[opencontainers/image-spec](https://github.com/opencontainers/image-spec)** — OCI Image Format
+- **[opendatalab/MinerU](https://github.com/opendatalab/MinerU)** — Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
+- **[openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)** — A coding agent for open models like Kimi K3 and GLM 5.3
+- **[openjdk/jdk](https://github.com/openjdk/jdk)** — JDK main-line development https://openjdk.org/projects/jdk
+- **[openmaptiles/openmaptiles](https://github.com/openmaptiles/openmaptiles)** — OpenMapTiles Vector Tile Schema Implementation
+- **[openmediavault/openmediavault](https://github.com/openmediavault/openmediavault)** — openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices.
+- **[openrewrite/rewrite](https://github.com/openrewrite/rewrite)** — Automated mass refactoring of source code.
 
