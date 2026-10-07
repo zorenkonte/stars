@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-10-06 — 10 repositories_
+_2026-10-07 — 10 repositories_
 
-- **[pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue)** — A browser based Pokémon fangame heavily inspired by the roguelite genre.
-- **[palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)** — A library of material components for JavaFX
-- **[paper-design/shaders](https://github.com/paper-design/shaders)** — Zero-dependency canvas shaders that can be installed from npm or designed in Paper
-- **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** — A community-supported supercharged document management system: scan, index and archive all your documents
-- **[papermark/papermark](https://github.com/papermark/papermark)** — Papermark is the open-source DocSend alternative and secure data rooms with built-in analytics and custom domains.
-- **[patrykandpatrick/vico](https://github.com/patrykandpatrick/vico)** — A powerful and extensible chart library for Compose Multiplatform.
-- **[paul-hammant/tbd](https://github.com/paul-hammant/tbd)** — Source for TrunkBasedDevelopment.com
-- **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** — The design language that makes your AI harness better at design.
-- **[pbatard/rufus](https://github.com/pbatard/rufus)** — The Reliable USB Formatting Utility
-- **[perwendel/spark](https://github.com/perwendel/spark)** — A simple expressive web framework for java. Spark has a kotlin DSL https://github.com/perwendel/spark-kotlin
+- **[pgjdbc/pgjdbc](https://github.com/pgjdbc/pgjdbc)** — Postgresql JDBC Driver
+- **[pheralb/svgl](https://github.com/pheralb/svgl)** — 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
+- **[photoview/photoview](https://github.com/photoview/photoview)** — Photo gallery for self-hosted personal servers
+- **[php/frankenphp](https://github.com/php/frankenphp)** — 🧟 The modern PHP app server
+- **[phpbrew/phpbrew](https://github.com/phpbrew/phpbrew)** — Brew & manage PHP versions in pure PHP at HOME
+- **[phuocng/csslayout](https://github.com/phuocng/csslayout)** — A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
+- **[pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)** — A black hole for Internet advertisements
+- **[pingcap/tidb](https://github.com/pingcap/tidb)** — TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.
+- **[pivpn/pivpn](https://github.com/pivpn/pivpn)** — The Simplest VPN installer, designed for Raspberry Pi
+- **[playcanvas/supersplat](https://github.com/playcanvas/supersplat)** — 3D Gaussian Splat Editor
 
