@@ -1,20 +1,20 @@
 # ⭐ Starred Repositories Archive
 
-_Last updated 2026-10-07 — 1500 active · 22 archived._
+_Last updated 2026-10-08 — 1501 active · 23 archived._
 
 > Append-only archive. Repositories that leave GitHub (deleted, made private, renamed, or unstarred) are kept below under **Archived**, never removed.
 
 ## Languages
 
-- [TypeScript](#typescript) (321)
-- [Python](#python) (190)
+- [TypeScript](#typescript) (322)
+- [Python](#python) (189)
 - [Java](#java) (147)
 - [JavaScript](#javascript) (136)
-- [Kotlin](#kotlin) (134)
+- [Kotlin](#kotlin) (133)
 - [Go](#go) (81)
 - [PHP](#php) (79)
-- [Other](#other) (69)
-- [Rust](#rust) (63)
+- [Other](#other) (70)
+- [Rust](#rust) (64)
 - [C](#c) (41)
 - [C++](#c) (35)
 - [Shell](#shell) (30)
@@ -101,8 +101,8 @@ _Last updated 2026-10-07 — 1500 active · 22 archived._
 - **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** — 🎥 Make videos programmatically with React
 - **[nuxt/nuxt](https://github.com/nuxt/nuxt)** — The full-stack Vue framework.
 - **[makeplane/plane](https://github.com/makeplane/plane)** — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-- **[twentyhq/twenty](https://github.com/twentyhq/twenty)** — The open alternative to Salesforce, designed for AI.
 - **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** — Write HTML. Render video. Built for agents.
+- **[twentyhq/twenty](https://github.com/twentyhq/twenty)** — The open alternative to Salesforce, designed for AI.
 - **[laurent22/joplin](https://github.com/laurent22/joplin)** — Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - **[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)** — Build AI Agents, Visually
 - **[vuejs/core](https://github.com/vuejs/core)** — 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
@@ -130,8 +130,8 @@ _Last updated 2026-10-07 — 1500 active · 22 archived._
 - **[novuhq/novu](https://github.com/novuhq/novu)** — The open-source communication infrastructure for agents and products
 - **[videojs/video.js](https://github.com/videojs/video.js)** — Video.js v10 - open source media player framework for HTML and React.
 - **[mattermost/mattermost](https://github.com/mattermost/mattermost)** — Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
-- **[umami-software/umami](https://github.com/umami-software/umami)** — Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
 - **[Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)** — Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
+- **[umami-software/umami](https://github.com/umami-software/umami)** — Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
 - **[RSSNext/Folo](https://github.com/RSSNext/Folo)** — 🧡 Folo is the AI RSS Reader
 - **[ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)** — The headless rich text editor framework for web artisans.
 - **[directus/directus](https://github.com/directus/directus)** — The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
@@ -151,6 +151,7 @@ _Last updated 2026-10-07 — 1500 active · 22 archived._
 - **[honojs/hono](https://github.com/honojs/hono)** — Web framework built on Web Standards
 - **[hasura/graphql-engine](https://github.com/hasura/graphql-engine)** — Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - **[codex-team/editor.js](https://github.com/codex-team/editor.js)** — A block-style editor with clean JSON output
+- **[feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots)** — Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.
 - **[ianstormtaylor/slate](https://github.com/ianstormtaylor/slate)** — A completely customizable framework for building rich text editors. (Currently in beta.)
 - **[fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)** — Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - **[supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)** — Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
@@ -163,8 +164,8 @@ _Last updated 2026-10-07 — 1500 active · 22 archived._
 - **[postcss/postcss](https://github.com/postcss/postcss)** — Transforming styles with JS plugins
 - **[tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)** — Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - **[fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)** — The most advanced free and open-source browser fingerprinting library
-- **[HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)** — Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - **[invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)** — Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
+- **[HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)** — Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - **[hcengineering/platform](https://github.com/hcengineering/platform)** — Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - **[wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)** — The easiest way to run WireGuard VPN + Web-based Admin UI.
 - **[nilbuild/driver.js](https://github.com/nilbuild/driver.js)** — A lightweight, dependency-free JavaScript library for guiding user focus across the page.
@@ -214,7 +215,7 @@ _Last updated 2026-10-07 — 1500 active · 22 archived._
 - **[omnivore-app/omnivore](https://github.com/omnivore-app/omnivore)** — Omnivore is a complete, open source read-it-later solution for people who like reading.
 - **[electric-sql/pglite](https://github.com/electric-sql/pglite)** — Embeddable Postgres with real-time, reactive bindings.
 - **[apitable/apitable](https://github.com/apitable/apitable)** — 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
-- **[Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)** — Self-hosted SSH and remote desktop management.
+- **[Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)** — Self-hosted, plugin-based server management.
 - **[documenso/documenso](https://github.com/documenso/documenso)** — The Open Source DocuSign Alternative.
 - **[rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA)** — Free, Open Source, Self-Hosted WhatsApp API Gateway
 - **[midday-ai/midday](https://github.com/midday-ai/midday)** — Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
@@ -256,7 +257,7 @@ _Last updated 2026-10-07 — 1500 active · 22 archived._
 - **[missive/emoji-mart](https://github.com/missive/emoji-mart)** — 🏪 One component to pick them all
 - **[papermark/papermark](https://github.com/papermark/papermark)** — Papermark is the open-source DocSend alternative and secure data rooms with built-in analytics and custom domains.
 - **[telegraf/telegraf](https://github.com/telegraf/telegraf)** — Modern Telegram Bot Framework for Node.js
-- **[openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus)** — 🫖 Status page with uptime monitoring & API monitoring as code 🫖
+- **[openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus)** — Open-source status page, incident response and uptime monitoring
 - **[Nutlope/aicommits](https://github.com/Nutlope/aicommits)** — A CLI that writes your git commit messages for you with AI
 - **[yiminghe/async-validator](https://github.com/yiminghe/async-validator)** — validate form asynchronous
 - **[anyproto/anytype-ts](https://github.com/anyproto/anytype-ts)** — Official Anytype client for MacOS, Linux, and Windows
@@ -280,8 +281,8 @@ _Last updated 2026-10-07 — 1500 active · 22 archived._
 - **[aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)** — "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
 - **[windicss/windicss](https://github.com/windicss/windicss)** — Next generation utility-first CSS framework.
 - **[Grsmto/simplebar](https://github.com/Grsmto/simplebar)** — Custom scrollbars vanilla javascript library with native scroll, done simple, lightweight, easy to use and cross-browser.
-- **[iconify/iconify](https://github.com/iconify/iconify)** — Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 200 icon sets and ~300k icons). SVG framework, React, Vue and Svelte components!
 - **[pheralb/svgl](https://github.com/pheralb/svgl)** — 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
+- **[iconify/iconify](https://github.com/iconify/iconify)** — Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 200 icon sets and ~300k icons). SVG framework, React, Vue and Svelte components!
 - **[nat/openplayground](https://github.com/nat/openplayground)** — An LLM playground you can run on your laptop
 - **[lucaong/minisearch](https://github.com/lucaong/minisearch)** — Tiny and powerful JavaScript full-text search engine for browser and Node
 - **[zerostaticthemes/square-ui](https://github.com/zerostaticthemes/square-ui)** — Collection of beautifully crafted open-source layouts UI built with shadcn/ui.
@@ -439,11 +440,11 @@ _Last updated 2026-10-07 — 1500 active · 22 archived._
 - **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - **[deepfakes/faceswap](https://github.com/deepfakes/faceswap)** — Deepfakes Software For All
 - **[zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt)** — Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
-- **[soimort/you-get](https://github.com/soimort/you-get)** — :arrow_double_down: Dumb downloader that scrapes the web
 - **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
+- **[soimort/you-get](https://github.com/soimort/you-get)** — :arrow_double_down: Dumb downloader that scrapes the web
+- **[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)** — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - **[AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)** — CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - **[odoo/odoo](https://github.com/odoo/odoo)** — Odoo. Open Source Apps To Grow Your Business.
-- **[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)** — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 - **[lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)** — Focus on prompting and generating
 - **[run-llama/llama_index](https://github.com/run-llama/llama_index)** — LlamaIndex is the document processing platform for AI
@@ -474,9 +475,8 @@ _Last updated 2026-10-07 — 1500 active · 22 archived._
 - **[FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)** — Automate the process of making money online.
 - **[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
-- **[feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp)** — Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.
-- **[stanford-oval/storm](https://github.com/stanford-oval/storm)** — An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - **[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** — Python scraper based on AI
+- **[stanford-oval/storm](https://github.com/stanford-oval/storm)** — An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - **[iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive)** — Real-time face swap for PC streaming or video calls
 - **[facefusion/facefusion](https://github.com/facefusion/facefusion)** — Industry leading face manipulation platform
 - **[assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)** — An autonomous agent that conducts deep research on any data using any LLM providers
@@ -867,7 +867,6 @@ _Last updated 2026-10-07 — 1500 active · 22 archived._
 
 ## Kotlin
 
-- **[topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)** — The Magic Mask for Android
 - **[bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)** — 翻墙-科学上网
 - **[JetBrains/kotlin](https://github.com/JetBrains/kotlin)** — The Kotlin Programming Language.
 - **[lysine-dev/okhttp](https://github.com/lysine-dev/okhttp)** — A meticulous HTTP client for the JVM, Android, and GraalVM.
@@ -962,8 +961,8 @@ _Last updated 2026-10-07 — 1500 active · 22 archived._
 - **[JetBrains/compose-multiplatform-template](https://github.com/JetBrains/compose-multiplatform-template)** — Compose Multiplatform Application project template
 - **[svenjacobs/reveal](https://github.com/svenjacobs/reveal)** — Reveal effect (coach mark) for Compose Multiplatform targeting Android, iOS, Desktop and Web
 - **[hexagontk/hexagon](https://github.com/hexagontk/hexagon)** — ARCHIVED REPOSITORY. Hexagon is a microservices toolkit written in Kotlin. Its purpose is to ease the building of services (Web applications or APIs) that run inside a cloud platform.
-- **[saveourtool/diktat](https://github.com/saveourtool/diktat)** — Strict coding standard for Kotlin and a custom set of rules for detecting code smells, code style issues and bugs
 - **[christianrowlands/android-network-survey](https://github.com/christianrowlands/android-network-survey)** — Cellular Survey Android App
+- **[saveourtool/diktat](https://github.com/saveourtool/diktat)** — Strict coding standard for Kotlin and a custom set of rules for detecting code smells, code style issues and bugs
 - **[rive-app/rive-android](https://github.com/rive-app/rive-android)** — A runtime for interactive graphics and animations on Android
 - **[krzdabrowski/android-starter-2022](https://github.com/krzdabrowski/android-starter-2022)** — Clean Android multi-module offline-first scalable app in 2022. Including Jetpack Compose (with tests), MVI, Material 3, Kotlin coroutines/Flow, Kotlin serialization, Hilt, Room, JUnit5, Turbine, MockK, GitHub Actions, Renovate, KtLint and Detekt.
 - **[keepalivedev/KeepAlive](https://github.com/keepalivedev/KeepAlive)** — Android app to notify others if you haven't used your device in a given period of time.
@@ -1188,6 +1187,7 @@ _Last updated 2026-10-07 — 1500 active · 22 archived._
 - **[sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)** — :link: Some useful websites for programmers.
 - **[binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)** — The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - **[vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)** — 🎉 A curated list of awesome things related to Vue.js
+- **[topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)** — The Magic Mask for Android
 - **[lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)** — A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** — Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - **[akullpp/awesome-java](https://github.com/akullpp/awesome-java)** — A curated list of awesome frameworks, libraries and software for the Java programming language.
@@ -1301,6 +1301,7 @@ _Last updated 2026-10-07 — 1500 active · 22 archived._
 - **[makepad/makepad](https://github.com/makepad/makepad)** — Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - **[rivet-dev/rivet](https://github.com/rivet-dev/rivet)** — Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
 - **[build-trust/ockam](https://github.com/build-trust/ockam)** — Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
+- **[dmtrKovalenko/fframes](https://github.com/dmtrKovalenko/fframes)** — programmatic video rendering framework that is actually fast
 - **[tranxuanthang/lrclib](https://github.com/tranxuanthang/lrclib)** — LRCLIB server written in Rust with Axum and SQLite3 database
 - **[matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui)** — A TUI application for managing systemd services.
 - **[railwayapp/cli](https://github.com/railwayapp/cli)** — Railway CLI
@@ -1402,7 +1403,7 @@ _Last updated 2026-10-07 — 1500 active · 22 archived._
 - **[sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)** — Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - **[acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)** — A pure Unix shell script ACME client for SSL / TLS certificate automation
 - **[community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)** — Proxmox VE Helper-Scripts (Community Edition)
-- **[dockur/macos](https://github.com/dockur/macos)** — MacOS inside a Docker container.
+- **[dockur/macos](https://github.com/dockur/macos)** — macOS inside a Docker container.
 - **[githubnext/monaspace](https://github.com/githubnext/monaspace)** — An innovative superfamily of fonts for code
 - **[thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)** — 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - **[k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)** — 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
@@ -1728,6 +1729,7 @@ _Last updated 2026-10-07 — 1500 active · 22 archived._
 - **danny-avila/LibreChat** — Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active _(gone since 2026-09-25, last known 44795★)_
 - **feder-cr/AIHawk** — Anti-detect agentic browser: undetected browsing, browser automation, MCP server, AI web browsing agent, computer use, scraping, lead generation. No captchas. _(gone since 2026-09-23, last known 31621★)_
 - **feder-cr/Jobs_Applier_AI_Agent_AIHawk** — Open source AI job application toolkit in Python: generate a resume and cover letter tailored to each job posting, and drive a stealth browser from any AI client over MCP. _(gone since 2026-09-03, last known 30299★)_
+- **feder-cr/invisible_playwright_mcp** — Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use. _(gone since 2026-10-08, last known 31778★)_
 - **krillinai/KrillinAI** — AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTube, TikTok, Bilibili, Douyin, and more.AI视频翻译配音工具，面向人类与AI Agent，100+语言全链路，CLI分阶段调用，适配抖音、小红书、哔哩哔哩、视频号、TikTok、YouTube _(gone since 2026-09-06, last known 11342★)_
 - **lysine-dev/sqldelight** — SQLDelight - Generates typesafe Kotlin APIs from SQL _(gone since 2026-07-29, last known 6849★)_
 - **reactive-resume/app** — A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! _(gone since 2026-09-13, last known 42492★)_

@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-10-07 — 10 repositories_
+_2026-10-08 — 10 repositories_
 
-- **[pgjdbc/pgjdbc](https://github.com/pgjdbc/pgjdbc)** — Postgresql JDBC Driver
-- **[pheralb/svgl](https://github.com/pheralb/svgl)** — 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
-- **[photoview/photoview](https://github.com/photoview/photoview)** — Photo gallery for self-hosted personal servers
-- **[php/frankenphp](https://github.com/php/frankenphp)** — 🧟 The modern PHP app server
-- **[phpbrew/phpbrew](https://github.com/phpbrew/phpbrew)** — Brew & manage PHP versions in pure PHP at HOME
-- **[phuocng/csslayout](https://github.com/phuocng/csslayout)** — A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
-- **[pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)** — A black hole for Internet advertisements
-- **[pingcap/tidb](https://github.com/pingcap/tidb)** — TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.
-- **[pivpn/pivpn](https://github.com/pivpn/pivpn)** — The Simplest VPN installer, designed for Raspberry Pi
-- **[playcanvas/supersplat](https://github.com/playcanvas/supersplat)** — 3D Gaussian Splat Editor
+- **[playframework/playframework](https://github.com/playframework/playframework)** — The Community Maintained High Velocity Web Framework For Java and Scala.
+- **[plotly/dash](https://github.com/plotly/dash)** — Data Apps & Dashboards for Python. No JavaScript Required.
+- **[pnpm/pnpm](https://github.com/pnpm/pnpm)** — Fast, disk space efficient package manager
+- **[pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)** — The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
+- **[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)** — Open Source realtime backend in 1 file
+- **[podman-container-tools/podman](https://github.com/podman-container-tools/podman)** — Podman: A tool for managing OCI containers and pods.
+- **[pomber/git-history](https://github.com/pomber/git-history)** — Quickly browse the history of a file from any git repository
+- **[postcss/autoprefixer](https://github.com/postcss/autoprefixer)** — Parse CSS and add vendor prefixes to rules by Can I Use
+- **[postcss/postcss](https://github.com/postcss/postcss)** — Transforming styles with JS plugins
+- **[postgres/postgres](https://github.com/postgres/postgres)** — Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
 
