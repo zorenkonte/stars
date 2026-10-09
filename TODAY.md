@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-10-08 — 10 repositories_
+_2026-10-09 — 10 repositories_
 
-- **[playframework/playframework](https://github.com/playframework/playframework)** — The Community Maintained High Velocity Web Framework For Java and Scala.
-- **[plotly/dash](https://github.com/plotly/dash)** — Data Apps & Dashboards for Python. No JavaScript Required.
-- **[pnpm/pnpm](https://github.com/pnpm/pnpm)** — Fast, disk space efficient package manager
-- **[pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)** — The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
-- **[pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)** — Open Source realtime backend in 1 file
-- **[podman-container-tools/podman](https://github.com/podman-container-tools/podman)** — Podman: A tool for managing OCI containers and pods.
-- **[pomber/git-history](https://github.com/pomber/git-history)** — Quickly browse the history of a file from any git repository
-- **[postcss/autoprefixer](https://github.com/postcss/autoprefixer)** — Parse CSS and add vendor prefixes to rules by Can I Use
-- **[postcss/postcss](https://github.com/postcss/postcss)** — Transforming styles with JS plugins
-- **[postgres/postgres](https://github.com/postgres/postgres)** — Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
+- **[postmanlabs/httpbin](https://github.com/postmanlabs/httpbin)** — HTTP Request & Response Service, written in Python + Flask.
+- **[pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder)** — 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+- **[pqina/filepond](https://github.com/pqina/filepond)** — 🌊 A flexible and fun JavaScript file upload library
+- **[pqina/vue-filepond](https://github.com/pqina/vue-filepond)** — 🔌 A handy FilePond adapter component for Vue
+- **[practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)** — Curated list of project-based tutorials
+- **[prazzon/Flexbox-Labs](https://github.com/prazzon/Flexbox-Labs)** — A web app for creating flexible layouts with the power of CSS Flexbox.
+- **[prestodb/presto](https://github.com/prestodb/presto)** — The official home of the Presto distributed SQL query engine for big data
+- **[projectdiscovery/naabu](https://github.com/projectdiscovery/naabu)** — A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
+- **[prometheus/prometheus](https://github.com/prometheus/prometheus)** — The Prometheus monitoring system and time series database.
+- **[protonemedia/laravel-splade](https://github.com/protonemedia/laravel-splade)** — 💫 The magic of Inertia.js with the simplicity of Blade 💫 - Splade provides a super easy way to build Single Page Applications (SPA) using standard Laravel Blade templates, and sparkle it to make it interactive. All without ever leaving Blade.
 
