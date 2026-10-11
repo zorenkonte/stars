@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-10-10 — 10 repositories_
+_2026-10-11 — 10 repositories_
 
-- **[pubkey/rxdb](https://github.com/pubkey/rxdb)** — The local-first database that runs on every JS runtime and replicates with your existing backend - no vendor, no lock-in - https://rxdb.info/
-- **[public-apis/public-apis](https://github.com/public-apis/public-apis)** — A collective list of free APIs
-- **[pulsardev/vue-tour](https://github.com/pulsardev/vue-tour)** — Vue Tour is a lightweight, simple and customizable guided tour plugin for use with Vue.js. It provides a quick and easy way to guide your users through your application.
-- **[pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder)** — The simplest way to create progressive web apps across platforms and devices. Start here. This repo is home to several projects in the PWABuilder family of tools.
-- **[pxb1988/dex2jar](https://github.com/pxb1988/dex2jar)** — Tools to work with android .dex and java .class files
-- **[python-poetry/poetry](https://github.com/python-poetry/poetry)** — Python packaging and dependency management made easy
-- **[python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)** — We have made you a wrapper you can't refuse
-- **[qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent)** — qBittorrent BitTorrent client
-- **[quarkusio/quarkus](https://github.com/quarkusio/quarkus)** — Quarkus: Supersonic Subatomic Java.
-- **[quartz-scheduler/quartz](https://github.com/quartz-scheduler/quartz)** — Code for Quartz Scheduler
+- **[quasarframework/quasar](https://github.com/quasarframework/quasar)** — Quasar Framework - Build high-performance VueJS user interfaces in record time
+- **[questdb/questdb](https://github.com/questdb/questdb)** — QuestDB is a high performance, open-source, time-series database
+- **[raamcosta/compose-destinations](https://github.com/raamcosta/compose-destinations)** — Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.
+- **[radarlabs/radar-sdk-android](https://github.com/radarlabs/radar-sdk-android)** — Android SDK for Radar, the leading geofencing and location tracking platform
+- **[radarlabs/react-native-radar](https://github.com/radarlabs/react-native-radar)** — React Native module for Radar, the leading geofencing and location tracking platform
+- **[railwayapp/cli](https://github.com/railwayapp/cli)** — Railway CLI
+- **[ramda/ramda](https://github.com/ramda/ramda)** — :ram: Practical functional Javascript
+- **[rappasoft/laravel-authentication-log](https://github.com/rappasoft/laravel-authentication-log)** — Log user authentication details and send new device notifications.
+- **[raunofreiberg/interfaces](https://github.com/raunofreiberg/interfaces)** — A non-exhaustive list of details that make a good web interface.
+- **[raycast/script-commands](https://github.com/raycast/script-commands)** — Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 
