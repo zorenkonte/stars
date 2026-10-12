@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-10-11 — 10 repositories_
+_2026-10-12 — 10 repositories_
 
-- **[quasarframework/quasar](https://github.com/quasarframework/quasar)** — Quasar Framework - Build high-performance VueJS user interfaces in record time
-- **[questdb/questdb](https://github.com/questdb/questdb)** — QuestDB is a high performance, open-source, time-series database
-- **[raamcosta/compose-destinations](https://github.com/raamcosta/compose-destinations)** — Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.
-- **[radarlabs/radar-sdk-android](https://github.com/radarlabs/radar-sdk-android)** — Android SDK for Radar, the leading geofencing and location tracking platform
-- **[radarlabs/react-native-radar](https://github.com/radarlabs/react-native-radar)** — React Native module for Radar, the leading geofencing and location tracking platform
-- **[railwayapp/cli](https://github.com/railwayapp/cli)** — Railway CLI
-- **[ramda/ramda](https://github.com/ramda/ramda)** — :ram: Practical functional Javascript
-- **[rappasoft/laravel-authentication-log](https://github.com/rappasoft/laravel-authentication-log)** — Log user authentication details and send new device notifications.
-- **[raunofreiberg/interfaces](https://github.com/raunofreiberg/interfaces)** — A non-exhaustive list of details that make a good web interface.
-- **[raycast/script-commands](https://github.com/raycast/script-commands)** — Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
+- **[raysan5/raylib](https://github.com/raysan5/raylib)** — A simple and easy-to-use library to enjoy videogames programming
+- **[rclone/rclone](https://github.com/rclone/rclone)** — "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+- **[react/react](https://github.com/react/react)** — The library for web and native user interfaces.
+- **[react/react-native](https://github.com/react/react-native)** — A framework for building native applications using React
+- **[readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org)** — The source code that powers readthedocs.org
+- **[recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)** — Android app for streaming and downloading media.
+- **[red-explosion/laravel-sqids](https://github.com/red-explosion/laravel-sqids)** — Easily generate Stripe/YouTube looking IDs for your Laravel models.
+- **[refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)** — Desktop app to manage markdown knowledge bases
+- **[release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)** — Drafts your next release notes as pull requests are merged into master.
+- **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** — 🎥 Make videos programmatically with React
 

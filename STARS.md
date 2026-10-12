@@ -1,15 +1,15 @@
 # ⭐ Starred Repositories Archive
 
-_Last updated 2026-10-11 — 1501 active · 23 archived._
+_Last updated 2026-10-12 — 1501 active · 23 archived._
 
 > Append-only archive. Repositories that leave GitHub (deleted, made private, renamed, or unstarred) are kept below under **Archived**, never removed.
 
 ## Languages
 
-- [TypeScript](#typescript) (323)
+- [TypeScript](#typescript) (322)
 - [Python](#python) (189)
 - [Java](#java) (147)
-- [JavaScript](#javascript) (135)
+- [JavaScript](#javascript) (136)
 - [Kotlin](#kotlin) (134)
 - [Go](#go) (81)
 - [PHP](#php) (78)
@@ -63,8 +63,8 @@ _Last updated 2026-10-11 — 1501 active · 23 archived._
 
 - **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** — freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - **[nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)** — Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- **[vuejs/vue](https://github.com/vuejs/vue)** — This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - **[anomalyco/opencode](https://github.com/anomalyco/opencode)** — The open source coding agent.
+- **[vuejs/vue](https://github.com/vuejs/vue)** — This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - **[n8n-io/n8n](https://github.com/n8n-io/n8n)** — Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - **[microsoft/vscode](https://github.com/microsoft/vscode)** — Visual Studio Code
 - **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** — Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
@@ -84,9 +84,8 @@ _Last updated 2026-10-11 — 1501 active · 23 archived._
 - **[microsoft/playwright](https://github.com/microsoft/playwright)** — Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - **[Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)** — #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - **[storybookjs/storybook](https://github.com/storybookjs/storybook)** — Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
-- **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** — Model Context Protocol Servers
-- **[mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)** — Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)** — 🙌 OpenHands: AI-Driven Development
+- **[mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)** — Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - **[stablyai/orca](https://github.com/stablyai/orca)** — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - **[ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)** — ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.
 - **[vitejs/vite](https://github.com/vitejs/vite)** — Next generation frontend tooling. It's fast!
@@ -97,11 +96,11 @@ _Last updated 2026-10-11 — 1501 active · 23 archived._
 - **[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)** — There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - **[apache/echarts](https://github.com/apache/echarts)** — Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - **[nocodb/nocodb](https://github.com/nocodb/nocodb)** — 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
-- **[withastro/astro](https://github.com/withastro/astro)** — The web framework for content-driven websites.
 - **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** — 🎥 Make videos programmatically with React
+- **[withastro/astro](https://github.com/withastro/astro)** — The web framework for content-driven websites.
+- **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** — Write HTML. Render video. Built for agents.
 - **[nuxt/nuxt](https://github.com/nuxt/nuxt)** — The full-stack Vue framework.
 - **[makeplane/plane](https://github.com/makeplane/plane)** — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-- **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** — Write HTML. Render video. Built for agents.
 - **[twentyhq/twenty](https://github.com/twentyhq/twenty)** — The open alternative to Salesforce, designed for AI.
 - **[appwrite/appwrite](https://github.com/appwrite/appwrite)** — The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - **[laurent22/joplin](https://github.com/laurent22/joplin)** — Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
@@ -111,8 +110,8 @@ _Last updated 2026-10-11 — 1501 active · 23 archived._
 - **[CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)** — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 - **[DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)** — The repository for high quality TypeScript type definitions.
 - **[tldraw/tldraw](https://github.com/tldraw/tldraw)** — Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
-- **[TanStack/query](https://github.com/TanStack/query)** — 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - **[upscayl/upscayl](https://github.com/upscayl/upscayl)** — 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
+- **[TanStack/query](https://github.com/TanStack/query)** — 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - **[slidevjs/slidev](https://github.com/slidevjs/slidev)** — Presentation Slides for Developers
 - **[calcom/cal.diy](https://github.com/calcom/cal.diy)** — Scheduling infrastructure for absolutely everyone.
 - **[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)** — GitNexus: The Zero-Server Code Intelligence Engine
@@ -170,8 +169,8 @@ _Last updated 2026-10-11 — 1501 active · 23 archived._
 - **[hcengineering/platform](https://github.com/hcengineering/platform)** — Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - **[wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)** — The easiest way to run WireGuard VPN + Web-based Admin UI.
 - **[nilbuild/driver.js](https://github.com/nilbuild/driver.js)** — A lightweight, dependency-free JavaScript library for guiding user focus across the page.
-- **[anomalyco/sst](https://github.com/anomalyco/sst)** — Build full-stack apps on your own infrastructure.
 - **[mksglu/context-mode](https://github.com/mksglu/context-mode)** — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+- **[anomalyco/sst](https://github.com/anomalyco/sst)** — Build full-stack apps on your own infrastructure.
 - **[NativeScript/NativeScript](https://github.com/NativeScript/NativeScript)** — ⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you name it compatible.
 - **[responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)** — A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - **[dubinc/dub](https://github.com/dubinc/dub)** — The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
@@ -209,8 +208,8 @@ _Last updated 2026-10-11 — 1501 active · 23 archived._
 - **[hydralauncher/hydra](https://github.com/hydralauncher/hydra)** — Hydra Launcher is an open-source gaming platform created to be the single tool that you need
 - **[video-dev/hls.js](https://github.com/video-dev/hls.js)** — HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - **[carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)** — An emoji guide for your commit messages. 😜
-- **[stackblitz/bolt.new](https://github.com/stackblitz/bolt.new)** — Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
 - **[signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)** — A private messenger for Windows, macOS, and Linux.
+- **[stackblitz/bolt.new](https://github.com/stackblitz/bolt.new)** — Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
 - **[tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm)** — React components to build charts and dashboards
 - **[tinymce/tinymce](https://github.com/tinymce/tinymce)** — The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 - **[omnivore-app/omnivore](https://github.com/omnivore-app/omnivore)** — Omnivore is a complete, open source read-it-later solution for people who like reading.
@@ -429,8 +428,8 @@ _Last updated 2026-10-11 — 1501 active · 23 archived._
 - **[docling-project/docling](https://github.com/docling-project/docling)** — Get your documents ready for gen AI
 - **[usestrix/strix](https://github.com/usestrix/strix)** — Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - **[mem0ai/mem0](https://github.com/mem0ai/mem0)** — The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
-- **[NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)** — 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
 - **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+- **[NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)** — 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
 - **[localstack/localstack](https://github.com/localstack/localstack)** — 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - **[keras-team/keras](https://github.com/keras-team/keras)** — Deep Learning for humans
 - **[karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)** — The simplest, fastest repository for training/finetuning medium-sized GPTs.
@@ -439,10 +438,10 @@ _Last updated 2026-10-11 — 1501 active · 23 archived._
 - **[CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)** — Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - **[meta-llama/llama](https://github.com/meta-llama/llama)** — Inference code for Llama models
 - **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+- **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+- **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
 - **[deepfakes/faceswap](https://github.com/deepfakes/faceswap)** — Deepfakes Software For All
 - **[zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt)** — Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
-- **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
-- **[debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 - **[soimort/you-get](https://github.com/soimort/you-get)** — :arrow_double_down: Dumb downloader that scrapes the web
 - **[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)** — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - **[AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)** — CLI platform to experiment with codegen. Precursor to: https://lovable.dev
@@ -462,8 +461,8 @@ _Last updated 2026-10-11 — 1501 active · 23 archived._
 - **[hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI)** — Making large AI models cheaper, faster and more accessible
 - **[PostHog/posthog](https://github.com/PostHog/posthog)** — :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
 - **[frappe/erpnext](https://github.com/frappe/erpnext)** — Free and Open Source Enterprise Resource Planning (ERP)
-- **[httpie/cli](https://github.com/httpie/cli)** — 🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - **[soxoj/maigret](https://github.com/soxoj/maigret)** — 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
+- **[httpie/cli](https://github.com/httpie/cli)** — 🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - **[stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)** — DSPy: The framework for programming—not prompting—language models
 - **[khoj-ai/khoj](https://github.com/khoj-ai/khoj)** — Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 - **[satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)** — What the f*ck Python? 😱
@@ -474,8 +473,8 @@ _Last updated 2026-10-11 — 1501 active · 23 archived._
 - **[nicolargo/glances](https://github.com/nicolargo/glances)** — Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - **[Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)** — The first real AI developer
 - **[FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)** — Automate the process of making money online.
-- **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
 - **[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+- **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
 - **[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** — Python scraper based on AI
 - **[stanford-oval/storm](https://github.com/stanford-oval/storm)** — An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - **[iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive)** — Real-time face swap for PC streaming or video calls
@@ -561,8 +560,8 @@ _Last updated 2026-10-11 — 1501 active · 23 archived._
 - **[music-assistant/server](https://github.com/music-assistant/server)** — Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
 - **[spcl/graph-of-thoughts](https://github.com/spcl/graph-of-thoughts)** — Official Implementation of "Graph of Thoughts: Solving Elaborate Problems with Large Language Models"
 - **[chrieke/prettymapp](https://github.com/chrieke/prettymapp)** — 🖼️ Create beautiful maps from OpenStreetMap data in a streamlit webapp
-- **[friuns2/Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs)** — Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.
 - **[roboflow/inference](https://github.com/roboflow/inference)** — Turn any computer or edge device into a command center for your computer vision projects.
+- **[friuns2/Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs)** — Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.
 - **[daya0576/beaverhabits](https://github.com/daya0576/beaverhabits)** — A self-hosted habit tracking app without "Goals"
 - **[OpenAdaptAI/OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt)** — Compiles a demonstrated GUI task into a program that reports VERIFIED only if an independent check agrees. pip install openadapt; openadapt flow tutorial. Compiler lives in openadapt-flow.
 - **[globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software)** — GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
@@ -738,6 +737,7 @@ _Last updated 2026-10-11 — 1501 active · 23 archived._
 - **[axios/axios](https://github.com/axios/axios)** — Promise based HTTP client for the browser and node.js
 - **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
 - **[microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)** — 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** — Model Context Protocol Servers
 - **[sveltejs/svelte](https://github.com/sveltejs/svelte)** — web development for the rest of us
 - **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** — The design language that makes your AI harness better at design.
 - **[FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)** — The iconic SVG, font, and CSS toolkit
@@ -773,8 +773,8 @@ _Last updated 2026-10-11 — 1501 active · 23 archived._
 - **[wwebjs/whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js)** — A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - **[gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile)** — Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - **[localtunnel/localtunnel](https://github.com/localtunnel/localtunnel)** — expose yourself
-- **[postcss/autoprefixer](https://github.com/postcss/autoprefixer)** — Parse CSS and add vendor prefixes to rules by Can I Use
 - **[tabler/tabler-icons](https://github.com/tabler/tabler-icons)** — A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- **[postcss/autoprefixer](https://github.com/postcss/autoprefixer)** — Parse CSS and add vendor prefixes to rules by Can I Use
 - **[MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)** — Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 - **[krisk/Fuse](https://github.com/krisk/Fuse)** — Lightweight fuzzy-search, in JavaScript
 - **[dailydotdev/daily](https://github.com/dailydotdev/daily)** — daily.dev is the personalized developer news feed and community. Get the best tech content from all over the web in your browser new tab or on mobile. Free and open source.
@@ -1293,8 +1293,8 @@ _Last updated 2026-10-11 — 1501 active · 23 archived._
 - **[n0-computer/iroh](https://github.com/n0-computer/iroh)** — IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 - **[Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)** — A spotify daemon
 - **[BloopAI/bloop](https://github.com/BloopAI/bloop)** — bloop is a fast code search engine written in Rust.
-- **[BoundaryML/baml](https://github.com/BoundaryML/baml)** — The programming language for agents
 - **[Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)** — Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
+- **[BoundaryML/baml](https://github.com/BoundaryML/baml)** — The programming language for agents
 - **[wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio)** — A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
 - **[warp-tech/warpgate](https://github.com/warp-tech/warpgate)** — Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn't need additional client-side software
 - **[makepad/makepad](https://github.com/makepad/makepad)** — Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
