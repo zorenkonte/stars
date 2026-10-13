@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-10-12 — 10 repositories_
+_2026-10-13 — 10 repositories_
 
-- **[raysan5/raylib](https://github.com/raysan5/raylib)** — A simple and easy-to-use library to enjoy videogames programming
-- **[rclone/rclone](https://github.com/rclone/rclone)** — "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-- **[react/react](https://github.com/react/react)** — The library for web and native user interfaces.
-- **[react/react-native](https://github.com/react/react-native)** — A framework for building native applications using React
-- **[readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org)** — The source code that powers readthedocs.org
-- **[recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)** — Android app for streaming and downloading media.
-- **[red-explosion/laravel-sqids](https://github.com/red-explosion/laravel-sqids)** — Easily generate Stripe/YouTube looking IDs for your Laravel models.
-- **[refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)** — Desktop app to manage markdown knowledge bases
-- **[release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)** — Drafts your next release notes as pull requests are merged into master.
-- **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** — 🎥 Make videos programmatically with React
+- **[remvze/moodist](https://github.com/remvze/moodist)** — Ambient sounds for focus and calm.
+- **[rendercv/rendercv](https://github.com/rendercv/rendercv)** — Resume builder for academics and engineers
+- **[reorproject/reor](https://github.com/reorproject/reor)** — Private & local AI personal knowledge management app for high entropy people.
+- **[requarks/wiki](https://github.com/requarks/wiki)** — Wiki.js | Next Generation Open Source Wiki
+- **[resgateio/resgate](https://github.com/resgateio/resgate)** — A Realtime API Gateway used with NATS to build REST, real time, and RPC APIs, where all your clients are synchronized seamlessly.
+- **[respawn-llc/FlowMVI](https://github.com/respawn-llc/FlowMVI)** — Architecture Framework for Kotlin. Reuse every line of code. Handle all errors automatically. No boilerplate. Build features in minutes. Analytics, metrics, debugging in 3 lines of code. Make all code thread-safe. 50+ features.
+- **[responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)** — A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
+- **[rickclephas/KMP-NativeCoroutines](https://github.com/rickclephas/KMP-NativeCoroutines)** — Library to use Kotlin Coroutines from Swift code in KMP apps
+- **[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)** — A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- **[rive-app/rive-android](https://github.com/rive-app/rive-android)** — A runtime for interactive graphics and animations on Android
 
