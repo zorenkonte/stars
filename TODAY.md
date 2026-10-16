@@ -1,15 +1,15 @@
 # 📅 Today's Repos to Review
 
-_2026-10-15 — 10 repositories_
+_2026-10-16 — 10 repositories_
 
-- **[ron190/jsql-injection](https://github.com/ron190/jsql-injection)** — jSQL Injection is a Java application for automatic SQL database injection.
-- **[rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)** — List of projects that provide terminal user interfaces
-- **[rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)** — record and replay the web
-- **[rsocket/rsocket-java](https://github.com/rsocket/rsocket-java)** — Java implementation of RSocket
-- **[rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI)** — A single Gradio + React WebUI with extensions for ACE-Step, OmniVoice, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, MusicGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, and Bark!
-- **[rtk-ai/rtk](https://github.com/rtk-ai/rtk)** — CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- **[rudrodip/rdsx.dev](https://github.com/rudrodip/rdsx.dev)** — minimal portfolio made with next.js and tailwindcss, has dynamic mdx content such as blogs & rss feed support
-- **[run-llama/liteparse](https://github.com/run-llama/liteparse)** — A fast, helpful, and open-source document parser
-- **[run-llama/llama_index](https://github.com/run-llama/llama_index)** — LlamaIndex is the document processing platform for AI
-- **[run-llama/rags](https://github.com/run-llama/rags)** — Build ChatGPT over your data, all with natural language
+- **[rust-lang/rust](https://github.com/rust-lang/rust)** — Empowering everyone to build reliable and efficient software.
+- **[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)** — An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+- **[ruvnet/RuView](https://github.com/ruvnet/RuView)** — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+- **[rxtx/rxtx](https://github.com/rxtx/rxtx)** — rxtx - a Java cross platform wrapper library for the serial port
+- **[rybbit-io/rybbit](https://github.com/rybbit-io/rybbit)** — 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
+- **[sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery)** — A customizable, modular, responsive, lightbox gallery plugin.
+- **[safrazik/vue-file-agent](https://github.com/safrazik/vue-file-agent)** — The most beautiful and full featured file upload component for Vue JS
+- **[saket/telephoto](https://github.com/saket/telephoto)** — Building blocks for designing media experiences in Compose UI
+- **[sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart)** — :octocat: Generate an image of all your Github contributions
+- **[sampotts/plyr](https://github.com/sampotts/plyr)** — Deprecated in favour of Video.js 10; security updates only. Simple HTML5, YouTube and Vimeo player.
 
