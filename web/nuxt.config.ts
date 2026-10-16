@@ -1,18 +1,8 @@
-// Stars Archive web reader — Nuxt 4 on Cloudflare Workers.
-// The archive (../stars.json) is bundled into the server at build time; the
-// deploy workflow rebuilds whenever the daily archive commit lands.
+// Stars Archive web reader — Nuxt 4, self-hosted (Nitro node-server preset).
+// Reads the archive from Postgres (DATABASE_URL); see ../docker-compose.yml.
 export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
   devtools: { enabled: false },
-  modules: ['nitro-cloudflare-dev'],
-  nitro: {
-    preset: 'cloudflare_module',
-    cloudflare: {
-      // wrangler.jsonc is hand-maintained; don't let Nitro generate one.
-      deployConfig: false,
-      nodeCompat: true,
-    },
-  },
   css: ['~/assets/css/main.css'],
   // Components are grouped in folders by feature; register them by file name only.
   components: [{ path: '~/components', pathPrefix: false }],
@@ -23,6 +13,7 @@ export default defineNuxtConfig({
       meta: [
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
         { name: 'color-scheme', content: 'light dark' },
+        { name: 'robots', content: 'noindex, nofollow' },
         { name: 'description', content: 'A browsable, append-only archive of starred GitHub repositories.' },
       ],
       link: [
@@ -34,8 +25,8 @@ export default defineNuxtConfig({
     },
   },
   routeRules: {
-    // Search results are deterministic for a given build; let the edge hold them briefly.
-    '/api/**': { headers: { 'cache-control': 'public, max-age=60, stale-while-revalidate=300' } },
+    // The archive changes once a day; let browsers hold API answers briefly.
+    '/api/**': { headers: { 'cache-control': 'private, max-age=30' } },
   },
   typescript: { strict: true },
 })

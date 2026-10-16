@@ -1,8 +1,8 @@
 import { getArchive } from '../utils/archive'
 import type { Facet, MetaResponse } from '~~/shared/types'
 
-export default defineEventHandler((): MetaResponse => {
-  const archive = getArchive()
+export default defineEventHandler(async (): Promise<MetaResponse> => {
+  const archive = await getArchive()
   const listCounts = new Map<string, number>()
   let notInAnyList = 0
   for (const r of archive.repos) {

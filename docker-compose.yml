@@ -1,0 +1,65 @@
+# Stars Archive, self-hosted. Three containers:
+#   db        Postgres, the queryable mirror of the archive
+#   archiver  nightly GitHub fetch -> append-only stars.json (volume) -> Postgres
+#   web       the Nuxt reader, http://<host>:${WEB_PORT:-3000}
+# Copy .env.example to .env first. Nothing here is exposed beyond the host port.
+
+services:
+  db:
+    image: postgres:17-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: stars
+      POSTGRES_USER: stars
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?set POSTGRES_PASSWORD in .env}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./db/schema.sql:/docker-entrypoint-initdb.d/10-schema.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U stars -d stars"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  archiver:
+    build:
+      context: .
+      dockerfile: scripts/Dockerfile
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      TZ: ${TZ:-Asia/Manila}
+      ARCHIVE_AT: ${ARCHIVE_AT:-08:07}
+      RUN_ON_START: ${RUN_ON_START:-true}
+      STARS_USERNAME: ${STARS_USERNAME:?set STARS_USERNAME in .env}
+      STARS_TOKEN: ${STARS_TOKEN:-}
+      USE_AUTH_USER: ${USE_AUTH_USER:-}
+      DAILY_COUNT: ${DAILY_COUNT:-10}
+      DATABASE_URL: postgres://stars:${POSTGRES_PASSWORD}@db:5432/stars
+    volumes:
+      - archive:/data
+      # One-time seed so the ledger keeps its history when the volume is new.
+      - ./stars.json:/seed/stars.json:ro
+
+  web:
+    build: ./web
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: postgres://stars:${POSTGRES_PASSWORD}@db:5432/stars
+    ports:
+      - "${WEB_BIND:-0.0.0.0}:${WEB_PORT:-3000}:3000"
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://127.0.0.1:3000/api/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 5
+      start_period: 20s
+
+volumes:
+  pgdata:
+  archive:

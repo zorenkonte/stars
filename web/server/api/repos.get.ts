@@ -1,7 +1,7 @@
 import { getArchive } from '../utils/archive'
 import { parseReposQuery, runReposQuery } from '../utils/query'
 
-export default defineEventHandler((event) => {
+export default defineEventHandler(async (event) => {
   const query = parseReposQuery(getQuery(event))
-  return runReposQuery(getArchive(), query)
+  return runReposQuery(await getArchive(), query)
 })
